@@ -1,0 +1,25 @@
+body {
+  }
+
+.content {
+  max-width: 1024px;
+  margin: auto;
+  padding-top: 1em;
+  }
+
+.header {
+  background-color: yellow;
+  border: double black;
+  }
+
+.left-col {
+  background-color: red;
+  }
+
+.main-col {
+  background-color: green;
+  }
+
+.right-col {
+  background-color: blue;
+  }
