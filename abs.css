@@ -35,6 +35,12 @@ body {
 .main-link-inner h1 {
   margin: 0;
   font-style: italic;
+  font-size: 2rem;
+}
+@media screen and (min-width:48em) {
+  .main-link-inner h1 {
+    font-size: 3rem;
+  }
 }
 
 #main {
