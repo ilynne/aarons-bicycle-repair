@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-image: url("images/internalhubbackground.jpg");
+  }
+
+.content {
+  max-width: 1024px;
+  margin: auto;
+  padding-top: 1em;
+  }
+
+.header {
+  background-color: yellow;
+  border: double black;
+  }
+#main-links {
+  text-align: center;
+}
+#main-links div {
+}
+.main-link-outer {
+  position: relative;
+  height: 72px;
+}
+.main-link-inner {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.main-link-inner h1 {
+  margin: 0;
+  font-style: italic;
+  font-size: 3em;
+}
+
+#main {
+  background-color: white;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+.left-col, .main-col, .right-col {
+  }
+
+.col-content {
+  margin-top: 1em;
+  text-align: center;
+}
+.left-col .col-content {
+  margin-right: 1em;
+}
+.main-col .col-content {
+}
+.right-col .col-content {
+  margin-left: 1em;
+}
+
+p:first-of-type, h1:first-of-type, h2:first-of-type {
+  margin-top: 0;
+}
+
+.group {
+  margin: 1em 0;
+}
+
+.group p {
+  margin: 0;
+}
