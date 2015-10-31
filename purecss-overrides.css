@@ -1,0 +1,10 @@
+.pure-menu-children {
+  background-color: yellow;
+}
+.pure-menu-link:hover, pure-menu-link:focus {
+  background-color: yellow;
+  color: black;
+}
+.pure-menu-selected {
+  color: black;
+}

@@ -1,4 +1,8 @@
+* {
+  box-sizing: border-box;
+}
 body {
+  background-image: url("images/internalhubbackground.jpg");
   }
 
 .content {
@@ -11,15 +15,37 @@ body {
   background-color: yellow;
   border: double black;
   }
-
-.left-col {
-  background-color: red;
+#main-links {
+  text-align: center;
+}
+#main-links div {
+}
+.main-link-outer {
+  position: relative;
+  height: 72px;
+}
+.main-link-inner {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.main-link-inner h1 {
+  margin: 0;
+  font-style: italic;
+  font-size: 3em;
+}
+.left-col, .main-col, .right-col {
+  background-color: rgba(255, 255, 255, 0.75);
   }
 
-.main-col {
-  background-color: green;
-  }
-
-.right-col {
-  background-color: blue;
-  }
+.col-content {
+  background-color: rgba(0, 0, 0, 0.2); 
+}
+.left-col .col-content {
+}
+.main-col .col-content {
+  margin-right: 1em;
+  margin-left: 1em;
+}
+.right-col .col-content {
+}
