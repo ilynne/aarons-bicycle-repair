@@ -8,3 +8,7 @@
 .pure-menu-selected {
   color: black;
 }
+figure {
+  margin: 1em 0;
+}
+

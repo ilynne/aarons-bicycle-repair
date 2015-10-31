@@ -34,18 +34,38 @@ body {
   font-style: italic;
   font-size: 3em;
 }
+
+#main {
+  background-color: white;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-left: 1px solid #eee;
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
 .left-col, .main-col, .right-col {
-  background-color: rgba(255, 255, 255, 0.75);
   }
 
 .col-content {
-  background-color: rgba(0, 0, 0, 0.2); 
+  margin-top: 1em;
+  text-align: center;
 }
 .left-col .col-content {
+  margin-right: 1em;
 }
 .main-col .col-content {
-  margin-right: 1em;
-  margin-left: 1em;
 }
 .right-col .col-content {
+  margin-left: 1em;
+}
+
+p:first-of-type, h1:first-of-type, h2:first-of-type {
+  margin-top: 0;
+}
+
+.group {
+  margin: 1em 0;
+}
+
+.group p {
+  margin: 0;
 }
