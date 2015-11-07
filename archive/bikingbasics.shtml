@@ -1,0 +1,55 @@
+<HTML>
+<HEAD>
+<TITLE>Biking Basics</TITLE>
+</HEAD>
+<BODY bgcolor="yellow">
+<center>
+
+<!--#include virtual="/menu.inc"-->
+
+<h2><P>Biking Basics</h2>
+<FONT FACE="Arial">
+
+<P><B><I>Listed in order
+of importance!</B></I>
+
+<FONT SIZE=4>
+<p>Helmet
+<br>Eyewear
+<br>Lock
+<br>Water Bottle &amp; Cage
+<br>Slime
+<br>Pump
+<br>Spare Tube
+<br>Tire Levers
+<br>Patch Kit
+<br>Multi-Tool
+<br>Seat Bag
+<br><A Href ="lights.shtml">Lights</A>
+<br>Reflector Set
+<br>Fenders
+<br>Kickstand
+<br>Floor Pump
+</FONT>
+
+
+<P><B><I>Additonal Items to improve comfort and enjoyment :</B></I>
+
+<FONT SIZE=4>
+<p>Gloves
+<br>Cycling Shorts
+<br>Handlebar Ends (for bikes with straight bars)
+<br>Aero Bars (for road bikes)
+<br>Bike Computer (odometer, clock, speed, etc)
+<br>Rear Rack
+<br>Saddle Bags (Panniers)
+<br><A Href ="shoes.shtml">Cycling Shoes</A>
+<br>Clipless Pedals
+
+</FONT>
+
+
+<P>
+</FONT>
+</BODY>
+</HTML>

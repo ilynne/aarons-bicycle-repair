@@ -1,0 +1,83 @@
+<HTML>
+<HEAD>
+
+<TITLE>Bike to Work Day</TITLE>
+
+<META NAME="description" CONTENT="Map and Aerial Photo of Aaron's Bicycle Repair">
+
+</HEAD>
+
+<BODY BGCOLOR="yellow">
+<center>
+
+<!--#include virtual="/menu.inc"-->
+
+
+
+<H1>West Seattle Bike To Work Day Station</H1>
+<P><B>sponsored by Aaron's Bicycle Repair
+
+<P>Always on a Friday in Mid-May (usually the 3rd Friday).
+<BR> 6:00 TO 9:00 AM
+
+<P><font color="red">EVERYDAY can be Bike to Work Day!</font>
+<BR>ABR always sponsors the West Seattle Bike To Work Day Station.
+<P>See you every year in mid-May under the West Seattle Bridge.
+
+<P><A HREF="btwdpics.shtml" >2002 BTWD Pics</A>
+<br><A HREF="btwdpics2003.shtml" >2003 BTWD Pics</A>
+<br><A HREF="btwdpics2004.shtml" >2004 BTWD Pics</A>
+<br><A HREF="btwdpics2005.shtml" >2005 BTWD Pics</A>
+
+
+<P>For more info see the official <A Href="http://www.biketoworkday.org" >BTWD website</A> or <A Href="http://www.bikemonth.com" >Bike Month</A>.
+
+
+<Table>
+<TR>
+
+<TD>
+<IMG SRC="images/gypsieonbike.jpg" WIDTH="500" HEIGHT="300" VSPACE="20" HSPACE="20">
+</TD>
+
+</TR>
+</Table>
+
+
+<P><FORM METHOD="POST" ACTION="http://www.qwestdex.com/cgi/search.fcg" >
+<INPUT TYPE=HIDDEN NAME=ADDR_DESTINATION VALUE="1600 SW Spokane Street" SIZE=20 MAXLENGTH=30>
+<INPUT TYPE=HIDDEN NAME=CITY_DESTINATION VALUE="Seattle" SIZE=20 MAXLENGTH=30>
+<INPUT TYPE=HIDDEN NAME=STATE_DESTINATION VALUE="WA" SIZE=6 MAXLENGTH=2>
+
+
+<I>Get Directions:</I>
+
+                <INPUT TYPE=HIDDEN NAME="mq" VALUE="trip">
+                <INPUT TYPE=HIDDEN NAME="client" VALUE="10006">
+                <INPUT TYPE=HIDDEN NAME="var1" VALUE="">
+                <INPUT TYPE=HIDDEN NAME="var2" VALUE="1630">
+                <INPUT TYPE=HIDDEN NAME="var3" VALUE="">
+                <INPUT TYPE=HIDDEN NAME="var4" VALUE="">
+                <INPUT TYPE=HIDDEN NAME="var5" VALUE="">
+                <INPUT TYPE=HIDDEN NAME="from" VALUE="">
+                <INPUT TYPE=HIDDEN NAME="NAME" VALUE="">
+                <INPUT TYPE=HIDDEN  NAME="quest_mode" VALUE="trek"> 
+<Table>
+<TD> Street Address <TD> City <TD> State <TR>
+<TD> <INPUT TYPE=TEXT NAME="ADDR_ORIGIN" VALUE="" size="37"> 
+<TD> <INPUT TYPE=TEXT NAME="CITY_ORIGIN" VALUE="Seattle" size="32"> 
+<TD> <INPUT TYPE=TEXT NAME="STATE_ORIGIN" VALUE="WA" size="4"> 
+</TABLE>
+<input type=submit value="Get Directions">
+<input type=reset value="Reset"><BR>
+
+</FORM> 
+
+
+
+<P><IMG SRC="images/btwdmap.jpg" WIDTH="500" HEIGHT="350" VSPACE="20" HSPACE="20">
+
+<P><center><H2><B>[<A HREF="home.shtml" >Home</A>]</B></H2>
+</FONT>
+</BODY>
+</HTML>

@@ -1,0 +1,37 @@
+<HTML>
+<HEAD>
+
+<TITLE>Dead Baby Bikes</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="black">
+
+<center>
+
+
+<!--#include virtual="/menu.inc"-->
+
+<H2><Font Color ="red">Dead Baby Bikes</font></H2>
+
+
+<Font Color ="white">
+<P><B><A HREF="http://www.deadbabybikes.org" target=right>Official Website</A>
+
+<P>December 2<sup>nd</sup>, 2005 Ride
+<P><IMG SRC="images/DBB/1.jpg" VSPACE="5">
+<BR><IMG SRC="images/DBB/2.jpg" VSPACE="5">
+<BR><IMG SRC="images/DBB/3.jpg" VSPACE="5">
+<BR><IMG SRC="images/DBB/4.jpg" VSPACE="5">
+<BR><IMG SRC="images/DBB/5.jpg" VSPACE="5">
+<BR><IMG SRC="images/DBB/6.jpg" VSPACE="5">
+<BR><IMG SRC="images/DBB/7.jpg" VSPACE="5">
+<BR><IMG SRC="images/DBB/8.jpg" VSPACE="5">
+<BR><IMG SRC="images/DBB/9.jpg" VSPACE="5">
+<BR><IMG SRC="images/DBB/10.jpg" VSPACE="5">
+
+<P><H2>[<A HREF="home.shtml">Home</A>]</H2>
+
+</font>
+</BODY>
+</HTML>

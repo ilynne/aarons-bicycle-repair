@@ -1,0 +1,37 @@
+<HTML>
+<HEAD>
+
+<TITLE>Layaway Plan</TITLE>
+
+<meta NAME="Description" CONTENT="Aaron's Bicycle Repair Layaway Plan">
+
+</HEAD>
+
+<BODY BGCOLOR="yellow">
+
+
+<!--#include virtual="/menu.inc"-->
+
+
+<H1><B>Aaron's Bicycle Repair -- Layaway Plan</B></H1>
+
+<P><H3>For a deposit of 50% we will put your bike/frame/special order on layaway and give you 3 months to pay. Please note that all deposits are NON-REFUNDABLE! If you do not pay on time, then your bike will be sold and you will not get a refund! This plan is only for serious buyers and not intended to hold a bike while you shop around. 
+
+<P>We also accept:</H3>
+
+<table>
+<tr>
+<td>
+
+<IMG SRC="images/visamc.jpeg" WIDTH="125" HEIGHT="118">
+</td>
+<td>
+<IMG SRC="images/oldbike.gif" WIDTH="240" HEIGHT="160" HSPACE="150">
+</td>
+</tr>
+</table>
+
+</FONT>
+</BODY>
+</HTML>
+

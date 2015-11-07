@@ -1,0 +1,41 @@
+<HTML>
+<HEAD>
+
+<TITLE>Gabe</TITLE>
+</HEAD>
+
+<body BGCOLOR="yellow">
+<center>
+
+<!--#include virtual="/menu.inc"-->
+
+
+<P><img src="images/staff/currentgabe.jpg">
+
+
+<P><H2>Gabriel Shalitmontagne</H2>
+<table>
+<tr>
+<td>
+
+<P><B>Status: Single
+<P>Rides: <Font color=blue> Black Surly Karate Monkey</font>
+<P>Commute to work: <Font color=blue>4</font>
+<P>Favorite bike part: <Font color=blue>Chain</font>
+<P>Favorite animal: <Font color=blue>Cats</font>
+<P>Favorite food: <Font color=blue>Burrito</font>
+<P>Worst ride moment: <Font color=blue>When my front wheel broke off.</font>
+<P>Best ride moment: <Font color=blue>Riding the canal in Freemont in the summer early AM.</font>
+</td>
+</tr>
+</table>
+
+<P Align=justify><B>Born and raised in Seattle. Gabriel lived in Hawaii for some months working on organic farms, dealing mostly with Kona coffee and lettuce. With a strong passion for fermentation, bicycles, and climbing he keeps himself busy. When not working at the shop he can be found riding his bicycle around Seattle, climbing something, or watching yeast cultivate. He can often be bribed into doing a backflip or two.
+He would like to slow his other activities to focus on bicycle mechanics for the time being.
+
+</BODY>
+</HTML>
+
+
+
+ 

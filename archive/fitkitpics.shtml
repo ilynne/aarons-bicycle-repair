@@ -1,0 +1,97 @@
+<HTML>
+<HEAD>
+
+
+<TITLE>Fit Kit Measurements</TITLE>
+<META NAME="keywords" CONTENT="bike, fit, fit kit, bicycle, size, ride, riding, comfort, aaron, aaron's, bicycle, repair, staff, employee, employees, mechanics, people">
+<META NAME="description" CONTENT="Bike Fit at Aaron's Bicycle Repair">
+</HEAD>
+
+<BODY BGCOLOR="yellow">
+
+<CENTER>
+
+
+<!--#include virtual="/menu.inc"-->
+
+<H2>Taking Body Measurements</H2>
+
+
+<TABLE BORDER=0>
+
+
+
+<TR>
+<TD><IMG SRC="images/fitkit/fitarea.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=452></TD>
+<TD><IMG SRC="images/fitkit/hand.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=452></TD>
+</TR>
+
+</TR>
+<TR>
+<TD><B><CENTER>Fitting Station</B></TD>
+<TD> <B><CENTER>Hand Size</TD>
+</TR>
+
+<TR>
+ <TD><H3><font color="yellow">SPACER</font></H3></TD>
+ <TD><H3><font color="yellow">SPACER</font></H3></TD>
+</TR>
+
+
+
+
+<TR>
+<TD><IMG SRC="images/fitkit/foot.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=452></TD>
+<TD><IMG SRC="images/fitkit/inseam.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=452></TD>
+</TR>
+
+</TR>
+<TR>
+<TD><B><CENTER>Foot Length</B></TD>
+<TD> <B><CENTER>Inseam</TD>
+</TR>
+
+<TR>
+ <TD><H3><font color="yellow">SPACER</font></H3></TD>
+ <TD><H3><font color="yellow">SPACER</font></H3></TD>
+</TR>
+
+
+
+
+<TR>
+<TD><IMG SRC="images/fitkit/torso.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=452></TD>
+<TD><IMG SRC="images/fitkit/thigh.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=452></TD>
+</TR>
+
+</TR>
+<TR>
+<TD><B><CENTER>Torso Length</B></TD>
+<TD> <B><CENTER>Thigh Length</TD>
+</TR>
+
+<TR>
+ <TD><H3><font color="yellow">SPACER</font></H3></TD>
+ <TD><H3><font color="yellow">SPACER</font></H3></TD>
+</TR>
+
+
+
+<TR>
+<TD><IMG SRC="images/fitkit/arm.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=452></TD>
+<TD><IMG SRC="images/fitkit/shoulder.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=452></TD>
+</TR>
+
+</TR>
+<TR>
+<TD><B><CENTER>Arm Length</B></TD>
+<TD> <B><CENTER>Shoulder Width</TD>
+</TR>
+
+
+
+
+</TABLE>
+
+</BODY>
+</HTML>

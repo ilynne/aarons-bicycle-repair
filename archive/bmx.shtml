@@ -1,0 +1,91 @@
+<HTML>
+<HEAD>
+
+   <META NAME="keywords" CONTENT="bicycles, bmx, dirt jumping, vert, ramp, x-games, street, freestyle, grinding, grindin, ride, snap, bikes, rail riding">
+   
+<TITLE>BMX @ ABR</TITLE>
+</HEAD>
+
+<BODY background="images/bmxbackground.jpg">
+
+<!--#include virtual="/menu.inc"-->
+
+<p><center><B><FONT COLOR="red" SIZE=+4>B M X @ A B R</FONT></B>
+<P><BR>
+<TABLE>
+<tr>
+<td>
+
+<TABLE BORDER=3 bordercolor="red">
+<TR>
+
+<TH colspan = 3><H1>PARTS</H1></TH>
+<TR><TD><center>
+<B>
+<P><A HREF ="http://harobikes.com/" ><IMG SRC="images/haro.gif"  HEIGHT=50 WIDTH=113 BORDER=0></A>   
+
+<P><A HREF ="http://www.odysseybmx.com/" ><IMG SRC="images/odyssey.gif"  HEIGHT=50 WIDTH=75 BORDER=0></A>
+<P>WE STOCK MANY PARTS AND CAN ORDER ANYTHING!
+</TD>
+<TD><center>
+<B>
+<P><A HREF ="http://www.redlinebicycles.com" ><IMG SRC="images/redline.gif"  HEIGHT=50 WIDTH=137 BORDER=0></A>
+<P><A HREF ="http://www.kinkbmx.com/" ><IMG SRC="images/kink.gif"  HEIGHT=50 WIDTH=146 BORDER=0></A>
+</TD>
+<TD><IMG SRC="images/staff/gusmohawk.jpg" ></TD>
+
+</TR>
+</TABLE>
+
+</td>
+
+
+
+<td>
+
+<TABLE BORDER=3 bordercolor="red">
+<TR>
+
+<TH colspan = 2><H1>BIKES</H1></TH>
+
+<TR>
+<TD><center>
+<B><FONT COLOR="blue" SIZE=+3>
+<P><A HREF ="http://www.harobikes.com" >Haro</A>   
+<P><A HREF ="http://www.raleighusa.com" >Raleigh</A> 
+<P><A HREF ="http://www.torkerusa.com" >Torker</A>
+</Font></B>
+</TD>
+
+<TD><center><IMG SRC="images/punkrock.jpg"  HEIGHT=330 WIDTH=238  ALT="Punker Aaron"><BR><FONT SIZE=+2><B>Aaron in 1984</B></Font></TD>
+
+</TR>
+</table>
+
+</td>
+</TR>
+</TABLE>
+
+<P><H2><A HREF="newsletter2000.shtml#BMX">BMX News!</A></H2>
+
+<table>
+<TR>
+
+<TD><center><H3>OTHER COOL LINKS:<BR><A HREF ="http://www.bmxmuseum.com" >BMX Museum</A></H3><A HREF ="http://www.primo-usa.com" ><IMG SRC="images/primo.gif" ALIGN=TOP  HEIGHT=163 WIDTH=147 border=0></A>
+<A HREF ="http://www.woodwardcamp.com" ><IMG SRC="images/woodward.gif" ALIGN=TOP HSPACE= 20 HEIGHT=223 WIDTH=150 border=0></A></TD>
+
+
+<TD>
+<center><IMG SRC="images/bmxparts.jpg"  HEIGHT=300 WIDTH=400 >
+</TD>
+
+</TR>
+</Table>
+
+
+<Center><P><H2><B>[<A HREF="home.shtml" >Home</A>]</B></H2
+
+</BODY>
+</HTML>
+
+ 

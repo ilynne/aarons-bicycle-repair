@@ -1,0 +1,27 @@
+<HTML>
+  <HEAD>
+   
+  <TITLE>Bicycle Repair Classes</TITLE>
+  </HEAD>
+  <BODY BGCOLOR="yellow">
+
+
+<!--#include virtual="/menu.inc"-->
+
+
+<P ><H3>We are not currently offering repair classes</H3>
+
+
+<P><B>We recommend Charles Hadrann of   <A Href ="http://www.wrightbrotherscycleworks.com">Wright Brother's Cycle</A> in Fremont:
+<BR>219 North 36th 
+<BR>Seattle, WA    98103
+<BR>(206) 633-5132 
+
+
+<P><A Href ="http://www.wrightbrotherscycleworks.com"><IMG SRC="images/otherbikeshops/wrightbrothers.jpg"border=0></A>
+
+
+<Center><P><H2><B>[<A HREF="home.shtml" >Home</A>]</B></H2>
+</Body>
+
+  </HTML>

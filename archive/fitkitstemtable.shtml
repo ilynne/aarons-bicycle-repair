@@ -1,0 +1,98 @@
+<HTML>
+<HEAD>
+
+<TITLE>Fit Kit Stem Table</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="yellow">
+
+<center> 
+
+
+<!--#include virtual="/menu.inc"-->
+
+
+ <h1>Stem Table Conversion Chart </h1>
+  <p>Use the <b>Degrees of Rise</b> column number in the software 
+    <b>Stem Angle</b> window. Use the corresponding <b>Stem Angle</b> to affect 
+    the actual rise desired.</p>
+  <table width="90%" border="1" cellspacing="0" cellpadding="5" bordercolor="#999999" align="center">
+    <tr> 
+      <td bgcolor="#FFCC66" class="head12" width="26%">Stem Angle</td>
+      <td bgcolor="#FFCC66" class="head12" width="34%">Degrees of Rise</td>
+      <td bgcolor="#FFCC66" width="40%" class="head12">CM of Actual Rise</td>
+    </tr>
+    <tr> 
+      <td width="26%" class="par12">74</td>
+      <td width="34%" class="par12">0</td>
+      <td width="40%" class="par12">0 cm</td>
+    </tr>
+    <tr> 
+      <td bgcolor="#FFFF99" width="26%" class="par12">80</td>
+      <td bgcolor="#FFFF99" width="34%" class="par12">5</td>
+      <td bgcolor="#FFFF99" width="40%" class="par12">0.5 cm</td>
+    </tr>
+    <tr> 
+      <td width="26%" class="par12">85</td>
+      <td width="34%" class="par12">10</td>
+      <td width="40%" class="par12">1.0 cm</td>
+    </tr>
+    <tr> 
+      <td width="26%" class="par12" bgcolor="#FFFF99">90</td>
+      <td bgcolor="#FFFF99" width="34%" class="par12">15</td>
+      <td width="40%" class="par12" bgcolor="#FFFF99">1.5 cm</td>
+    </tr>
+    <tr> 
+      <td width="26%" class="par12">95</td>
+      <td width="34%" class="par12">20</td>
+      <td width="40%" class="par12">2.0 cm</td>
+    </tr>
+    <tr> 
+      <td width="26%" class="par12" bgcolor="#FFFF99">100</td>
+      <td width="34%" class="par12" bgcolor="#FFFF99">25</td>
+      <td width="40%" class="par12" bgcolor="#FFFF99">2.5 cm</td>
+    </tr>
+    <tr> 
+      <td width="26%" class="par12">110</td>
+      <td width="34%" class="par12">35</td>
+      <td width="40%" class="par12">3.5 cm</td>
+    </tr>
+    <tr> 
+      <td width="26%" class="par12" bgcolor="#FFFF99">115</td>
+      <td width="34%" class="par12" bgcolor="#FFFF99">40</td>
+      <td width="40%" class="par12" bgcolor="#FFFF99">4.0 cm</td>
+    </tr>
+    <tr> 
+      <td width="26%" class="par12">120</td>
+      <td width="34%" class="par12">45</td>
+      <td width="40%" class="par12">4.5 cm</td>
+    </tr>
+    <tr bgcolor="#FFFF99"> 
+      <td width="26%" class="par12">125</td>
+      <td width="34%" class="par12">50</td>
+      <td width="40%" class="par12">5.0 cm</td>
+    </tr>
+  </table>
+  <p>Please keep in mind that <b>Stem Angle</b> in <b>Degrees of 
+    Rise</b> used in the <b>Fit Kit Pro&#153; Software</b> is synonymous with 
+    actual vertical rise of the handlebar. In other words handlebar height can 
+    be changed by affecting a combination of stem rise and stem angle.</p>
+  <p>The actual <b>Stem Angle</b> is the angle measured between the 
+    center line of the steerer clamp and the stem arm in a threadless stem and 
+    <img src="images/fitkitstemangle.gif" width="147" height="208" align="right" vspace="3" hspace="20">between 
+    the centerline of the quill and the stem arm in a quill stem.
+  <h2>&nbsp;&nbsp;&nbsp;<br>
+    Example:</h2>
+  <p>This example would measure as a 90&#176; stem 
+    and would yield 15&#176; of rise or 1.5 cm of actual rise.
+
+
+<BR clear ="all">
+<P><B>Raising or lowering  the stem changes the reach by approximately 1 centimeter for every 2.5cm change in rise.
+
+<P>Fit Kit Program Note: Steer 0cm Steer Stack Refers to a standard frame with a standard 1" headset (35mm top stack) and a standard quill stem (7cm from top of stem to max line). From the center point of the Head Tube / Top Tube junction to the top of the stem would measure 12cm for a 0cm stack.
+
+
+</BODY>
+</HTML>

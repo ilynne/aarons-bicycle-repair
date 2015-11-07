@@ -1,0 +1,27 @@
+
+<HTML>
+<HEAD>
+
+<TITLE>ABR Mural</TITLE>
+
+</HEAD>
+
+<body bgcolor = "yellow">
+<center>
+
+
+<!--#include virtual="/menu.inc"-->
+
+
+<P><B>Here is the Artist's study of our mural. 
+<p><IMG SRC="images/mural.jpeg" WIDTH=650 HEIGHT=350>
+
+<P>Here is the real thing:
+
+<P><IMG SRC="images/realmural.jpg" WIDTH=650 HEIGHT=350>
+
+<p>This is the north wall of our old location.  It was painted over by the new landlord after we moved to our current location.
+
+
+</BODY>
+</HTML>

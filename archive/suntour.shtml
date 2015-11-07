@@ -1,0 +1,60 @@
+<HTML>
+<HEAD>
+   <META NAME="keywords" CONTENT="sun tour, suntour, bicycle parts">
+   <TITLE>Sun Tour Bicycle Parts</TITLE>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- 
+if (top == self) self.location.href = "start.shtml"; 
+// -->
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="yellow">
+<!--#include virtual="/menu.inc"-->
+
+<CENTER>
+<table>
+<tr>
+
+<td>
+<A HREF = "http://www.srsuntour-cycling.com"><IMG SRC="images/srsuntourlogo.gif"  BORDER=0 ALT="SR Sun Tour Logo" VSPACE=6 HSPACE=10 HEIGHT=100 WIDTH=400></A>
+</td>
+<td><H1>@</h1>
+</td>
+<td>
+<A HREF = "home.shtml"><IMG SRC= "images/abrlogo.gif"  BORDER=0 HEIGHT=100 WIDTH=200 ALT="ABR Logo" VSPACE=6></A>
+</td>
+</tr>
+</table>
+
+
+<H3>SunTour Bicycle Parts</H3>
+<P ALIGN=JUSTIFY><B>It wasn't long ago when you were looking for value and
+quality in bicycle parts the name SunTour was the brand of choice. SunTour
+invented the modern derailleur design and the compact drivetrain (Micro
+Drive). Unfortunately in the early 1990s SunTour USA closed its doors and
+the parent company in Japan was sold to some folks in Taiwan. The remaining
+inventory in Japan was sold to J&amp;B Importers (a wholesale company based
+in Miami) and sold off at crazy low prices.
+
+<P ALIGN=JUSTIFY>Smart shops stocked up on the key replacement parts,
+like shifters, gears and rear derailleurs, because in order for old SunTour
+shifting to work properly, all the parts must match. Most of the supply
+of old parts has run out. If you need a replacement part for a SunTour
+bike over 5 or 6 years old you will have to shop around. Swap meets and ebay are
+still good places to find parts. We still stock many SunTour parts. We even have rear derailleurs!
+
+<P>Rivendell Reader. Issue #14 has a whole bike load of SunTour history and facts!
+
+<P ALIGN=JUSTIFY><H3>SunTour Reborn:</H3> 
+<BR>SR SunTour is alive and well. They make basic replacement cranks, gears and derailleurs
+that are 100% Shimano compatible. However the new parts will <U>not</U>
+index (click shift) with pre-1995 SunTour.
+
+<P><H2><B>[<A HREF="home.shtml" >Home</A>]</B></H2>
+
+</BODY>
+</HTML>
+ 

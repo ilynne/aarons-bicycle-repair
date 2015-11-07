@@ -1,0 +1,40 @@
+<html>
+<HEAD>
+
+<TITLE>Aaron's Bicycle Repair Contact Info and Map</TITLE>
+
+
+</HEAD>
+
+<BODY BGCOLOR="yellow">
+<center>
+
+<!--#include virtual="/menu.inc"-->
+
+<p><B>Aaron's Bicycle Repair
+<BR>9988 15th  Avenue SW, Suite E
+<BR>Seattle, Washington 98146
+<p>Note: We are located on the corner of 14th AVE SW and SW 100th ST
+<P><img src="images/14thand100th.jpg"> 
+<P>in White Center Square next to the Hung Long Asian Market
+<BR>Just 2 blocks south of Zippy's Giant Burgers and across the street from Big Al Brewing
+
+<P><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Aaron's+Bicycle+Repair,+Inc.,+9988+15th+Avenue+Southwest,+Seattle,+WA&amp;aq=0&amp;oq=aaron&amp;sll=47.51369,-122.35276&amp;sspn=0.001516,0.002411&amp;ie=UTF8&amp;hq=Aaron's+Bicycle+Repair,+Inc.,&amp;hnear=9988+15th+Ave+SW,+Seattle,+Washington+98106&amp;t=m&amp;ll=47.513805,-122.353117&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Aaron's+Bicycle+Repair,+Inc.,+9988+15th+Avenue+Southwest,+Seattle,+WA&amp;aq=0&amp;oq=aaron&amp;sll=47.51369,-122.35276&amp;sspn=0.001516,0.002411&amp;ie=UTF8&amp;hq=Aaron's+Bicycle+Repair,+Inc.,&amp;hnear=9988+15th+Ave+SW,+Seattle,+Washington+98106&amp;t=m&amp;ll=47.513805,-122.353117&amp;spn=0.006295,0.006295" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+<p>(206) 938-9795  
+<BR><A HREF="mailto:info@rideyourbike.com">info@rideyourbike.com</A>
+
+<P>Directions to our White Center shop from our former West Seattle location:
+
+<BR><A href="https://maps.google.com/maps?saddr=6527+California+Avenue+Southwest,+Seattle,+WA&daddr=47.536273,-122.3887034+to:47.53501,-122.382454+to:47.5335287,-122.381425+to:47.532618,-122.3806468+to:47.5283486,-122.3793172+to:47.524852,-122.379354+to:47.5246591,-122.3727612+to:47.5155016,-122.3658828+to:SW+100th+St&hl=en&ll=47.526996,-122.367225&spn=0.024255,0.038581&sll=47.520824,-122.365379&sspn=0.024258,0.038581&geocode=FT931QIdhYS0-Ckxv6mYGUGQVDE7WmSsEHovyg%3BFZFY1QIdIX-0-Cmf9M3aPUGQVDGlMJSi_DYMCg%3BFaJT1QIdipe0-CmhShN_FUGQVDF8_VuVgkPiSg%3BFdhN1QIdj5u0-ClNpRrjP0GQVDEq9a1WTcmEEQ%3BFUpK1QIdmp60-CnVGS8HQEGQVDHvkoLVwroO8A%3BFZw51QIdy6O0-CnRpQedQUGQVDHGR7VpCYwWNA%3BFfQr1QIdpqO0-Cl1qHV_Q0GQVDFPvgNk1vL9bA%3BFTMr1QIdZ720-ClPDbXNQkGQVDGqEwtZ7mI8Aw%3BFW0H1QIdRti0-CmxUvfh4UOQVDGhAW1IGn_A3g%3BFXwA1QIdHAq1-A&dirflg=b&mra=dpe&mrsp=7&sz=15&via=1,2,3,4,5,6,7,8&t=m&z=15&lci=bike">Human Power</A>
+
+<BR><A href="https://maps.google.com/maps?saddr=6527+California+Avenue+Southwest,+Seattle,+WA&daddr=SW+100th+St&hl=en&sll=47.513773,-122.353148&sspn=0.001516,0.002411&geocode=FT931QIdhYS0-Ckxv6mYGUGQVDE7WmSsEHovyg%3BFXwA1QIdHAq1-A&oq=6527+c&mra=ls&t=m&z=14">Internal Combution</A>
+
+
+<P><A href="http://www.gmap-pedometer.com" >Google Maps Pedometer</A>
+<BR>More accurate if you know your own route.
+
+<P><IMG SRC="images/aerialphotos/spinningearth.gif" WIDTH="100" HEIGHT="100" VSPACE="20" HSPACE="10" BORDER="0" >
+
+</BODY>
+</html>
