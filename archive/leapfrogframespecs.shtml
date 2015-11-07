@@ -1,0 +1,109 @@
+<html>
+<body>
+
+<!--#include virtual="/menu.inc"-->
+
+
+<pre>
+
+
+Seattle Leapfrog Frame Specifications
+
+- Sizes (center to center) 15"L (38cm Step-Thru); 17" (43cm); 19" (48cm)  
+- Head Tube Length: 10cm on 38 & 43; 15cm on 48cm
+- BB Drop: 5cm
+- Triple split housing tops on underside of downtube 10cm back from headtube
+- Shimano BB bolt-on plastic cable guide
+- Housing stop on both chainstays 18cm back from BB
+- NO CANTILEVER BOSSES!
+- Rack and Fender Bosses, Water Bottle style at chainstay and seatstay bridge
+- Open Ended Brake Arm Boss forward facing on left chainstay 11cm forward of dropout (pac-man style), must be same length as drop-out
+- 1 1/8" Steertube
+- Long horizontal drop-outs
+- Include standard derailleur hanger on right rear drop-out
+- Extra beefy chainstay bridge positioned corectly for an <a href="xtracycle.html" target=right>Xtracycle</a> attachment.
+
+
+Frame Angles
+	Headangle = 71.5&#176;
+	Seatangle = 69&#176;
+
+Major Lengths
+	Wheelbase = 116 cm in center of drop out slots (will varry 1.75 cm for and aft with cog and chainring selection)
+	Seat tube length (c-t) = 52 cm
+	Seat tube length (c-c) = 50 cm
+	Top tube length (effective) = 65 cm
+	Top tube length (c-c)	= 61 cm
+	Head tube length = 19 cm
+	Bottom bracket height = 268 mm
+	Bottom bracket drop = 50.0 mm
+	Chainstay length = 50 cm
+	Front Center = 66.5 cm
+
+Wheel Specs
+	Wheel diameter = 655 mm
+	Tire width = 43 mm
+	Gap between rear tire and seat tube ~ 100 mm
+	Rear dropout spacing = 135mm
+
+Fork and Headset Specs    (this is a rigid fork)
+	Fork offset (rake) = 45.0 mm
+	Fork length = 365.0 mm
+	Lower stack height = 14 mm  (FSA Sky Pilot roller bearing)
+
+Stability Info
+	Trail = 62.96 mm
+	Jones stability criterion = -2.53   (David E.H. Jones, Ph.D. see Physics Today article April 1970)
+	Relative front projection = 0.0718972
+
+Tube Diameters
+	Seat tube diameter = 28.6 mm   (1 1/8")
+	Top tube diameter = 28.6 mm   (1 1/8")
+	Head tube diameter = 36.0 mm   (1 1/8")
+	Down tube diameter = 28.6 mm   (1 1/8")
+
+Seatstay Info  (seatstays are straight)
+	Seatstay diameter	= 14 mm
+	Distance from axle center to seatstay bridge center = 37.5 cm
+
+Chainstay Info    (chainstay bridge is extra strong made out of chainstay stock)
+	Distance from axle center to chainstay bridge center = 37.5 cm
+
+Bottom Bracket Info
+	Bottom bracket length = 68.0 mm
+	Bottom bracket diameter = 40 mm
+
+Welding Clearance Info
+	Head tube extension above top edge of top tube = 55 mm
+	Head tube extension below bottom edge of down tube = 10 mm
+	Seat tube extension above top edge of top tube = 25 mm
+
+Standard Braze-ons
+	2 water bottles (seat and down tubes)
+	cable guides (see below)
+	Rack bosses
+	Rear rack and fender eyelets
+	Fender eyelets on fork
+	Fender mounts on chainstay and seatstay bridges (water bottle style)
+	ISO disc mount on fork
+	Seat post clamp & bolt
+	Xtracycle tounge bolt hole in chainstay bridge
+	Cable guide on top of left side of BB for rear brake
+	Plastic bolt-on Shimano BB cable guide (5mm threaded hole)
+	Pump peg with stand-off to fit Zefal HPX #4 frame pump
+	Kickstand plate   TO BE DETERMINED
+	
+
+Braze-on positions  (use standard 6mm split stops)
+	Right gear cable housing stop from BB center = 235 mm
+	Left  brake cable housing stop from BB center = 160 mm
+	Front of brake arm "Pac-Man" mount from BB center = 360 mm   (mouth opens towards BB)
+	Lower braze-on of seat tube water bottle from BB center = 160  mm
+	Lower braze-on of down tube water bottle from BB center = 160 mm
+	Down tube cable stops from BB center = 550 mm
+	Rack barrel bosses from rear axle = 470 mm
+
+</pre>
+</body>
+</html>
+

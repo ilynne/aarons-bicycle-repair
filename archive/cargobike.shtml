@@ -1,0 +1,38 @@
+<html>
+
+
+<Body bgcolor="yellow">
+<center>
+
+<!--#include virtual="/menu.inc"-->
+
+<P><H2>Ultimate Cargo Dream Bike</H2>
+
+
+<P><B>Here are some working drawings for a cargo bike we are designing:
+
+<P><img src="images/cargobikepreliminarydesign.jpg" vspace="10">
+<P><img src="images/cargobikepreliminarydesign2.jpg" vspace="10">
+<P><img src="images/cargobikepreliminarydesign3.jpg" vspace="10">
+
+<P><img src="images/superimposed.jpg" vspace="10">
+
+
+<P>The <A HREF="http://www.bikefix.co.uk/8freight.html" target=right>inspiration</A>.
+<BR><A HREF="images/cargobike.pdf">PDF version</A>
+<BR><A HREF="cargobikedesigndoc.shtml">Design Requirements Document</A>
+
+
+<P>Below are some of the Gentlemen at one of our meetings:
+<P><img src="images/cargobikemeeting1.jpg" vspace="5">
+<P><img src="images/cargobikemeeting2.jpg" vspace="5">
+<P><img src="images/cargobikemeeting3.jpg" vspace="5">
+
+<P>I would welcome any comments you might have on the design. 
+<BR><A HREF="mailto:aaron@rideyourbike.com">aaron@RideYourBike.com</A>
+
+
+<P><H2><B>[<A HREF="home.shtml">Home</A>]</B></H2>
+
+</body>
+</html>

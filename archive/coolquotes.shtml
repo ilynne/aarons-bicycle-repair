@@ -1,0 +1,77 @@
+<HTML>
+<HEAD>
+
+<TITLE>Cool Quotes</TITLE>
+</HEAD>
+
+<body BGCOLOR="yellow"><Font face="arial">
+<!--#include virtual="/menu.inc"-->
+
+<P><H1>Cool Quotes</H1>
+
+<img src="images/chineesecommuters.jpeg" align=right WIDTH="256" HEIGHT="171">
+
+
+<P><B>BUMPER STICKERS:
+
+<P>Question Internal Combustion
+<BR>Boycott Polution - Ride A Bike
+<BR>If Huffy made an airplane, would you fly in it?
+<BR>Friends Don't Let Friends Drive
+<BR>Cyclists have a right to the road. RCW 46.61.755
+<BR>Bicycle More, Drive Less, Breath Easier
+<BR>Mend Your Fuelish Ways
+<BR>
+<P>We have these stickers and others for sale, only 25 cents!
+<BR>If you know of any other cool ones, let us know! We will post.
+
+
+
+
+<table border=10>
+
+<tr>
+<td>
+<a href="http://www.xtracycle.com" ><img src="images/animalxtracycle.jpg" align=left WIDTH="400" HEIGHT="200" border=0  ALT="Xtracycle"></A>
+</td>
+
+<td><center>
+<a href="http://www.amazon.com/exec/obidos/ASIN/1558215638/qid=1002571302/sr=1-2/ref=sr_1_2_2/102-9291111-2699349" ><IMG SRC="images/quotablecyclist.jpg" WIDTH=118 HEIGHT=140  ALT="The Quotable Cyclist" border=0></A>
+</td>
+</tr>
+
+<tr>
+<td>
+<P><b>The <a href="http://www.xtracycle.com" >Xtracycle</A>: The worlds most usefull bicycle. Trailers are fine. The only one that comes close to the Xtracycle is the <a href="http://www.bobtrailers.com" >B.O.B.</A>
+</td>
+
+<td>
+<P><b>You can check this book out in our <a href="library.shtml" >library</A>.
+</td>
+</tr>
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</BODY>
+</HTML>
+
+
+

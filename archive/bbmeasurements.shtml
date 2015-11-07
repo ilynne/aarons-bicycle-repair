@@ -1,0 +1,203 @@
+<HTML>
+<HEAD>
+
+<TITLE>Square Taper Bottom Bracket Right-Side Factors</TITLE>
+
+</HEAD>
+
+<body bgcolor="yellow">
+
+<center>
+
+<!--#include virtual="/menu.inc"-->
+
+
+<P><h3>Square Taper Right-Side Spindle End to BB Shell Face Measurements</h3> 
+
+
+
+<IMG SRC="images/bbrightfactor.jpg" WIDTH=500 HEIGHT=379 border=0>
+
+<table>
+
+<tr>
+<td colspan="3"><B><center>SHIMANO</td>
+</tr>
+
+<tr>
+<td><B>Nominal Size</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>Right Factor</td>
+</tr>
+
+<tr>
+<td><B>68 x 107</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>20.5mm</td>
+</tr>
+
+<tr>
+<td><B>68 x 110</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>20.5mm</td>
+</tr>
+
+<tr>
+<td><B>68 x 113</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>22.75mm</td>
+</tr>
+
+<tr>
+<td><B>68 x 115</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>23.75mm</td>
+</tr>
+
+<tr>
+<td><B>68 x 118</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>25mm</td>
+</tr>
+
+<tr>
+<td><B>68 x 122.5</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>28mm</td>
+</tr>
+
+<tr>
+<td><B>68 x 127.5</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>30.5mm</td>
+</tr>
+
+
+<tr>
+<td><B>70 x 107</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>19.5mm</td>
+</tr>
+<tr>
+<td><B>70 x 110</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>19.5mm</td>
+</tr>
+<tr>
+<td><B>70 x 113</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>22mm</td>
+</tr>
+<tr>
+<td><B>70 x 115</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>22.25mm</td>
+</tr>
+<tr>
+<td><B>70 x 118</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>24mm</td>
+</tr>
+
+
+<tr>
+<td><B>73 x 107</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>18mm</td>
+</tr>
+
+<tr>
+<td><B>73 x 110</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>18mm</td>
+</tr>
+
+<tr>
+<td><B>73 x 113</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>20.25mm</td>
+</tr>
+
+<tr>
+<td><B>73 x 118</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>22.5mm</td>
+</tr>
+
+<tr>
+<td><B>73 x 122.2</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>25.25mm</td>
+</tr>
+
+
+
+
+<tr>
+<td><td>&nbsp;</td>
+</tr>
+
+
+
+
+<tr>
+<td colspan="3"><B><center>Origin8 Torqlite "Campy/ISO"</td>
+</tr>
+
+<tr>
+<td><B>Nominal Size</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>Right Factor</td>
+</tr>
+
+<tr>
+<td><B>68 x 102</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>16.75mm</td>
+</tr>
+
+<tr>
+<td><B>68 x 111</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>22.5mm</td>
+</tr>
+
+<tr>
+<td><B>68 x 115</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>?mm</td>
+</tr>
+
+
+<tr>
+<td><td>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td colspan="3"><B><center>Origin8 Torqlite "JIS"
+</tr>
+
+<tr>
+<td><B>Nominal Size</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>Right Factor</td>
+</tr>
+
+<tr>
+<td><B>68 x 103</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>17.75mm</td>
+</tr>
+
+<tr>
+<td><B>68 x 107.5</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>?mm</td>
+</tr>
+
+<tr>
+<td><B>68 x110.5</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>20.25mm</td>
+</tr>
+
+<tr>
+<td><B>68 x 113</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>22.75mm</td>
+</tr>
+
+<tr>
+<td><B>68 x116</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>25.25mm</td>
+</tr>
+
+<tr>
+<td><B>68 x 118</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>25.25mm</td>
+</tr>
+
+<tr>
+<td><B>68 x122.5</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>27.75mm</td>
+</tr>
+
+<tr>
+<td><B>73 x 113</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>?mm</td>
+</tr>
+
+<tr>
+<td><B>73 x116</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>?mm</td>
+</tr>
+
+<tr>
+<td><B>73 x 122.5</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>?mm</td>
+</tr>
+
+<tr>
+<td><td>&nbsp;</td>
+</tr>
+
+<tr>
+<td colspan="3"><B><center>IRD Quad
+</tr>
+
+<tr>
+<td><B>Nominal Size</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>Right Factor</td>
+</tr>
+
+<tr>
+<td><B>68 x 113</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><B>23.25mm</td>
+</tr>
+
+
+</table>
+
+
+
+</BODY>
+</HTML>

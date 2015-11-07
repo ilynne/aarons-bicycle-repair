@@ -1,0 +1,36 @@
+
+<HTML>
+<HEAD>
+
+<TITLE>Good West Seattle Bike Routes</TITLE>
+
+</HEAD>
+
+<body bgcolor = "yellow">
+<center>
+
+
+<!--#include virtual="/menu.inc"-->
+
+<H2>Good West Seattle Bicycle Routes</H2>
+
+<IMG SRC="images/bikeroutes.gif" WIDTH=617 HEIGHT=626>
+
+
+<P><B>
+The green lines are some of the best streets to ride on.
+<BR>Not always the most direct or the best pavement but the ones we like and ride on everyday.
+
+<BR>See also the:
+<BR><A HREF="http://www.metrokc.gov/kcdot/tp/bike/bikemap.htm">King County Online Bike Map</A>
+
+<BR><A HREF="http://www.seattle.gov/transportation/bikeprogram.htm"">Seattle Bicycle Program</A>
+
+<P>Both of the above maps are available at the shop for FREE!
+
+<Center><P><H2><B>[<A HREF="home.shtml">Home</A>]</B></H2>
+
+
+
+</BODY>
+</HTML>

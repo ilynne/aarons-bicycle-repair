@@ -1,0 +1,43 @@
+<HTML>
+<HEAD>
+
+   <META NAME="description" CONTENT="September Coupon from Aaron's Bicycle Repair">
+<TITLE>Monthly Coupon - Aaron's Bicycle Repair</TITLE>
+</HEAD>
+
+<body BACKGROUND="images/notebook.gif">
+
+<!--#include virtual="/menu.inc"-->
+
+<Font face="arial">
+<center>
+
+
+
+<table border=2>
+<TR>
+
+<TD><P><center><B><font size = +3 color="red">Aaron's Bicycle Repair</font>
+
+<P><B>6527 California Avenue SW <BR>West Seattle, Washington 98136<BR>(206) 938-9795
+
+<P>For <font size = +2>September</font> we are featuring a 
+<br><H1><font color="FF0099">WILDCARD COUPON</font></H1>
+<P>This coupon is good for 10% off any ONE product of YOUR CHOICE!*
+<P><font size =-2>One coupon per person per month. Not valid on Special Orders</font>
+
+</TD>
+</tr>
+</table>
+
+<P><BR><B><FONT COLOR="GREEN">Just mention the coupon to us, no need to print, but if you must please user eused paper.</FONT>
+
+<P><BR><P><BR><P><BR><A STYLE="text-decoration:none" HREF ="couponoctober.shtml">Next Month</A>
+
+   
+</BODY>
+</HTML>
+
+
+
+

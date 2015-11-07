@@ -1,0 +1,267 @@
+<HTML>
+<HEAD>
+
+   
+<TITLE>Aaron's Bicycle Repair, Inc.</TITLE> 
+
+<link rel="shortcut icon" type="image/ico" href="http://www.rideyourbike.com/abr.ico"> 
+
+<script LANGUAGE="JavaScript">
+<!--
+//
+var numGraphics = 335;   // <=== Adjust the number of image files here
+var theGraphics = null;
+
+function getRandomNumber(n) {
+        //Returns a pseudorandom number between 1 and n
+        today = new Date();
+        var bigNum = today.getSeconds() * today.getTime() *
+Math.sqrt(today.getMinutes());
+        var randNum = (bigNum % n) + 1;
+        return Math.floor(randNum);
+}
+
+function initArray(n) {
+        this.length = n;
+        for(var i = 1; i <= n; i++) {
+                this[i] = "";
+                }
+        return this;
+}
+
+function initGraphics() {
+        
+        theGraphics = new initArray(numGraphics);
+        for(i = 1; i <= numGraphics; i++) {
+                if (i < 10) {
+                        theGraphics[i] = "graphic" + i + ".jpeg"
+                } else {
+                        theGraphics[i] = "graphic" + i + ".jpeg"
+                }
+        }
+}
+
+function getRandomGraphic() {
+        var theIndex = getRandomNumber(numGraphics);
+        return theGraphics[theIndex];
+}
+
+function getGraphic() {
+        var theGraphicName = getRandomGraphic();
+        theGraphic = "images/homepics/" + theGraphicName
+        return theGraphic
+}
+
+function loadGraphic() {
+        theGraphic = getGraphic();
+        var theTag = '<IMG SRC= "' + theGraphic + '"';
+        theTag += '  ALT="Click for a different picture. We have over 330 cool cycling related images here." border=0 height=400 width=300>'
+        document.write(theTag);
+}
+
+initGraphics();
+   
+//-->
+</script>
+
+</HEAD>
+
+<body BACKGROUND="images/internalhubbackground.jpg" vlink="black" link="black">
+
+<Font face="arial">
+
+
+<center>
+<B>
+
+<TABLE border =0>
+<TR>
+<TD colspan=5>
+
+<table border=1 bordercolor = "black" bgcolor="yellow" width = "100%">
+<tr>
+<td>
+<!--#include virtual="/menu.inc"-->
+</td>
+</tr>
+</table>
+
+
+<TR>
+<TD>
+
+<center>
+
+<P><B><font color=red>Aaron's Bicycle Repair, Inc.</font>
+<BR>9988 15th AVE SW, Suite E
+<BR>Seattle, Washington  98146
+<BR>(206) 938-9795
+<BR><font size = -4>Established 1997</font>
+
+<P><font size = -1>An <A HREF ="bestaward.shtml" >Award Winning</A>
+<BR><A HREF ="retromodern.shtml" >Retro-Modern</A> Shop <BR><A HREF="aerialphoto.shtml" >Located</A> in 
+<BR>Beautiful White Center!
+<BR>a.k.a. Rat City</font>
+
+
+
+
+<table>
+<tr>
+<td>
+<font size = -2>
+<B>
+<P align="left"><A STYLE="text-decoration:none"  href="blog.shtml" >BLOG</A>
+<BR><A STYLE="text-decoration:none" HREF="tuneup.shtml" >Ultimate Tune-Up</A>
+<BR><A STYLE="text-decoration:none" HREF ="singlespeed.shtml" >Simple Chain Bikes</A>
+<BR><A STYLE="text-decoration:none" HREF ="giftideas.shtml" >Gift Ideas</A>
+<BR><A STYLE="text-decoration:none" HREF ="kids.shtml" >KIDS ON BIKES</A>!
+<BR><A STYLE="text-decoration:none" HREF ="womenspage.shtml" >Women's Page</A>
+</font>
+</td>
+
+<td>
+<font size = -2>
+<B>
+<P align="right"><A STYLE="text-decoration:none" HREF="hours.shtml#email">Contact</A>
+<BR><A STYLE="text-decoration:none" HREF ="hours.shtml"  >Hours</A>
+<BR><A STYLE="text-decoration:none" HREF ="aerialphoto.shtml" >Map</A>
+<BR><A STYLE="text-decoration:none" Href="comments.shtml" >Comments</A>
+<BR><A STYLE="text-decoration:none" HREF="customers.shtml" >Customers</A>
+<BR><A STYLE="text-decoration:none" HREF="staff.shtml" >Staff Pics</A>
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<p><center><b><A STYLE="text-decoration:none" HREF="http://www.facebook.com/AaronsBicycleRepair" border=0 ><img src="images/facebook.jpg"></A>
+<P><A HREF="mailto:info@rideyourbike.com">info@rideyourbike.com</A>
+</td>
+</tr>
+</table>
+
+
+<P><B><a STYLE="text-decoration:none" href="usefullinks.shtml" >Useful Links</A>
+<font size=-2>
+<BR><A STYLE="text-decoration:none" href="carbonfiber.shtml">Carbon Fiber Warning</A>
+<BR><A STYLE="text-decoration:none"  HREF ="workbenchrental.shtml">DIY Workbench Rental</A>
+<BR><a STYLE="text-decoration:none" href="bikingbasics.shtml">Biking Basics</A>
+<BR><A STYLE="text-decoration:none" HREF="commuting.shtml">Bike Commuting</A>
+<BR><A STYLE="text-decoration:none" HREF ="steellugs.shtml">Lugged Steel Riders</A>
+<BR><A STYLE="text-decoration:none"  HREF ="helmet.shtml">Bike Helmets</A>
+<BR><A STYLE="text-decoration:none"href= "bicyclingnotdangerous.shtml">Cycling is NOT dangerous!</A>
+<BR><A STYLE="text-decoration:none"href= "regularclothes.shtml">Ride in Regular Street Clothes</A>
+<BR><a STYLE="text-decoration:none" href= "shopcats.shtml">MEOW! Shop Cats</A>!
+<BR><A STYLE="text-decoration:none" HREF="coupon.shtml">Monthly Coupon</A>
+<BR><A STYLE="text-decoration:none" HREF="valsbio.shtml">R.I.P Val Kleitz</A>
+<BR><A STYLE="text-decoration:none"  HREF ="cargo.shtml">Cargo Bike Links</A>
+<BR><A STYLE="text-decoration:none" HREF ="driveless.shtml">Drive Less</A>  
+<BR><A STYLE="text-decoration:none" HREF ="mimasdeathstar.shtml"  >Real Life = Star Wars</A>
+<BR><A STYLE="text-decoration:none" HREF ="xtracyclehelpstopglobalwarming.shtml" >Message from Kipchoge of Xtracycle</A>
+</font>
+
+
+
+
+</TD>
+
+
+
+
+
+
+
+<TD>
+<P>&nbsp;&nbsp;
+</TD>
+
+
+
+
+
+
+
+<TD>
+
+<CENTER>
+<B>
+<p>CURRENT EVENTS:
+
+<font size="-2">
+
+<BR><A STYLE="text-decoration:none" HREF="fullmoonride.shtml">Full Moon Bike Rides</A>
+<BR><A STYLE="text-decoration:none" HREF ="https://www.facebook.com/WestSeattleBikeConnections">West Seattle Bike Connections</A>
+<BR><A STYLE="text-decoration:none" HREF ="cargorides.shtml">Cargo Bike Rides</A>
+<BR><A STYLE="text-decoration:none" HREF ="oldbikeswapinfo.shtml">Bike Swap Meets</A>
+<BR><A STYLE="text-decoration:none" HREF ="http://www.seattle.gov/sbab/agendas.htm">Seattle Bicycle Advisory Board Metting</A>
+<BR><A STYLE="text-decoration:none" HREF ="http://www.thebikery.org">The Bikery's Events</A>
+</font>
+
+
+<p><A HREF ="index.shtml" >
+<script language="JavaScript"><!--
+        loadGraphic()
+    //-->
+</script>
+</A>
+
+
+<P><FONT size="-4"><A HREF="homepagepics.shtml" >Click here for all the Home Page pictures.</A></FONT>
+
+
+</TD>
+
+
+
+<TD>
+<P>&nbsp;&nbsp;
+</TD>
+
+
+
+
+
+
+<TD>
+<CENTER>
+
+<B>
+<center>
+
+<font size=-1>
+
+<P><IMG SRC="images/brandlogos/ratcityjanice.gif">
+
+<P><A STYLE="text-decoration:none" HREF ="rossmancycles.shtml">Rossman Cycles</A>
+<BR><A STYLE="text-decoration:none"  HREF ="urbanmixtie.shtml">Urban Mixtie</A>
+<BR><A STYLE="text-decoration:none"  HREF ="cargobike.shtml">Cargo Dream Bike!</a>
+<BR><A STYLE="text-decoration:none"  HREF ="usedbikes.shtml">Retro-Mod Bikes</A>
+<BR><A STYLE="text-decoration:none"  HREF ="fixit.shtml">We can fix more than bikes!</A>
+</font>
+
+
+<P><A Href="leapfrog.shtml" ><IMG SRC="images/brandlogos/leapfrogbanner.jpg"  border=1 alt="Leapfrog, The ultimate city bike."></A>
+<BR><A HREF ="xtracycle.shtml" ><IMG SRC="images/brandlogos/xtracyclebanner.jpg" border=1 alt="Xtracycle"></A>
+<BR><A HREF ="bicycles.shtml"  ><IMG SRC="images/brandlogos/somabanner.jpg" alt="SOMA Fabrications"  border=1></A>
+<BR><A Href="bicycles.shtml" ><IMG SRC="images/brandlogos/surlybanner.jpg"  border=1 alt="Surly"></A>
+<BR><a href="bicycles.shtml" ><IMG src="images/brandlogos/torkerbanner.jpg" border=1 alt="Torker" border=1></a>
+<BR><A HREF ="http://www.campagnolo.com/jsp/en/proshop/index.jsp"><IMG SRC="images/campyproshop.jpg" border=1></A>
+<BR><A HREF ="chrisking.shtml" ><IMG SRC="images/brandlogos/chrisking.jpg" border=1 alt="We install Chris King parts properly. Make your investment last. Aaron's Bicycle Repair mechanics do it right!"></A>
+<BR><A HREF ="internalgears.shtml" ><IMG SRC="images/brandlogos/rohloff.jpg" border=1 alt="We are a Rohloff service Center. Oil changes to overhauls. Aaron's Bicycle Repair mechanics do it right!"></A>
+
+</TD>
+
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+                                                               

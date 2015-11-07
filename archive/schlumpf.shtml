@@ -1,0 +1,35 @@
+
+<HTML>
+<HEAD>
+
+<TITLE>Schlumpf Service</TITLE>
+
+</HEAD>
+
+<body BACKGROUND="images/internalhubbackground.jpg" vlink="black" link="black">
+<Font face="arial">
+<center>
+
+<!--#include virtual="/menu.inc"-->
+  
+
+
+<center>
+
+<P><H2>Schlumpf Service</H2>
+
+<B>
+
+<P><IMG src="images/internalgear/schlumpfpartsdrawers.jpg">
+<P>We are a service and sell <A href="http://www.schlumpf.ch" >Schlumpf</A> drives and stock all parts them.
+
+<P>Schlumpf drives need lubrication injected once or twice a year and a complete overhaul every 3000 miles. 
+<P>Schlumpf drives are a fantastic way to increase the gear ratios of an internally geared hub. They do not affect the input ratio and can give you very low gears for steep hills without causing excess stress on your hub.
+
+<P><IMG src="images/schlumpfdrivefront.jpg">
+
+<P><IMG src="images/schlumpfdriveback.jpg">
+
+</BODY>
+</HTML>
+                       

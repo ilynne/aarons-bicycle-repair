@@ -1,0 +1,17 @@
+<HTML>
+<HEAD>
+
+<TITLE>Learn to Ride a Bike!</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="yellow">
+<!--#include virtual="/menu.inc"-->
+<center>
+
+
+
+<P><img src="images/learntoride1.jpg">
+<P><img src="images/learntoride2.jpg">
+</BODY>
+</HTML>

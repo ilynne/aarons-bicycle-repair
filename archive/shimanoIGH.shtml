@@ -1,0 +1,149 @@
+
+<HTML>
+<HEAD>
+
+<TITLE>Shimano Internal Gear Hub Service</TITLE>
+
+</HEAD>
+
+<body BACKGROUND="images/internalhubbackground.jpg" vlink="black" link="black">
+<Font face="arial">
+<center>
+
+<!--#include virtual="/menu.inc"-->
+  
+
+<B>
+<P><H2>Shimano Internally Geared Hubs</H2>
+
+<P><IMG src="images/internalgear/shimanononturnwashers.jpg"vspace=5>
+<P>We have all colors of non-turn washers in stock.
+ 
+
+<P><IMG src="images/internalgear/shimanonexus8rust.jpg"vspace=5>
+<P><IMG src="images/internalgear/shimanonexus8.jpg" vspace=5>
+<P>Shimano Nexus SG-8R20 8-Speed Internally Geared Hub with Roller Brake
+<P>This hub was ridden less than one year in Seattle.  Neither the shop nor Shimano used enough grease and oil for NW weather.
+<BR>If you bring us your bike we can preemptivly weatherize your hub and avoid expensive repairs.
+<BR>Unfourtunately, the only way to fix this hub is replacement.  The hub shell bearing races were badly pitted. The hub functioned, but with a very loud rumbling noise.
+<P>2013 Update: Current Shimano production adds ample grease for most fair weather users.  However, in wet climates we still recommend an initial weatherization/overhaul at 1000 miles.  After that, every 3000 miles or 2 years is fine.  Daily commuters should have their hub overhauled once a year regardless of milage.  
+<HR>
+
+<P>Below are pictures of an overhaul of a Shimano Nexus SG-8R36 'Red Band' Hub
+<P><IMG src="images/internalgear/nexusSG-8R36/shimanonexusSG-8R36.jpg"vspace=5>
+<P><IMG src="images/internalgear/nexusSG-8R36/shimano8speedaxleunitexploded.jpg"vspace=5>
+
+<P>The shift mechanism of a Nexus and Alfine hub are identical. An exploded diagram is not available and Shimano lists it only as the Hub Axle Unit. 
+
+<P>Care must be taken when disassembling the hub as to not unlodge any of the parts.  They are held together by a friction washer with a light press fit. 
+
+<P>The weaker spring on the left is what Shimano calls the Pre-Select spring. It allows the shifter to select a gear when the hub is stopped. The stronger shift  spring on the right is what acually moves the shift pawl cam.   If you leave the pre-select spring engaged for a long time it can weaken and cause the hub to malfunction.  Shifting an IGH hub is akin to a shifting car.  You need to push in the clutch! Do this by lightly pedalling, not pedaling or even slightly pedalling backwards when you shift. If you shift under power you can cause the clutch to remain in the same gear until your pedal stroke has a dead spot. Then the clutch or axle pawl will disengage or the clutch will move causing a loud pop or clunk.  Repeated derailleur-style shifting can cause cause parts of the axle unit to bend or flex causing shiting issues.  The solution is usually a new axle unit.  
+
+<P>If you accidentally take this assembly appart, we can re-assemble it for you, or follow the instructions we published:
+<P><A Href="shimano8axleunitassemblyinstructions.shtml">Shimano 8 Speed Axle Unit Reassembly Instructions</A>.
+<P><A Href="shimano8axleunitassemblyinstructions.shtml"><IMG src="images/internalgear/shimano8axle/shimano8speedaxleorderdrawing.jpg"></A>
+
+<P><IMG src="images/internalgear/nexusSG-8R36/nexusvsalfineaxleunit.jpg"vspace=5>
+
+
+<P><IMG src="images/internalgear/nexusSG-8R36/drivesidecone.jpg"vspace=5>
+
+<BR>The Drive side cone is not sealed as well as it could be. A cartridge bearing would be superior, but Shimano is committed to cup and cone type bearings. Therefore, proper lube is necessary.  Factory lube is not enough for daily or Northwest use!  And neither is Shimano's recommendation to just dip the guts in oil. the hub MUST be periodically completely dismantled as shown and cleaned, re-lubed and have the ball bearings replaced.  There is no other way to get the bearing races to last.  The picutre below is a sad example of what can happen.  Often we can re-machine the races on our lathe, but this one is too pitted for that.  Thankfully now this part is available as a spare.
+<P><IMG src="images/internalgear/nexusSG-8R36/nexus8driver.jpg"vspace=5>
+
+<P><IMG src="images/internalgear/nexusSG-8R36/properlube.jpg"vspace=5>
+<P><IMG src="images/internalgear/nexusSG-8R36/internalassembly.jpg"vspace=5>
+<P><IMG src="images/internalgear/nexusSG-8R36/driverfailsaferatchet.jpg"vspace=5>
+<P>Above is the Driver Unit disassembled (pawl version).
+<P>Below is the Driver Unit disassembled (friction ring version).
+<BR>These 5 parts replace the pawl carrier pictured above.
+<P><IMG src="images/internalgear/nexusSG-8R36/driverfailsafefrictionring.jpg"vspace=5>
+
+<P>Both driver types are interchangeable.  The Friction Ring version will rotate clockwise or counter-clockwise, the Ratchet version will only rotate counter-clockwise.  This test is done while looking at the inside of the Driver Unit using a pair of large snap ring pliers (example Snap-On model SRP1C)
+
+
+<HR>
+
+
+
+<P><IMG src="images/internalgear/shimanoalfineSG-S700.jpg" vspace=5>
+<P>Shimano SG-S700 Alfine 11 Speed
+<P><IMG src="images/internalgear/alfine11rightaxleseal.jpg" vspace=5>
+<P><IMG src="images/internalgear/alfine11oilseal.jpg" vspace=5>
+<P>Above is the right side axle seal that sits outside the cone.  
+<BR>As you can see it is a very complicated seal and it often leaks.
+<BR>If you remove it and degrease it and the seat it sits in, then coat it with 100% silicone (or automotive gasket  such as <a Href="http://www.permatex.com/products/automotive/automotive_gasketing/gasket_sealants/auto_Permatex_Form-A-Gasket_No_2_Sealant.htm">Permatex Form-A-Gasket #2</A>) and reinstall, it will fix the axle oil leak, but oil may still seep out the larger main seal.
+<BR>Also, never lay an internally geared hub on it's side for long periods of time.  
+<BR>If you need to transport a bike horizontally, lay it on the drive side and put a rag under it!
+<P><IMG src="images/internalgear/dirtygearoil.jpg" vspace=5>
+<BR>Change your oil every 3000 miles. (the first oil change is at 500 miles)
+<P><font color=990000>IT IS OUR EXPERIENCE THAT ALFINE 11 SPEED HUBS SEEP OIL OUT OF THE MAIN SEAL. 
+<BR>WE NOW CONSIDER THIS NORMAL!  SIMPLY WIPE OFF ANY EXCESS AND ADD MORE OIL PERIODICALLY.
+<BR>If the seal is over-torqued it will deform and leak.</font>
+
+
+<HR>
+
+<P>Shimano Alfine SG-S500 & SG-S501 8-Speed Hub
+<P><img src="images/newproducts/alfine.jpg"  vspace=10> 
+<P><img src="images/newproducts/alfineopened.jpg"> 
+<P>Above is a picture of the factory lubrication.
+<P><img src="images/internalgear/shimanoalfineSG-S501.jpg"  vspace=10> 
+<P><img src="images/internalgear/SG-S501cup.jpg"  vspace=10> 
+<P><img src="images/internalgear/SG-S501bearing.jpg"  vspace=10> 
+<P><a name="pitting"><img src="images/internalgear/SG-S501cone.jpg"  vspace=10> 
+<P>Shimano SG-S501 Alfine 8 Speed Hub
+<BR>Date 2/3/11 This hub was used for about 3 years and is the current version. Internal replacement parts are NOT available.
+<BR>Shimano only offers the entire 'guts' unit (#1 in the diagram).  We find it odd because part numbers 11, 15 & 16 were the only parts worn! 
+<BR>Additionally, they sell the tools necessary to replace just those parts! You can see them in the diagram, we own them. 
+<BR>We can add waterproof grease to your hub and prevent this wear from happening. 
+<BR>The pictures below show the proper lube for the Pacific Northwest.
+<P><img src="images/internalgear/alfineleftconestocklube.jpg"  vspace=10> 
+<P><img src="images/internalgear/alfineleftconeabrlube.jpg"  vspace=10>  
+<P><img src="images/internalgear/alfinegutsabrlube1.jpg"  vspace=10> 
+<P><img src="images/internalgear/alfinegutsabrlube2.jpg"  vspace=10>
+<P><img src="images/internalgear/alfineoil.jpg"  vspace=10>  
+<HR>
+
+<P><IMG src="images/internalgear/shimanosg-7c21.jpg" vspace=5>
+<P>Shimano Nexus SG-7C21 7-Speed with Coaster Brake
+<HR>
+
+<P><IMG src="images/internalgear/nexusSG-7R46/SG-7R46.jpg" vspace=5>
+<Table>
+<tr>
+<td><center><IMG src="images/internalgear/nexusSG-7R46/SG-7R46driverpawlsfacotrylube.jpg"></td>
+<td><center><IMG src="images/internalgear/nexusSG-7R46/SG-7R46driverpawlsabrlube.jpg"></td>
+<td><center><IMG src="images/internalgear/nexusSG-7R46/SG-7R46lubedassembly.jpg"></td>
+</tr>
+
+<tr>
+<td><center><B>Factory lack of lube!</td>
+<td><center><B>Proper pawl oiling</td>
+<td><center><B>Greased and oiled!</td>
+</tr>
+</Table>
+
+<P><IMG src="images/internalgear/nexusSG-7R46/SG-7R45axleassembly.jpg" vspace=5>
+<P>Shimano Nexus SG-7R46 7-Speed Axle Assembly
+<BR>If you have taken yours appart or it came appart as it often does during an overhaul, then, fear not!
+<BR>There are instructions on the Sheldon Brown website.
+<BR><A href="http://sheldonbrown.com/nexus-7-axle.html">http://sheldonbrown.com/nexus-7-axle.html</A>
+<HR>
+
+
+
+<P><IMG src="images/internalgear/shimano3CC.jpg" vspace=5>
+<P>Shimano 3CC Three Speed Coaster Brake
+<HR>
+
+<P><IMG src="images/internalgear/shimanoSG-3S20.jpg" vspace=5>
+<P>Shimano SG-3S20 Three Speed
+<HR>
+
+<P><IMG src="images/shimanorollerbrakeservice.jpg"  HEIGHT="450" WIDTH="515">
+<P><center><B>Shimano Roller Brake. <BR>We can even service so called non-serviceable bike parts!
+
+</BODY>
+</HTML>
+                       

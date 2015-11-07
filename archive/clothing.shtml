@@ -1,0 +1,35 @@
+<HTML>
+<HEAD>
+
+<TITLE>Clothing Department</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="yellow">
+<center>
+
+<!--#include virtual="/menu.inc"-->
+
+<H2>Clothing at Aaron's Bicycle Repair</H2>
+
+<P><B>We stock basic bicycle riding gear like helmets, safety vests, gloves and cycling caps.  
+<BR>We do not think one needs special clothing to ride a bike.  
+<BR>Special clothing and shoes are yet another barrier to enjoy cycling.
+<BR>We have even stopped selling shoes in favor of quality flat pedals.
+
+<P>We have the largest (constantly rotating) selection of cotton and wool cycling caps anywhere, with over 300 in stock!
+<BR><A HREF ="http://www.shaundeller.com" >Shaun Deller</A>
+<BR><A HREF ="http://www.trekbikes.com" >Trek</A>
+<BR><A HREF ="http://www.pacesportswear.com" >Pace</A>
+<BR><A HREF ="http://www.walzcaps.com" >Walz</A>
+<BR><A HREF ="http://www.surlybikes.com" >Surly</A>
+<BR><A HREF ="http://www.rivbike.com" >Rivendell</A>
+
+<P><img src="images/cyclingcaps.jpg"  vspace=20> 
+
+
+<Center><P><H2><B>[<A HREF="home.shtml">Home</A>]</B></H2
+
+</BODY>
+</HTML>
+ 

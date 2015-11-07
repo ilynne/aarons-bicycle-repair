@@ -1,0 +1,388 @@
+<html >
+
+<head>
+<title>Seattle Bicycle Mechanic's Guild Repair Standards</title>
+</head>
+
+<body>
+
+<!--#include virtual="/menu.inc"-->
+ 
+
+ 
+
+ 
+
+</center>
+ 
+
+<H1><P>Aaron's Bicycle Repair, Inc. Repair Standards
+<BR>Proponent: Seattle Bicycle Mechanic's Guild 
+</H1>
+<font face="arial">
+<P><B>Put 10 bicycle mechanics in a room together and give them a problem or ask for an opinion and they will emerge with 10 different answers!
+<BR>The purpose of <u>The Guild</u> is not to squash the inherenet individualism that comes from being a bicycle mechanic or to say that anyone's personal preference is wrong, but rather to foster a way of working on bikes that is both professional and mechanically sound. 
+
+<P><A href="carbonfiber.shtml" >Understand how to handle carbon fiber!</A>
+<P>Always read and follow manufactuer's instructions.  Many modern components must be serviced in a very specific manner to be safe.
+
+<P><font size=+2>Lubrication and Thread Prep</Font>
+<p>Lubricate or Prepare ALL threads! (oil threads M5 or smaller, grease M6 or larger) 
+
+<BR>Loc-tite 262 (<font color=red>red</font>): High strength 'permanent' for threads up to 3/4 inch
+<BR>Loc-tite 511 (<font color=orange>orange</font>): Rohloff drain screw and main rubber seals
+<BR>Loc-tite 641 (<font color=ffcc00>yellow</font>): FSA Carbon SLK crank-BB spline interface
+<BR>Loc-tite 680 (<font color=green>green</font>): Press-fits like headsets, cartridge bearings, axles
+<BR>Loc-tite 242 (<font color=blue>blue</font>): rack &amp; fender bolts and other small threads as necessary.
+<BR>Loc-tite 222 (<font color=purple>purple</font>): M4 or less fasteners, spoke nipples*, Campy BB Cups **
+
+<BR><font size= -1>* At ABR we use boiled linseed oil for spoke nipple threads.  A tried and  true (and non-toxic) method for preventing spoke nipples from loosening.
+<BR>** While Campagnolo recommends purple Loc-tight and finger tight, we prefer grease and proper torque! (35-50 ft/lbs)</font>
+
+
+
+<p>Thread locker and grease are not mutually exclusive.  For example bolts with factory applied threadlocker should often times still be lubricated!  Stem bolts for example.  Do not forget to lubricate under the head and both sides of the bolt head thrust washer.
+<BR>Use silver anti-seize for stainless steel and copper anti-seize for titanium.
+<BR>NEVER grease carbon components! Use carbon fiber friction paste.
+<BR>Plastic parts often require special lube. Example: Jonnisnot or Valsaline on Gripshifters
+<BR>Blue marine grease is recommended for: Lower Stack of Headsets, Cartridge Bearings, Unsealed Cup-and-Cone Bottom Brackets, Internal Gears (on the
+planets, ring and sun gears), Pedals, Ritchey Hubs, Avid BB Disc Brakes Ball Bearings.
+
+
+<P><font size=+2>Your safety and our liability, do  <font color=red>not</font> allow us to service a bicycle with these conditions (unless remedied).</font>
+<UL>
+<LI>Dog poop on the tires.
+<LI>Modified frames, forks or components that make the bike dangerous.  (e.g. A hole drilled in a fork, seatpost or stem.)
+<LI>Cut off drop handlebars that eliminate the hook position.
+<LI>Gasoline power.
+<LI>Bicycles recently cleaned with gasoline that still smell of it.
+<LI><A NAME="plasticbrakelevers"></A>Plastic brake levers (unless the body has a steel core or are SRAM brand)
+<img src ="images/plasticbrakelevers.jpg" align = "right">
+<LI>A missing or non-functional original brake.
+<LI>A single cable actuated brake on an adult bike that is not either fixed gear or coaster brake. (BMX bikes are an exception).
+<LI>A fixed gear bike with one brake and a freewheel on the flip side of the rear hub.  The freewheel must be removed even if it never gets used!
+<LI>A fixed gear bike with a single rear brake. To be safe, fixed gear bikes MUST have a front brake!  It is also the <a href="bikelaws.shtml#skid">law</A>.
+<LI>A lock that cannot be removed if it interferes with the operation or riding of the bike (especially  the steering!)
+<LI>Any dangerously worn, cracked or damaged component that the customer does not wish to replace (example: thin disc rotors). 
+<LI>A bent or cracked frame or fork.
+<LI>A missing handlebar plug.
+<LI>Non-functional suspension shock (front or rear).
+<LI>Frames / components that are covered in tape or innertubes, must have it removed prior to service so we can inspect the frame or component for cracks and damage.
+<LI>Quill type road pedals WITHOUT toe-clips.  They are very dangerous if wet and ridden with sneakers.  (see <A HREF="repairstandards.shtml#pedals">Pedals</A>)
+<LI>1" Carbon Steer Tubes *
+<LI>Carbon Drop-Outs *
+<LI>Crashed Carbon! *
+<LI>As of 2010, any Trek fork with a carbon steer tube must have a Bontrager stem installed.
+<LI>*Many carbon fiber components are specifically forbidden for street use. Read your owner's manual! Carbon drop-outs, seatposts and steer tubes are especially to be avoided!  See our <a href="carbonfiber.shtml">Carbon Fiber Warning Page</A>
+<LI>Wing Nuts on axles.  If you love the look of them fine, but when we service your bike it must have hex axle nuts.
+
+</UL>
+
+
+<P><font size=+2>Points to check when checking-in a bike for repair</font>
+<UL>
+<LI>Check carbon seatpost for damage and proper clamp position.
+<LI>Check carbon steer tube for damage and proper installation.
+<LI>Verify Over-Locknut-Dimesion matches frame spacing (pull rear wheel to check).
+<LI>Verify shiftlever matches number of gears on rear cluster.
+<LI>Check for current recalls (eg. Look Keo, Shimano Crank)
+</UL>
+
+<P><font size=+2>General Defaults</Font>
+<BR>Save all old parts except: Cables, bearings, worn chains and cut spokes.
+<BR>Components and Accessories are <i>GENERALLY</i> not to be modified (let the customer do it!)
+
+
+
+<P><U><font size=+2>Components Installation Guidelines and Default Standards for Repair, Installation & Adjustments</U>
+
+<P>Brakes</font> 
+<BR>Unless specifically requested by the customer, the right brake lever operates the rear brake. Common exceptions include, cyclcocross bikes, European customers and motorcycle riders.
+
+<P><font size=+2>Brakes: GENERAL</font> 
+<BR>Always verify that yokes, arms, levers, etc. do not bottom before full brake lever travel at the handlebar is reached!
+
+<P><font size=+2>Brakes: Disc [Cable Actuated]</font> 
+<BR>Avid BB7 brakes can be improved for NW wet weather by replacing the stock balls with stainless.
+<BR>Compressionless housing is recommended.  A full run is better than using cable stops.   
+<BR>Cut the excess cable no longer than 20mm past the pinch bolt so it cannot get caught in the rotor.
+<BR><A Href="avidballbearingdiscbrakewarning.pdf">Avid's Warning</A>   &nbsp;&nbsp;&nbsp;&nbsp;  <A Href="shimanodiscbrakesafetyinfo.pdf">Shimano's Warning</A>  
+
+<P><a name="discbrakes"><font size=+2>Brakes: Disc [Cable and Hydraulic]</font> 
+<P>It is important that you understand the differences in bicycle brake fluid.  Always use the right type for the brake and never mix fluids.
+<BR>Read this article on <a href="http://www.afcoracing.com/tech_pages/fluid.shtml">DOT fluid</A>. There is much confusion!
+<P>All disc brake pads must be replaced when the overall thickness (pad material and backing plate) measures less than 2.5-3mm. Check with the manufactuer! Avid  lists 3mm, Magura lists 2.5mm, Shimano measures pad material only with .5mm being the minimum.
+<BR>Disc rotors must be replaced when the middle of the pad track measures 1.5mm or less (Hayes 1.52mm).
+<BR>Some disc rotors have a thicker minimum so always check with the manufactuer.  
+<BR>It is very DANGEROUS to run brakes with thin rotors!
+
+<p>Disc rotors cannot normally be measured with a vernier caliper. A micrometer must usually be used because disc brake tracks wear in a concave shape.
+<BR>However, some wavey rotors can sucessfully be measured with vernier calipers.
+
+<P><img src="images/repairstandards/hayesdiscrotor.jpg" hspace=10><img src="images/repairstandards/shimanodiscrotor.jpg" hspace=10>
+<P>Most disc rotors now come stamped with a minimum thickness.  Older discs often do not but the minimum still applies!
+
+<P><img src="images/repairstandards/discmicrometer.jpg" hspace=10><img src="images/repairstandards/micrometer.jpg" hspace=10>
+
+<P>This rotor on the left measures new at 1.8mm. Nominal size is ususally listed as 2.0mm, but few actually measure that.
+<BR>The rotor on  the right (and in the two below pictures) measures 1.39mm, well below the minimum safe thickness!
+<BR>Note that unless a rotor has a wavy design it is impossible to get an accurate measurement by measuring across the outer edge.
+<P><img src="images/repairstandards/caliper1.jpg" hspace=10><img src="images/repairstandards/caliper2.jpg" hspace=10>
+<p>A special rule exists for Rohloff rotors <font size=-1>  f(rom an email with Stewart Stabik, OE Technical Support, Rohloff AG, Germany)</font>:
+<BR>0.3mm wear is the maximum wear permitted for Rohloff discs.
+
+
+<P><font size=+2>Brakes: Coaster</font> 
+<BR>Always use a Nylock nut on coaster brake arm straps. 6mm bolts are recommended for adult riders. Drill out strap hole if necessary.
+<BR>A front hand brake is STRONGLY recommended for adults using coaster brake bikes in hilly terrain (like Seattle!)
+
+<P><font size=+2>Brakes: Center Pull Cantilever</font> 
+<BR>Front brakes must have some sort of straddle cable fail-safe device. If the main cable breaks then the straddle cable can get caught on the tire causing the bike to stop instantly!  Knobby tires are more of a hazzard, but good practice dictates a catch be installed even on bikes with street tires because someone could change the tire.  A safety catch is normally accomplished by installation of a front reflector bracket at the fork crown. A front fender also does the job. If neither is present, it is possible to make a safety-bolt out of a long M5 or M6 bolt and 2 nuts sandwiched between the front of the fork crown.  If no safety catch is possible, an alternative is a piano wire or daisy chain of zip ties to the handlebar.
+<P><img src="images/repairstandards/cantireflectorbracket.jpg">
+
+<P><font size=+2>Brakes: Linear Pull Cantilever (a.k.a. V-Brakes)</font> 
+<BR>Minimum 45mm distance between noodle seat and cable anchor bolt for new brake pad set-up.
+<BR>Brake levers must be of linear pull design.
+<BR>Here is a scan of <A href="images/repairstandards/shimanovbrakeinfo.jpg">Shimiano's Official V-brake design and use page</A> including a warning and a compatibility chart.
+<BR>Cargo bikes with rim brakes must have Kool Stop salmon pads.
+
+
+
+
+
+<P><font size=+2>Brake Levers: Mountian Type</font> 
+<BR>Default postition: -30 to -45 from horizontal 
+<BR>On city type handlebars, make sure the brake lever is in-line with the riders arm and fingers.  Do not angle them outward!
+<BR>All plastic brake levers must be replaced with metal ones!  Plastic levers do not stay put and are prone to breaking!
+
+<P><font size=+2>Brake Levers: Road Drop Bar Type</font> 
+<BR>The tip of the lever just touches a line extended from the bottom of the drop. 
+<BR>When using with cantilevers, set yoke 1 cm higher than 90 degrees. 
+<BR>Campagnolo Ergopower <quote>"brifters"</quote> have a very narrow installation range on the handlebar.  Follow instructions!
+
+<P><font size=+2>Cables: Brake</font> 
+<BR>If possible run the rear brake housing around the left side of the headtube , even if the cable stop is on the right side of the bike. Sometimes it still will not work though, so then run it on the right side. Always check for cable housing <quote>"pull-out"</quote> by turning the handlebars as far as they will rotate left and right. Cut housing as short as will allow full rotation of the bars.
+<P><img src="images/repairstandards/rearbrakecablerouting.jpg">
+<P>Routing cable housing in the above manner prevents the housing from touching the frame.  Vibrations and dirt can cause the housing to wear into the frame (especially aluminum and carbon frames).
+<BR>Grease the head of tight fitting cable heads so that corrosion is not a problem and they can be removed in the future. Most MTB cable heads do not need grease.
+<BR>Verify that a ferrule (housing end cap) is needed or NOT needed inside the brake lever.  Many modern brake levers do NOT need a ferrule!  Use of a ferrule in many Shimano brake levers results in the cable rubbing on the ferrule resulting in rough cable movement.
+
+<P><font size=+2>Cables: Gear</font> 
+<BR>Cross the cables on downtube routing when ever possible.  
+<BR>Usually not possible if the cable stops are on the side of the downtube. Don't do it if the bare cables run against the frame. 
+<BR>For top tube cable routing, run each shifter's housing to the opposite cable stop, then run the bare cable parallel, and cross the housing by the seat cluster over to the correct cable stop. 
+<BR>Grease is not recommended for index cables. A dry lube like Dri-Slide is preferred.
+<P><img src="images/repairstandards/housingwear.jpg" hspace=5><img src="images/repairstandards/housingwearafter1.jpg" hspace=5><img src="images/repairstandards/housingwearafter2.jpg"> 
+<BR>Whatever you do, make sure that the housing is not <quote>"statically"</quote> rubbing on the frame when the bike is being ridden straight.  Dirt and vibrations  can actually wear THROUGH carbon fiber frames!  In the case above, the front gear housing should have been routed on the outside of the front brake cable. That would have prevented the frame wear. <BR>The cables are crossed underneath the downtube.  The <font color="FFDD00">yellow arrow</FONT> shows the frame wear and the <font color="66CCFF">blue arrow</FONT> shows the housing worn through to the wire strands.  This Cannondale Synapse Carbon Fiber bike has only 2000 miles on it!
+<BR>Preventing frame wear, especially on carbon fiber frames, is what is important!
+<BR>Grease the head of tight fitting cable heads so that corrosion is not a problem and they can be removed in the future.
+
+
+<P><font size=+2>Chain</font>
+<BR>As a general rule, do not replace chains without the cassette. 
+<BR>Modern cassette teeth are very short and cannot accept a new chain when even slightly worn. Exceptions include, older high quality or tall teeth (old style cogs) and most older freewheels.
+<BR> Test new chain first and always include room in estimate for new cogs and chainrings! 1/16" stretch over 12 inches is the MAXIMUM for chain only replacement. (older tall toothed cogs may allow up to 1/8" stretch.
+<P><img src="images/repairstandards/cogcomparison1.jpg"><img src="images/repairstandards/cogcomparison2.jpg">
+<P>The cog on the left is an older SunTour Winner cog.  It measures 1.86mm thick.  
+<BR>The one on the right is a SRAM Open Glide 10 speed cog.  It measures 1.53mm thick.
+<BR>Also note how the SRAM cog teeth are shorter than the SunTour.  The height and thickness of the cog is what gives it durability.  Modern cogs are NOT durable.
+<BR>A modern chain should be replaced as soon as any dicernable <quote>"stretch"</quote> is noticed.  For 10 speed drivetrains replace the chain between 1/128<sup>th</sup> and 1/64<sup>th</sup> of elongation, any longer and a new cassette will most likely be needed.  Usually if you notice mushrooming of the cog teeth, then it is too late.
+<P><A HREF ="cogwear.shtml" >Chain/Cog Wear Description</A> by John Forester
+<BR><A HREF ="http://www.sheldonbrown.com/chains.shtml" >Chain/Cog Wear Description</A> by<A HREF ="http://www.sheldonbrown.com" >Sheldon Brown</A>
+<BR><A HREF ="http://pardo.net/bike/pic/fail-004/000.shtml">Chain/Cog Wear Description</A>by <A HREF ="http://pardo.net">Pardo</A>
+
+<P>Chain Tensioners
+<BR>Simple Chain bikes (example: Single Speed, Internal Gear) with <i>vertical</i> dropouts must have a chain tensioner installed because of the possibility of the chain falling off as the chain wears.  Fixed Gear and Coaster Brake hubs are not recommend with vertical dropouts.
+
+
+<P><font size=+2>Crank & Bottom Bracket</font> 
+<BR>No grease or oil on square BB spindle. It is a dry press fit! Except splined type, then use grease. 
+
+
+<P><font size=+2>Grips</font>
+<BR>To better lock-on grips, clear spray lacquer. Put a nickel in each BMX or kid's bike grip to save the ends.
+
+
+<P><font size=+2>Headset</font>
+<BR> Replace any BB style lockring with spacers.
+<BR>Use blue marine grease and loose balls in lower stack.
+<BR>Cartridge bearing (e.g. Chris King) type REQUIRE head tube, fork crown and stem facing.
+
+
+<P><font size=+2>Handlebars: Cruiser/City Type</font> 
+<BR>Default postition: Point towards the chainstay bridge 
+
+<P><font size=+2>Handlebars: Mountain Type</font>  
+<BR>Default postition: Oriented flat (swept back, not up or down) 
+
+<P><font size=+2>Handlebars: Road Drop Type</font> 
+<BR>Default postition: Point drop at the rear brake bridge
+
+<P>Hubs 
+<BR>It is recommended that grease be added to the bearins during a hub adjustment.
+
+<P><A NAME="pedals"><font size=+2>Pedals & Shoes</font> 
+<BR>Cleat should not be installed on shoes without a <A href="http://bikefitkit.com/fit_kit/rad_kit.php" >R.A.D.</A> adjustment. 
+<BR>Exceptions include 10 degree or more float systems such as: Time, Bebop, Eggbeaters, Speedplay, etc. 
+<BR>Quill type pedals should NEVER be used without toe-clips installed.  They are extremely slippery when wet, especially on the flip side. 
+<P><img src="images/repairstandards/quillpedal1.jpg" align="left"><img src="images/repairstandards/quillpedal2.jpg" align="right">
+
+<BR clear="all">
+
+<P><font size=+2>Quick Releases</font> 
+<BR>Default postion: Criterium style
+<BR>Front Hub: Parallel to the fork or straight back, horizontal 
+<BR>Rear Hub:  pointed between the seat and chain stays 
+<BR>Seat Post:  pointed back bisecting the angle between the seat stays and seat post 
+<BR>Levers should NEVER touch the frame.
+<P><img src="images/repairstandards/qr.jpg">
+
+
+<P><font size=+2>Rims</font>
+<BR>Double wall rims must have a proper rim strip, or better, rim tape.  Rubber rim strips are not compatible with double wall rims.
+
+
+<P><font size=+2>Seats</font> 
+<BR>Default position: Installed level and moved 1 to 2 cm aft for better comfort.
+
+
+<P><font size=+2>Seatpost</font> 
+<BR>Mark customers position when removing! 
+<BR>Gease all metal seatposts in metal frames.  If either or both the frame and seatpost are carbon, then use carbon prep.
+<BR>Frame should be checked for burrs and all edges should be filed 45 degrees or rounded, including the slot.
+<BR>Carbon posts should be cut down for the customer's height so that a long section is not installed deep in the frame.  Make sure at least 3 cm of post extends below the bottom of the top tube.  
+<BR>Carbon must be installed with friction paste. 
+<BR>Carbon seatposts are NOT compatible with steel frames with integrated seatpost collars (most older road frames). 
+
+
+<P><font size=+2>Shifters: Gripshift</font> 
+<BR>Orient cable pipe vertically. This gives better acess to the barrel adjuster.
+
+<P><font size=+2>Shifters: Mountian Type</font>
+<BR>Comfortably match brake lever position and angle for good ergonomics (see pictures below.  Shifter and brake lever angle will vary depending on the handlebar style and angle.
+<P>Position Shimano Rapid Fire Plus trigger shifters in from the lever so the inside trigger doesnt crowd the grip. The right picture, below, is correct.
+<P><img src="images/repairstandards/mtbshifterpositionbefore.jpg"><img src="images/repairstandards/mtbshifterpositionafter.jpg" hspace=10>
+
+<P><font size=+2>Shifters: Road Brake/Shifters (a.k.a. Brifters)</font> 
+<BR>Older Shimano grease often hardens up and makes it seem like the shifter is broken.  Degreasing and re-lubing will often fix the shifter.  This also applies to many Shimano mountain bike shifters.  Great care must be taken when disassembling shifters as they are not designed to be serviceable.  We have found that they  often can be take appart to a point.  This allows access to the stuck pawls.  
+<BR>Campagnolo Ergopower levers have very specific mounting instructions.  Failure to follow them can result in the lever detaching from the handlebar!
+<P><img src="images/repairstandards/ergopower.jpg">
+
+<P><font size=+2>Shifters: Internally Geared Hubs</font> 
+<BR>Full length housing is recommended on hubs with a built in cable stop on the shifter mechanism at the hub (example: Rohloff, Shimano Alfine, SRAM Spectro 7).  Hubs that use an indicator chain do not need full length housing.
+
+<P><font size=+2>Stem</font>
+<BR>Set at the max height line unless otherwise noted. Always mark customers position when removing! 
+<BR>Max line or hash marks must not be visible! If no minimum insertion mark is visible, then insert wedge type expander stems 65mm from the bottom of the quill. 
+<BR>As a general rule carbon steer tubes must have at least 8-10mm of steer tube sticking above the stem.For cone  type expander, make sure the it expands below the steer tube threads. Depending on the brand, the maximum allowable spacer stack below the stem and above the headset is 40-50mm.
+<BR>Threadless stems must have the steer tube inserted at least as far as the center of the top pinch bolt.
+<P><img src="images/repairstandards/steertubestem.jpg">
+
+
+<P><font size=+2>Tires</font> 
+<BR>Position valve stem at pressure rating when installing new tire.  Note tread direction on knobbies. Road tires are NOT directional, no matter what the tire says!
+
+
+<P><font size=+2>Tubes</font>  
+<BR>Always use the fattest tube that the tire can handle. 
+<BR>Using a small tube can cause the tube to rupture next to the valve core.
+<BR>A patched tube, done with a standard vulcanizing patch kit, is as good as new and saves resources!
+<BR>Schrader valve tubes are more durable than presta.  Most rims can be safely drilled to fit schrader valves.  Drill size is 21/64"
+<BR>Always use a grommet or Wheels MFG Stem Saver when using presta valves in rims drilled for schrader
+
+
+<P><font size=+2>Wheel Building</font> 
+<BR>The only brand of nipples we will use are DT.  Alloy are to be used for race wheels only.
+<BR>If a wheel is laced with the wrong length spokes, then the spokes are not to be reused! 
+<BR>All wheels will be built 3 cross, with linseed oil and with the pulling spokes heads in (outbound). 
+<BR>We will build a wheel other than 3 cross (e.g. Radial), but no warranty is given. 
+<BR>We will not build a wheel with: carbon spokes, spline drive nipples, or any other unproven technology. 
+<BR>Stick a Phil and ABR sticker on each rim by the rim decal 
+<BR>When selling a stock wheel, add grease to bearings and true, tension & stress relieve wheel. 
+<BR>Line up valve hole with the label on the hub and orient the rim so it can be read from the right side of the bike. 
+
+
+
+
+
+
+<P><font size=+3>GENERAL REPAIRS</font>  
+<BR>See also, the <A href="tuneupdetail.shtml" >Tune-Up checklist</a>
+
+<P><font size=+2><a href="bikeassembly.shtml" >Bicycle Assembly</A> upgrades over stock</font>
+<BR>Add Grease to all bearings. 
+<BR>Pedals need no special service (do not add oil!). 
+<BR>Headsets: Lower stack gets loose balls, even on so-called cartridge style. 
+<BR>Correct any short/long cable housing lengths (cut to ideal or replace with longer). 
+
+<P><font size=+2>Mechanics Daily Responsibilities</font>
+<BR>Call any customers that have missed their appointment that day, first thing! 
+<BR>Put away small parts collected from the days work.
+<BR>Clear and clean workbench tops at days end.
+<BR>Make notes as to what has been done on any repair left in stand and neatly organize work order and parts. 
+<BR>Sweep or vacuum repair area.
+<BR>Clean and maintain tools.
+
+<P><font size=+2>Aluminum and Titanium Bolts</font> 
+<BR>Replace all titanium or aluminum bolts with steel, unless specifically requested by customer. We cannot guarantee work done on non-steel bolts. Examples include crank and stem bolts. 
+
+<P><font size=+2>Spoke Protectors</font> 
+<BR>Any bike we do a Tune-Up, Overhaul or major drivetrain work, a spoke protector (a.k.a. Frisbee) should be installed.  If the customer refuses, then explain the dangers of not using one and note the repair ticket.  Keep in mind that the CPSC requires them.
+<P><img src="images/derailleurinspokes.jpg">
+
+<P><font size=+2>Single Speed / Fixed Gear & BMX Bikes</font> 
+<BR>Bikes with a fixed cog <i>without</i> a track (left-handed thread only) lockring must have two functional brakes. Freewheel hub conversions with a BB lockring are NOT exempt from this rule. BMX bikes designed by the manufacturer with just a rear brake are the only exceptions. 
+<BR>On BMX bikes put a zip tie around frame and housing at the split stops on the frame. This keeps the housing from pulling out of the stop when the bars are turned more than 180 degrees. 
+
+<P><font size=+2>Front Reflector Bracket</font>
+<BR>Any bike we do a Tune-Up, Overhaul or any major brake work to <i>and</i> that has cantilever brakes, a fork mounted reflector bracket or "Safety Bolt" installed must be installed. The only exceptions are if fenders are installed or the fork will not accept one. In that case note danger on repair ticket. Smooth street tires are NOT and exception because knobbies could be installed causing the dangerous straddle cable lock-up the fail safe device is designed to prevent.
+<P>INSERT PICTURE HERE
+
+<P><font size=+2>Service Stickers</font>
+<BR>Install an ABR yellow sticker at front base of seat tube as low as possible (do not cover other stickers) and a RideYourBike.com chain slap guard on  the right chainstay.  This helps us identify bikes we have done major service on.  They are similar to oil change stickers automotive shops use.
+
+
+
+
+
+<P><font size=+3>ACCESSORIES</font>
+
+<P><font size=+2>Bar Ends</font>
+<BR>Angled up no more than 45 and down no more than horizontal. 
+
+<P><font size=+2>Cyclometer</font>
+<BR>Sensor goes on the right fork leg. If there is a lot of extra wire, coil most of it around the bar not the brake housing. Never wrap more than 4 turns around a bare cable. 
+
+<P><font size=+2>Fenders</font>
+<BR>Use blue loc-tite and fender washers. 
+<BR>Add mud flap to front fender if missing.
+
+<P><font size=+2>Frame Eyelets Order</font>
+<BR>Racks go on the top (forward) one, Fenders go on the back (lower) one. Always use front fender stay safety releases unless the stays are mounted higher on the fork (e.g. low rider rack bosses)
+
+<P><font size=+2>Kickstand</font>
+<BR>Cut the Greenfield kickstand off at 1 cm shorter than the bottom bracket height (center of BB to ground). 
+<BR>ESGE Centerstands are not compatible with non-parallel chainstays where they join the BB.  If installing on a bike with angled out chainstays, then replace the top plate with a flat version like Greenfield.  The stock beveled top plate will not hold tight on most bikes.  The kickstand will come loose and damage the chainstays.
+<p><IMG SRC="images/repairstandards/esgekickstand.jpg">
+
+<P><font size=+2>Rear Rack</font>
+<BR>The top must be horizontal! Use blue loc-tite and 4mm allen head bolts. 
+
+<P><font size=+2>Toe Clips</font>
+<BR>Installed all the way out on the pedal 
+
+<P><font size=+2>Toe Straps</font>
+<BR>Run on the inside of the cage tab and twisted once 
+
+<P><font size=+2>Reflectors & Lights</font>
+<BR>Perpendicular to the ground and 90 degrees to the bike and clean!
+<BR>Reflectors that are below the tire, must be moved up above the tire so they do not get caught in the spokes. 
+<BR>Under no circumstances should a customer's reflectors be removed!  The CPSC requires the front, rear, pedals and both wheels of the bike have approved reflectors.
+<BR>The only exception is a rear tail light that has a built-in approved reflector.
+<BR>The light on the left is OK, the example on the right is not.
+<p><IMG SRC="images/repairstandards/reflectortaillight.jpg">
+
+</body>
+
+</html>
+               

@@ -1,0 +1,42 @@
+<HTML>
+<HEAD>
+
+<TITLE>Road Frames from Aaron's Bicycle Repair</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="yellow">
+
+<!--#include virtual="/menu.inc"-->
+<center>
+
+<P><H2>ROAD FRAMES</H2>
+
+<B>
+
+<p><IMG SRC="images/heronframe.jpg">
+<p><A HREF="heron.shtml" >Heron</A> (touring and sport road)
+<HR>
+
+<p><IMG SRC="images/surlyframe.jpg">
+<p><A HREF="http://www.surlybikes.com" >Surly</A>
+<HR>
+
+<p><IMG SRC="images/cannondaleroadframe.jpg" >
+<p><A HREF="http://www.cannondale.com" >Cannondale</A>
+<HR>
+
+<p><IMG SRC="images/rivendellatlantis.jpg">
+<p><A HREF="atlantisgeometry.shtml" >Rivendell</A>
+<HR>
+
+<p><IMG SRC="images/somatouring.jpg">
+<p><A HREF="http://www.somafab.com" >SOMA</A>
+<HR>
+
+
+<P><H2><B>[<A HREF="home.shtml" >Home</A>]</B></H2>
+
+</BODY>
+</HTML>
+ 
