@@ -1,0 +1,40 @@
+<HTML>
+<HEAD>
+
+<TITLE>Bike Fit Pictures</TITLE>
+<META NAME="keywords" CONTENT="bike, fit, bicycle, fitting">
+<META NAME="description" CONTENT="Bicycle Fitting Images">
+</HEAD>
+
+<BODY BGCOLOR="yellow">
+<center>
+
+<!--#include virtual="/menu.inc"-->
+
+<H2>These images may help you understand bike fitting better.</h2>
+
+<BR Clear="all">
+<IMG SRC="images/bikegeometry.gif" WIDTH=685 HEIGHT=475>
+<BR Clear="all">
+<IMG SRC="images/3riders.gif" WIDTH=656 HEIGHT=512>
+<BR Clear="all">
+<IMG SRC="images/3positions.gif" WIDTH=352 HEIGHT=355>
+<BR Clear="all">
+<IMG SRC="images/3heads.gif" WIDTH=366 HEIGHT=442>
+<BR Clear="all">
+<IMG SRC="images/menandwomen.gif" WIDTH=433 HEIGHT=428>
+<BR Clear="all">
+<IMG SRC="images/stems.gif" WIDTH=126 HEIGHT=438>
+<BR Clear="all">
+<IMG SRC="images/sexbikes.gif" WIDTH=363 HEIGHT=335>
+<BR Clear="all">
+<IMG SRC="images/framediagram.gif" WIDTH=600 HEIGHT=585>
+<BR Clear="all">
+
+<A Href = "fitkitpics.shtml">Pictures of the procedure</A>
+
+
+
+
+</BODY>
+</HTML>

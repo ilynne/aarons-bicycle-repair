@@ -1,0 +1,213 @@
+<HTML>
+<HEAD>
+
+   <TITLE>Rental Rates</TITLE>
+</HEAD>
+
+<BODY BGcolor="yellow">
+
+
+<!--#include virtual="/menu.inc"-->
+
+
+<Center>
+
+<P><h1>Bicycle Rentals</h1>
+
+<table cellpadding =30>
+<tr>
+<td>
+<P><B><A Href="workbenchrental.shtml" >Workbench Rental</A> also available.
+
+<p>Aaron's Bicycle Repair, Inc. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href="aerialphoto.shtml" >Map</A>
+<BR>9988 15<sup>th</sup> Avenue SW, Suite E 
+<BR>Seattle, WA    98146   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Phone: (206) 938-9795
+
+
+<p>Valid ID and a VISA/MC or Cash security deposit required.<BR><font color= "red">All bikes come with a Helmet, Lock & Water Bottle filled with filtered water!.</font>
+<BR>Your Clipless pedals installed No Charge. We have SPD clones for use.
+<P>Reservations generally not required for regular bikes.  If you do want to make reservations on the trailer or hard case, for example, call the shop at (206) 938-9795.  
+<BR>Prepayment of the rental fee will be required.
+<BR>An invoice with a payment link will be emailed to you.
+<P><B>2 HOUR MINIMUM</B> &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbspGrace Period: Daily: 24 + 2 hours &nbsp;&nbsp;&nbsp; Hourly: 10 minutes.
+
+</td>
+
+<td>
+<a href="http://bikerentusa.com"><img src="images/bikerentusalogo.jpg" alt="BikeRentUSA.com Rent a Bike Anywhere in the United States" border=0></a>
+</td>
+
+</tr>
+</table>
+
+<P>If you are looking for skis, snowboards, snow shoes, kayaks, paddleboards, inline skates, skate boards, etc.
+<BR>Visit our friends at <A Href="http://www.m2sOutfitters.com">Mountain to Sound Outfitters</A>
+
+<P><H1>RENTAL FEES ARE PAID WHEN YOU RETURN THE BIKE!<h1>
+
+
+
+
+
+<TABLE Align="center" BORDER=2  WIDTH="80%" BGcolor="black"></FONT>
+<TR>
+<TH COLSPAN="7"><B><FONT COLOR="yellow"><FONT SIZE=+3>RENTAL RATES</FONT></FONT></B></TH>
+</TR>
+
+
+<TR>
+<TD><center><B><font color= "black">Spacer</TD>
+<TD><center><B><font color= "yellow">Hourly</TD>
+<TD><center><B><font color= "yellow">Daily<BR>(any 24 hrs)</TD>
+<TD><center><B><font color= "yellow">Weekend<BR>(Any 3 Days)</TD>
+<TD><center><B><font color= "yellow">Weekly</TD>
+<TD><center><B><font color= "yellow">Monthly</TD>
+<TD><center><B><font color= "yellow">Security Deposit</TD>
+</TR>
+
+
+
+
+
+
+
+<TD><center><P><A Href="basicrental.shtml"><IMG SRC="images/rental/basicthumb.jpg" align="center"></A>
+<P><font color= "yellow"><B>Basic Mountain Bike<BR>Size 18"</TD>
+<TD><center><B><font color= "yellow">$10</TD>
+<TD><center><B><font color= "yellow">$40</TD>
+<TD><center><B><font color= "yellow">$70</TD>
+<TD><center><B><font color= "yellow">$125</TD>
+<TD><center><B><font color= "yellow">$300</TD>
+<TD><center><B><font color= "yellow">$500</TD>
+</TR>
+
+
+
+
+<TR>
+<TD><center><A Href="images/rental/serfashardcase.jpg"><IMG SRC="images/rental/serfashardcasethumb.jpg" align="center"></A>
+<P><font color= "yellow"><B><a href="http://www.serfas.com" >Serfas</A><BR>Travel Case</TD>
+<TD><center><B><font color= "yellow">N/A</TD>
+<TD><center><B><font color= "yellow">N/A</TD>
+<TD><center><B><font color= "yellow">N/A</TD>
+<TD><center><B><font color= "yellow">$50</TD>
+<TD><center><B><font color= "yellow">$100</TD>
+<TD><center><B><font color= "yellow">$400</TD>
+</TR>
+
+
+
+
+<TR>
+<TD><center><A Href="images/rental/jekyllrental.jpg"><IMG SRC="images/rental/jekyllrentalthumb.jpg" align="center" ></A><P><B><font color= "yellow">Full Suspension <BR>Size Large</TD>
+<TD><center><B><font color= "yellow">N/A</TD>
+<TD><center><B><font color= "yellow">$75</TD>
+<TD><center><B><font color= "yellow">$150</TD>
+<TD><center><B><font color= "yellow">$300</TD>
+<TD><center><B><font color= "yellow">$500</TD>
+<TD><center><B><font color= "yellow">$5000</TD>
+</TR>
+
+
+<TR>
+<TD><center><A Href="images/rental/captainamerica.jpg"><IMG SRC="images/rental/captainamericathumb.jpg" align="center" ></A><P><B><font color= "yellow">56cm Racing</TD>
+<TD><center><B><font color= "yellow">N/A</TD>
+<TD><center><B><font color= "yellow">$75</TD>
+<TD><center><B><font color= "yellow">$150</TD>
+<TD><center><B><font color= "yellow">$300</TD>
+<TD><center><B><font color= "yellow">$500</TD>
+<TD><center><B><font color= "yellow">$5000</TD>
+</TR>
+
+
+<TR>
+<TD><center><B><font color= "black">Spacer</TD>
+<TD><center><B><font color= "yellow">Hourly</TD>
+<TD><center><B><font color= "yellow">Daily<BR>(any 24 hrs)</TD>
+<TD><center><B><font color= "yellow">Weekend<BR>(Any 3 Days)</TD>
+<TD><center><B><font color= "yellow">Weekly</TD>
+<TD><center><B><font color= "yellow">Monthly</TD>
+<TD><center><B><font color= "yellow">Security Deposit</TD>
+</TR>
+
+<TR>
+<TD><center><A Href="images/rental/tandem.jpg"><IMG SRC="images/rental/tandemthumb.jpg" align="center"></A>
+<P><B><font color= "yellow">Tandem</TD>
+<TD><center><B><font color= "yellow">N/A</TD>
+<TD><center><B><font color= "yellow">$75</TD>
+<TD><center><B><font color= "yellow">$150</TD>
+<TD><center><B><font color= "yellow">$300</TD>
+<TD><center><B><font color= "yellow">$500</TD>
+<TD><center><B><font color= "yellow">$4000</TD>
+</TR>
+
+
+
+
+<TR>
+<TD><center><A Href="images/rental/bobtrailer.jpg"><IMG SRC="images/rental/bobtrailerthumb.jpg" align="center"></A>
+<P><B><font color= "yellow">Cargo Trailer<BR><a href="http://www.bobtrailers.com" >B.O.B.</A> <BR><font color= "yellow">Yellow Dry Bag included</TD>
+<TD><center><B><font color= "yellow">N/A</TD>
+<TD><center><B><font color= "yellow">$25</TD>
+<TD><center><B><font color= "yellow">$45</TD>
+<TD><center><B><font color= "yellow">$75</TD>
+<TD><center><B><font color= "yellow">$150</TD>
+<TD><center><B><font color= "yellow">$600</TD>
+</TR>
+
+<TR>
+<TH COLSPAN="7"><B><FONT COLOR="yellow">Our BOB trailer will fit most bikes except single speed bikes with a coaster brake.
+</BR>Email us a picture of your rear wheel area if you are not sure.
+<P>WHEN RENTING THE BOB TRAILER, BRING YOUR BIKE IN SO WE CAN INSTALL THE SPECIAL QUICK RELEASE SKEWER HITCH.
+</TR>
+
+
+<TR>
+<TD><center><A Href="images/bigmove2008/haulplywood1.jpg"><IMG SRC="images/bigmove2008/haulplywood1thumb.jpg" align="center"></A>
+<P><B><font color= "yellow"><a href="http://www.haulincolin.com" >Haulin' Colin</A> Cargo Trailer</TD>
+<TD><center><B><font color= "yellow">N/A</TD>
+<TD><center><B><font color= "yellow">$40</TD>
+<TD><center><B><font color= "yellow">$75</TD>
+<TD><center><B><font color= "yellow">$100</TD>
+<TD><center><B><font color= "yellow">$300</TD>
+<TD><center><B><font color= "yellow">$2000</TD>
+</TR>
+<TR>
+<TH COLSPAN="7"><B><FONT COLOR="yellow">Your bike must be present at time of rental for hitch installation.  NO EXCEPTIONS!</TH>
+
+</TR>
+
+
+<TR>
+<TD><center><A Href="xtracycle.shtml"><IMG SRC="images/rental/rentalunivegaxtracyclethumb.jpg" align="center"></A>
+<P><B><font color= "yellow"><A Href="xtracycle.shtml">Xtracycle</A><BR>Surly Big Dummy<BR>Cargo Bike</TD>
+<TD><center><B><font color= "yellow">$10</TD>
+<TD><center><B><font color= "yellow">$75</TD>
+<TD><center><B><font color= "yellow">$200</TD>
+<TD><center><B><font color= "yellow">$400</TD>
+<TD><center><B><font color= "yellow">$600</TD>
+<TD><center><B><font color= "yellow">$5000</TD>
+</TR>
+
+
+
+<TR>
+<TD><center><B><font color= "black">Spacer</TD>
+<TD><center><B><font color= "yellow">Hourly</TD>
+<TD><center><B><font color= "yellow">Daily<BR>(any 24 hrs)</TD>
+<TD><center><B><font color= "yellow">Weekend<BR>(Any 3 Days)</TD>
+<TD><center><B><font color= "yellow">Weekly</TD>
+<TD><center><B><font color= "yellow">Monthly</TD>
+<TD><center><B><font color= "yellow">Security Deposit</TD>
+</TR>
+
+
+</TABLE>
+
+
+<P><H2><B>[<A HREF="home.shtml" >Home</A>]</B></H2>
+
+
+</BODY>
+</HTML>
+     

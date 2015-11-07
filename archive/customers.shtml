@@ -1,0 +1,27 @@
+<html>
+
+<Body bgcolor="yellow">
+<center>
+
+
+<!--#include virtual="/menu.inc"-->
+
+<P><h2>ABR Customers and their Bikes</h2>
+
+<P><A NAME="padme"><img src ="images/customers/padme.jpg" vspace=10>
+<P><B>Padme and her new Cannondale Bad Boy city bike with green Chris King Hubs
+<HR>
+
+
+
+<P><B><A HREF="customers2.shtml" >More Customer Pictures</A>
+<BR><A HREF="steellugs.shtml#lugcustomers" >Lugged Steel Riders</A>
+<BR><A HREF="singlespeed.shtml" >Single Speed</A>
+<BR><A HREF="xtracycle.shtml#xtracyclers" >Xtracyclers</A>
+
+
+
+<P><H2>[<A HREF="home.shtml">Home</A>]</B></H2>
+
+</body>
+</html>

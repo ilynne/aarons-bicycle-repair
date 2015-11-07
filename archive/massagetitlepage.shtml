@@ -1,0 +1,72 @@
+<HTML>
+<HEAD>
+
+<TITLE>Massage Therapy</TITLE>
+
+<META NAME="description" CONTENT="Massage Therapy at Aaron's Bicycle Repair">
+
+</HEAD>
+
+<BODY BGCOLOR="yellow">
+
+
+<!--#include virtual="/menu.inc"-->
+
+
+
+<FONT="HELVETICA">
+
+<center>
+<p><H1>Massage Therapy</H1>
+
+<P align="justify"><B>Now offering Ashiatsu Oriental Bar Therapy.
+<BR>For more info come in for a tour, or see <A HREF="http://www.deepfeet.com" >Deep Feet</A> or <A HREF="http://www.sweetfeetbodyworks.com" >Sweet Feet Bodyworks</A>
+
+<P align="justify">Gypsie graduated massage school in February 1996.  She provides a supportive, caring and relaxing massage. She specializes in relaxation, deep tissue, and sports massage. A treatment schedule can also be set up for any work, car or sports related injuries. 
+
+<Table align="center">
+<TR>
+
+<TD>
+<P><B>For an appointment:
+<BR>(206) 938-9795  
+<BR><A HREF="mailto:massage@rideyourbike.com">massage@rideyourbike.com</A>
+</TD>
+
+<TD>
+<P><BR><B>Rates:
+
+<br>Half Hour $30
+<BR>Hour $60
+<BR>Hour and Half $80
+
+</TD>
+</TR>
+
+
+<TR>
+<TD>
+<IMG SRC="images/massage/gypsiemassagetable.jpg" WIDTH="400" HEIGHT="300" HSPACE=10 VSPACE=10>
+</TD>
+
+<TD>
+<IMG SRC="images/massage/massageroomnorth.jpg" WIDTH="400" HEIGHT="300" HSPACE=10 VSPACE=10>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<IMG SRC="images/massage/massageroomsouth.jpg" WIDTH="400" HEIGHT="300" HSPACE=10 VSPACE=10>
+</TD>
+
+<TD>
+<IMG SRC="images/massage/massageroomwindow.jpg" WIDTH="400" HEIGHT="300" HSPACE=10 VSPACE=10>
+</TD>
+</TR>
+
+</Table>
+
+
+<Center><P><H2><B>[<A HREF="home.shtml" >Home</A>]</B></H2>
+</BODY>
+</HTML>

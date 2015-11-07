@@ -1,0 +1,593 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0062)http://students.washington.edu/dennyt/bike/cargo/designdoc.htm -->
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 9">
+<link rel=File-List href="./cargobikedesigndoc_files/filelist.xml">
+<link rel=Edit-Time-Data href="./cargobikedesigndoc_files/editdata.mso">
+<link rel=OLE-Object-Data href="./cargobikedesigndoc_files/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>-</o:LastAuthor>
+  <o:Created>2005-12-10T19:06:34Z</o:Created>
+  <o:LastSaved>2006-02-13T00:13:11Z</o:LastSaved>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+.font7
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	white-space:normal;}
+.xl25
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl26
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	white-space:normal;}
+.xl27
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl28
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl29
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl30
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl31
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-weight:700;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl32
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl33
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>designdoc</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:HorizontalResolution>-3</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:DoNotDisplayGridlines/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>38</x:ActiveRow>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>8955</x:WindowHeight>
+  <x:WindowWidth>14235</x:WindowWidth>
+  <x:WindowTopX>480</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple class=xl24>
+
+
+<!--#include virtual="/menu.inc"-->
+
+<!--The following information was generated by Microsoft Excel's Publish as Web
+Page wizard.--><!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.--><!-----------------------------><!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD --><!----------------------------->
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1192 style='border-collapse:
+ collapse;table-layout:fixed;width:895pt'>
+ <col class=xl24 width=214 style='mso-width-source:userset;mso-width-alt:7826;
+ width:161pt'>
+ <col class=xl24 width=978 style='mso-width-source:userset;mso-width-alt:35766;
+ width:734pt'>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl27 width=214 style='height:30.0pt;width:161pt'>Cargo
+  Bike Design Documentation</td>
+  <td class=xl28 width=978 style='border-left:none;width:734pt' id=entityInfo>Updated
+  2-12-06 by Aaron Goss</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl25 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>&nbsp;</td>
+  <td class=xl25 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr class=xl26 height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl28 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Requirements</td>
+  <td class=xl28 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Gross Vehicle Weight</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>800lbs
+  max</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Cargo Room</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>2'
+  wide, 3' long behind rider's heels</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Overall Length</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>not
+  important</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Standover Height</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'
+  x:str="699mm  We need to allow for the lowest seat height (BB center to top of saddle) to be 700mm as a minimum (Gypsie's seat height).  ">699mm<span
+  style="mso-spacerun: yes">  </span>We need to allow for the lowest seat
+  height (BB center to top of saddle) to be 700mm as a minimum (Gypsie's seat
+  height).<span style="mso-spacerun: yes">  </span></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Rider Size Range</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>5'6&quot;
+  to 6''8&quot;</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Accessory Accommodations</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Fenders
+  (with 2.35 tires), StokeMonkey (3/4&quot; tube), front rack on downtube
+  extension</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Ground Clearance</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Ability
+  to climb/descend 6&quot; or higher square curb</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Maximum Lean Angle</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>TBD
+  (width and height of cargo area frame rails are design variables)</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Standard Cargo Loads</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Unloaded;
+  Hay; Chicken Feed; Couch; Toolbox; Drill Press; Passengers; Loose Dirt</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>&nbsp;</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl28 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Specifications Decided Upon</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Two Wheels</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Because
+  we don't want to build a Trike</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>20&quot; Wheels</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>21&quot;
+  actual wheel size with large tire.</td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td height=32 class=xl29 width=214 style='height:24.0pt;border-top:none;
+  width:161pt'>Clearance for 2.7&quot; actual tire width<font class=font7> with
+  fenders</font></td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>West
+  Coast Chopper fenders?</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Integrated Center-Stand</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>with
+  handlebar brake lever actuation (like Val's bike) Val to design.</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Side kickstand</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Why
+  not have both?<span style="mso-spacerun: yes">   </span>Will need special
+  bracket on boom tube and a custom tube extension for a Greenfield 305mm
+  stand.</td>
+ </tr>
+ <tr height=19 style='mso-height-source:userset;height:14.25pt'>
+  <td height=19 class=xl29 width=214 style='height:14.25pt;border-top:none;
+  width:161pt'>Plastic rails on cargo area frame rails</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>To
+  prevent hanging-up on curbs and driveways (Skate Board type, Nylatron?)</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:13.5pt'>
+  <td height=18 class=xl29 width=214 style='height:13.5pt;border-top:none;
+  width:161pt'>Tube Dimensons</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>DT
+  2&quot;<span style="mso-spacerun: yes">    </span>Seat Tube 1-1/4&quot;<span
+  style="mso-spacerun: yes">    </span>TT 1-1/4&quot;<span style="mso-spacerun:
+  yes">    </span>SS 3/4&quot;<span style="mso-spacerun: yes">   
+  </span>2-1/2&quot; Boom<span style="mso-spacerun: yes">   </span>Rack
+  3/4&quot;<span style="mso-spacerun: yes">  </span>Tandem Chainstays<span
+  style="mso-spacerun: yes">   </span>HT 1-1/2 x .083 machined to<span
+  style="mso-spacerun: yes">  </span>external butt. Steerer 1-1/8&quot;</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Albatross Handlebars</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Vertical Drop-outs</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Will
+  need to cut our own, solid. Rohloff specific <font class=font7>with
+  dearilleur hanger</font></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Mid-chain double wheel tensioner</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Double
+  pully type, location and design to be determined. Singulator style mounted to
+  a 10x 1mm hole could be easy.</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Frame Material: 4130 Steel</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>American BB Shell</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Rohloff Hub</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>40
+  x 16 Gear (actual tire diameter is 21&quot; for gear calculations) <font
+  class=font7>OTHER OPTIONS?</font></td>
+ </tr>
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td height=40 class=xl29 width=214 style='height:30.0pt;border-top:none;
+  width:161pt'>Bed Deck</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'
+  x:str="Lenghtwise Spruce slats coated with water-proof clear coat, mounted to bed supports with &quot;J&quot;-brackets and carridge bolts with nylok nuts. Brackets could be made out of L-Alumunim. ">Lenghtwise
+  Spruce slats coated with water-proof clear coat, mounted to bed supports with
+  &quot;J&quot;-brackets and carridge bolts with nylok nuts. Brackets could be
+  made out of L-Alumunim. </td>
+ </tr>
+ <tr height=44 style='mso-height-source:userset;height:33.0pt'>
+  <td height=44 class=xl29 width=214 style='height:33.0pt;border-top:none;
+  width:161pt' x:str="Design of Bed Framework ">Design of Bed Framework </td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Welded-on
+  cross members. Square corners. Front &quot;fence&quot; framework to support
+  top rails.<span style="mso-spacerun: yes">  </span>Also perhaps wood (spuce?)
+  slats should be installed as well and design side pannels to be able to carry
+  loose loads like sand/dirt/yard waste.<span style="mso-spacerun: yes"> 
+  </span>Perhaps we should use marine grade plywood instead of slats?</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Rear Rack design</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>See
+  new drawing</td>
+ </tr>
+ <tr height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl29 width=214 style='height:28.5pt;border-top:none;
+  width:161pt'>Removable bed upper rails</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Aluminum
+  tubes or square stock with M8 x 1.25 stainless bolts (same as a standard
+  seatpost bolt!)<span style="mso-spacerun: yes">  </span>Rails should bolt-on
+  (stash) to the bottom of the deck when not in use. Stainless nuts could be
+  brazed on to the bed supports.<span style="mso-spacerun: yes">  </span>Deck
+  side grind rails should be thicker than the stashed rails.</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Chain Routing and Tensioning</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Top
+  run of chain is straight with a 2-pully style tensioner on bottom run.</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Boom Tube</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>2
+  1/2&quot; boom tube STAINLESS (because it is available in the diameter and
+  wall thickness we need)<span style="mso-spacerun: yes">  </span><font
+  class=font7>DENNY- do we need that large?</font></td>
+ </tr>
+ <tr height=32 style='height:24.0pt'>
+  <td height=32 class=xl29 width=214 style='height:24.0pt;border-top:none;
+  width:161pt'>Brake</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Hayes
+  Hydraulic with 8&quot; rotors.<span style="mso-spacerun: yes"> 
+  </span>Someone is making a 9&quot; rotor, need to find who. As the front fork
+  drop-outs are drawn, hydraulic hose routing should NOT be a problem with a
+  Hayes brake!</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Fork</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Existing
+  fork dimesions are agreed.<span style="mso-spacerun: yes">  </span>No
+  prototype.<span style="mso-spacerun: yes">  </span>First fork will have
+  Maxle.<span style="mso-spacerun: yes">  </span>Chalo to machine fork ends.</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:13.5pt'>
+  <td height=18 class=xl29 width=214 style='height:13.5pt;border-top:none;
+  width:161pt'>Basket mount</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Large
+  tube stub welded to head tube.<span style="mso-spacerun: yes">  </span>Basket
+  frame support to slide over telescopically with a clamp like a seat collar.</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>&nbsp;</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr height=97 style='mso-height-source:userset;height:72.75pt'>
+  <td height=97 class=xl29 width=214 style='height:72.75pt;border-top:none;
+  width:161pt'>Stoke Monkey</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Rear
+  triangle to be built with room for motor and plate welded on for motor
+  mount.<span style="mso-spacerun: yes">  </span>Mount should be inline with BB
+  and motor axle to eliminate tension cable system. KMC PT710-NP Half Link
+  (Pintle) Chain 1/8&quot; would be a good choice for the chain to allow small
+  chain length adjustments. 1/8&quot; freewheel and chainwheel would increase
+  durability. BMX Left Side Drive crankarm makes it easy, except the larges
+  chainring is only 48 teeth. Maybe Chalo can find larger? Todd recommended 60T
+  with the more powerful motor. Remember 1/8&quot; thick is nice, but not
+  absolutly necessary.The &quot;dry zone&quot; just in front of the rear wheel
+  would be a good place for the SM battery and controller.<span
+  style="mso-spacerun: yes">  </span>Will require much longer wires.</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>&nbsp;</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl28 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Performance Targets</td>
+  <td class=xl28 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Descending</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>Queen
+  Anne Counterbalance, without brake fading / failure, fully loaded on a hot
+  day</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Climbing</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>TBD
+  (400watts fully loaded, minimum Rohloff gearing, minimum balance speed)</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Frame Stiffness</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>TBD
+  (bounce mode, torsion mode, lateral mode)</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Safety Factors</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>TBD
+  (yield and fatigue)</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>&nbsp;</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Progress</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl29 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Drawing is now metric!<span style="mso-spacerun: yes">  
+  </span>1mm = .03937&quot;</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr height=48 style='mso-height-source:userset;height:36.0pt'>
+  <td colspan=2 height=48 class=xl30 width=1192 style='height:36.0pt;
+  width:895pt'>Aaron has built the front wheel with Schwalbe Big Apple 20 x
+  2.35&quot; tire, 48 spoke Diatech &quot;Swinger&quot; hub (convertible from
+  20mm Thru-axle or standard QR) and Alex Supra E rim (according to Chalo, the
+  strongest rim of any size made!). The hub will allow us to make a prototype
+  fork with long horizontal dropouts to experiment with trail, then build a
+  thru-axle fork once determined and use the same wheel. The hub comes with
+  different end caps.</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td colspan=2 height=17 class=xl31 width=1192 style='height:12.75pt;
+  width:895pt'>Next Meeting: Monday, February, 27th, 2006 @ 7:30 PM (Meet at
+  David's Shop then move to Stellar)</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td colspan=2 height=17 class=xl30 width=1192 style='height:12.75pt;
+  width:895pt'>Stellar Pizza , Ale &amp; Cocktails 5513 Airport Way S, Seattle,
+  WA 98108 (206) 763-1660</td>
+ </tr>
+ <tr height=51 style='mso-height-source:userset;height:38.25pt'>
+  <td colspan=2 height=51 class=xl32 width=1192 style='border-right:.5pt solid black;
+  height:38.25pt;width:895pt'>Chalo to update existing drawing and create top
+  view.<span style="mso-spacerun: yes">  </span>Denny to report on boom tube
+  size required, even if he cannot attend? Please!<span style="mso-spacerun:
+  yes">  </span>Order tubing!<span style="mso-spacerun: yes">  </span>David
+  will need some money.<span style="mso-spacerun: yes">  </span>So far we have
+  paid around $250<span style="mso-spacerun: yes">  </span>David?<span
+  style="mso-spacerun: yes">  </span>Also from David, can we get an estimate
+  for building the frameset (unpainted with minimal braze-ons at this point)?
+  Aaron will work on a parts package price.<span style="mso-spacerun: yes"> 
+  </span>Val, price of kickstand?</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=214 style='height:12.75pt;border-top:none;
+  width:161pt'>Misc. Notes:</td>
+  <td class=xl29 width=978 style='border-top:none;border-left:none;width:734pt'>&nbsp;</td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td colspan=2 height=32 class=xl32 width=1192 style='border-right:.5pt solid black;
+  height:24.0pt;width:895pt'>Denny can do 3D modeling. Chalo can print life
+  size drawings</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=214 style='width:161pt'></td>
+  <td width=978 style='width:734pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

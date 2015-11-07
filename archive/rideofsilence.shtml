@@ -1,0 +1,169 @@
+<html>
+<HEAD>
+
+<!--#include virtual="/menu.inc"-->
+
+<TITLE>::Ride of Silence::</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<script>
+function openCenterWin(url, w, h)
+{
+  theHeight = h;
+  theWidth = w;
+  var theTop=(screen.height/2)-(theHeight/2);
+  var theLeft=(screen.width/2)-(theWidth/2);
+  var features='height='+theHeight+',width='+theWidth+',top='+theTop+',left='+theLeft+",scrollbars=yes";
+  theWin=window.open(url,'mywin',features);
+  theWin.focus();
+}
+</script>
+
+<style type="text/css" media="screen">
+<!--
+/*body { background:#707E8E; margin:0; padding:0; }*/
+img { display:block; }
+td {
+color: #FFFFFF;
+font-family: Trebuchet MS;
+font-size: 12px;
+}
+.header {
+font-size: 26px;
+}
+a {
+color: white;
+text-decoration: none;
+}
+a:hover {
+color: white;
+text-decoration: underline;
+}
+/* define override to make in-text links more visible */
+a.visilink {
+  color: white;
+	text-decoration:underline;
+}
+.msg-box {
+	color:black; 
+	background:white; 
+	padding:15px; 
+	border:3px #566370 solid; 
+	font-weight:bold;
+}
+.msg-error {
+	font-size:larger;
+	color:red;
+	margin-bottom:10px;
+}
+-->
+</style>
+<!-- STYLESHEET FOR PRINT FORMATTING -->
+<style type="text/css" media="print">
+<!--
+width:7in;
+margin:0; padding:0;
+.noprint { display:none; }
+a { color: black; text-decoration:none; }
+-->
+</style>
+</HEAD>
+<BODY BGCOLOR=#707E8E LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+<TABLE width="100%" height="100%" border=0>
+<TR><TD valign="top" align="center">
+<TABLE WIDTH=762 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR class="noprint">
+		<TD ROWSPAN=3 WIDTH=15 HEIGHT=600 background="images/lt.jpg">
+<img src="http://www.rideofsilence.org/images/spacer.gif" width=15"></TD>
+		<TD ROWSPAN=2 valign="top" background="images/bg.gif" style="border-bottom: 1px solid #545F6B;" valign="top" align="center" >
+			<a href="http://www.rideofsilence.org/"><IMG SRC="http://www.rideofsilence.org/images/main_02.jpg" WIDTH=164 HEIGHT=192 ALT="Ride of Silence logo" border=0></a>
+			<table>
+			<tr>
+				<td><li> <a href="http://www.rideofsilence.org/main.php">Home</a></li></td>
+			</tr>
+			<tr>
+				<td><li> <a href="http://www.rideofsilence.org/history.php">History</a></li></td>
+			</tr>
+			<tr>
+				<td><li> <a href="http://www.rideofsilence.org/locations.php">Locations / Contacts</a></li></td>
+			</tr>
+			<tr>
+				<td><li> <a href="http://www.rideofsilence.org/addlocation.php">Add a Location</a></li></td>
+			</tr>
+			<tr>
+				<td><li> <a href="http://www.rideofsilence.org/memoriam.php">In Memoriam</a></li></td>
+			</tr>
+<!-- 			
+			<tr>
+				<td><li> Photos (coming soon)</li></td>
+			</tr>
+ -->
+ 			<tr>
+				<td><li> <a href="http://www.rideofsilence.org/resources.php">Organizer Resources</a></li></td>
+			</tr>
+			<tr>
+				<td><li> <a href="http://www.rideofsilence.org/contact.php">Contact Us</a></li></td>
+			</tr>
+			<tr>
+				<td><li> <a href="lhttp://www.rideofsilence.org/inks.php">Links</a></li></td>
+			</tr>
+
+			</table><br><br><br><br><br></TD>
+		<TD><a name="top"></a>
+			<IMG SRC="http://www.rideofsilence.org/images/main_03.jpg" WIDTH=568 HEIGHT=135 ALT=""></TD>
+<TD ROWSPAN=3 WIDTH=15 HEIGHT=600 background="images/gt.jpg">
+<img src="http://www.rideofsilence.org/images/spacer.gif" width=15></TD>
+		<TD>
+			<IMG SRC="http://www.rideofsilence.org/images/spacer.gif" WIDTH=1 HEIGHT=135 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD ROWSPAN=2 WIDTH=568 HEIGHT=465 bgcolor="#7C8A9A"style="border-bottom: 1px solid #545F6B;" valign="top"><table cellpadding="4" cellspacing="4">
+				<tr>
+				<td>
+				<font class="header"></font>
+				</td>
+				</tr>
+				<tr>
+				<td>
+<p><H3>7:00PM Wednesday, May 17th, 2006 at  Gasworks Park</H3>
+
+<p>Join cyclists worldwide in a silent slow-paced ride (max. 12 mph/19.3 kph) 
+in honor of those who have been injured or killed while cycling on public roadways.</p>
+
+<p>Why does this site exist?<br><br>
+To <strong>HONOR</strong> those who have been injured or killed<br><br>
+To <strong>RAISE AWARENESS</strong> that we are here<br><br>
+To ask that we all <strong>SHARE THE ROAD</strong><br><br>
+</p>
+
+<p>THE RIDE OF SILENCE WILL NOT BE QUIET<br> 
+On May 17 at 7:00 PM, the Ride of Silence will begin in North America and roll across the globe.  Cyclists will take to the roads in a silent procession to honor 
+cyclists who have been killed or injured while cycling on public roadways. Although cyclists have a legal right to 
+share the road with motorists, the motoring public often isn't aware of these rights, and sometimes not aware of the 
+cyclists themselves.</p>
+
+<p>In 2003, Chris Phelan organized the first Ride Of Silence in Dallas after endurance cyclist Larry Schwartz was hit by 
+the mirror of a passing bus and was killed.</p>
+
+<p>The Ride Of Silence is a free ride that asks its cyclists to ride no faster than 12 mph and remain silent during the 
+ride. There is no brochure, no sponsors, no registration fees and no t-shirt. The ride, which is being held during Bike 
+Safety month, aims to raise the awareness of motorists, police and city officials that cyclists have a legal right to 
+the public roadways. The ride is also a chance to show respect for those who have been killed or injured.</p> 
+
+<p>Please check the resources on this site. If there is a Ride of Silence in your area, we encourage you to join them. 
+If there is not a ride planned in your area, please consider adding your city to the ever-growing list of sites. 
+To get information on how to organize and host a Ride of Silence, please click <a class="visilink"  href="http://www.rideofsilence.org/howto.php" target="_blank">HERE</a>.</p>
+
+
+<P><H3>7:00PM Wednesday, May 17th, 2006 at  Gasworks Park  </H3>
+				</td>
+				</tr>
+			</table>
+<br><br><br></TD>
+		<TD>
+			<IMG SRC="http://www.rideofsilence.org/images/spacer.gif" WIDTH=1 HEIGHT=57 ALT=""></TD>
+	</TR>
+</TABLE>
+</TR>
+</TABLE>
+</BODY>
+</HTML>

@@ -1,0 +1,23 @@
+<HTML>
+<HEAD>
+
+   <TITLE>ABR Hours</TITLE>
+</HEAD>
+<BODY>
+
+<!--#include virtual="/menu.inc"-->
+<B><font size="+2">
+<P>Volts (V), Amperes (A) and Watts (W) are all units of electricity.
+<P>V = W / A
+<P>A = W / V
+<P>W = V x A
+<P>Everyone knows how bright a 100 watt light bulb looks. However, watts aren't a good way to tell the brightness of a light source.  Most street lights are 100 watts for example.
+<BR>Bulb quality, material, the inert gasses inside the bulb (Krypton or Halogen), reflector and lenses all contribute to light output. The units <i>Lumen</i>, <i>Lux</i> and  <i>Foot-Candle</i> are used to determine actual brightness.  You could purchase a Lux Meter or just come into our shop and try out the lights in person. Many of the new LED lights are amazingly bright.
+<BR>It is our opinion that many bike lights are TOO BRIGHT!  Especially for trail use, where bikes come at you head-on.
+<BR>Our staff commutes by bike all year long, so we have first-hand experience of what works.
+<P><A HREF="http://www.nscl.msu.edu/~daniel/regulator.shtml#lgtlnk" >Dynamo Lighting Links</A>
+</font>
+
+</BODY>
+</HTML>
+ 

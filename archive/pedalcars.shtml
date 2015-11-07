@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+
+
+<TITLE>Pedal Cars</TITLE>
+
+</HEAD>
+
+
+<BODY BGCOLOR="yellow">
+
+
+<!--#include virtual="/menu.inc"-->
+
+<center>
+
+<P><H1><Font Color ="red">Pedal Car Brands we sell.</H1>
+
+
+<table>
+<tr>
+<td>
+<A HREF="http://www.american-retro.com" ><IMG SRC="images/americanretrologo.jpg" border=0></A>
+</td>
+<td>
+<A HREF="http://www.american-retro.com" ><IMG SRC="images/americanretrofiretruck.jpg" border=0></A>
+</td>
+</tr>
+
+<tr>
+<td>
+<A HREF="http://www.pedalcar.com" ><IMG SRC="images/pedalcarcom.jpg" border=0></A>
+</td>
+<td>
+<A HREF="http://www.pedalcar.com" ><IMG SRC="images/pedalcarscom55chevy.jpg" border=0></A>
+</td>
+</tr>
+
+<tr>
+<td>
+<A HREF="http://www.instep.net" ><IMG SRC="images/insteplogo.jpg" border=0></A>
+</td>
+<td>
+<A HREF="http://www.instep.net" ><IMG SRC="images/insteptowtruck.jpg" border=0></A>
+</td>
+</tr>
+
+
+</table>
+
+
+
+</BODY>
+</html>

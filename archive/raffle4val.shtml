@@ -1,0 +1,67 @@
+<html>
+
+
+<Body bgcolor="yellow">
+
+
+<!--#include virtual="/menu.inc"-->
+
+<center>
+
+<P><H2>Benefit Raffle for Val Kleitz</H2>
+<P><img src="images/staff/valtools.jpg" vspace="10" WIDTH=300 HEIGHT=231>
+<P><A HREF="valsbio.shtml" >Read Val's Bio</A>
+<B>
+
+<P>Posted: 1:15PM December 20th, 2009
+<BR>And the winner number is...   307762!  Eric Berg! Come on down!
+
+<P><img src="images/winningticketdrawer.jpg" vspace="10">
+<P><img src="images/winningticket2.jpg" vspace="10">
+
+
+
+
+<p>If you cannot visit us to buy a ticket, you can still help with donations via Paypal.
+<BR>All proceeds go to Val to help with his cancer medical bills.
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+<BR>Winner will recieve a 2010 Redline 925 Bicycle (Turquoise, 52cm)
+
+<P>Sponsored by Aaron's Bicycle Repair, Inc., Redline Bicycles and Pike Brewing
+<BR>Tickets are $5 each and you may purchase as many as you wish.
+<BR>You must be at least 18 years old.
+<BR>Winner does not need to be present to win.
+<BR>The drawing will be held at Aaron's Bicycle Repair on Sunday December 20<sup>th</sup>, 2009 at 1 o'clock PM
+<BR>Val should be present because he works at the shop on Sundays!
+
+<P>You must visit our shop in person to purchase a ticket. (Washington State Gambling Commission rules!)
+
+<P>To donate by check, make payable to Val Kleitz and mail to:
+<BR> Aaron's Bicycle Repair, Inc. 6527 California Avenue SW, Seattle, WA 98136
+<BR>Cash donations can be accepted in person at the shop.
+
+
+<P>If you cannot make it to the shop or party, come on the <A STYLE="text-decoration:none"  HREF ="cargobikeride23.shtml" >Buy Nothing Day Ride</A> and see Val on his bike!
+<P><img src="images/xtracycle\buynothingday/7.jpg" vspace="10">
+
+<P>Come see Val at his <a href="savevalsassparty.htm" >PARTY</A> on Tuesday, November 17th, 8 o'clock PM at Pike Place Brewing.
+
+<p>Surly Bikes donated a 20" Big Dummy Frameset for the cause.
+<BR>It was raffled off at the <a href="savevalsassparty.htm" >party</A>.  <a href="http://blogs.phred.org/blogs/alex_wetmore/default.aspx" >Alex Wetmore</A> won it but is selling it and giving the money to Val!
+<P><center><A href="http://www.surlybikes.com" ><IMG SRC="http://surlybikes.com/uploads/frames/FM3166.jpg" border=0></a></center>
+
+
+<P>Questions and comments:
+<BR><A HREF="mailto:aaron@rideyourbike.com">aaron@RideYourBike.com</A>
+
+<P><H2><B>[<A HREF="home.shtml" >Home</A>]</B></H2>
+
+</body>
+</html>      

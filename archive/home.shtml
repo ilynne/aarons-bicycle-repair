@@ -1,0 +1,40 @@
+<BASE HREF="http://www.rideyourbike.com/">
+
+<HTML>
+<HEAD>
+
+<META NAME="description" CONTENT="A local West Seattle bicycle store and service shop. We specialize in repair and fitting. Let us help you find your dream bike in the correct size! We do it right the first time!">
+
+<meta name="robots" content="index,follow">
+<meta name="author" content="Aaron Goss">
+
+
+<link rel="shortcut icon" type="image/ico" href="http://www.rideyourbike.com/abr.ico"> 
+
+<TITLE>Aaron's Bicycle Repair</TITLE>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- 
+if (top == self) self.location.href = "index.shtml"; 
+// -->
+</SCRIPT>
+
+<Body bgcolor="yellow">
+
+<!--#include virtual="/menu.inc"-->
+
+<P><H2><B><A HREF="index.shtml" >Click to go to our home page.</A></B></H2>
+
+</BODY>
+
+
+
+</HTML>
+
+
+
+
+
+
+
+                                                             

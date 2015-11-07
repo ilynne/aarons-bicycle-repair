@@ -1,0 +1,118 @@
+<HTML>
+<HEAD>
+ 
+<TITLE>ABR Hours</TITLE>
+</HEAD>
+<BODY bgcolor="yellow">
+
+<center>
+
+
+<!--#include virtual="/menu.inc"-->
+
+
+<P><B>Aaron's Bicycle Repair, Inc. Shop Hours
+
+<P>We are also closed for these 8 holidays:  New Years Day, Easter, Memorial Day, Independence Day,<br> Labor Day, Thanksgiving, Buy Nothing Day (day after Thanksgiving) and Christmas.
+
+<table>
+
+
+<tr>
+<td>
+
+<TABLE BORDER=2 WIDTH="75%" cellpadding=2>
+<TR>
+<TH COLSPAN="4"><p><B><FONT COLOR="blue"><FONT SIZE=+3>HOURS</FONT>
+<BR><FONT COLOR="red">We CLOSE <i>weekdays</i> from 2 to 3 PM for lunch.
+</FONT></TH>
+
+
+</TR>
+
+<TR>
+<TD><B>SUNDAY</TD>
+<TD COLSPAN = 3><B><center>CLOSED</TD>
+</TR>
+
+<TR>
+<TD><B>MONDAY</TD>
+<TD COLSPAN = 3><B><center>CLOSED</TD>
+</TR>
+
+<TR>
+<TD><B>TUESDAY</FONT></TD>
+<TD><B>11 to 2</TD><TD><B><font color = Red>Lunch 2 to 3</Font></TD><TD><B>3 to 7</TD>
+</TR>
+
+<TR>
+<TD><B>WEDNESDAY</TD>
+<TD><B>11 to 2</TD><TD><B><font color = Red>Lunch 2 to 3</Font></TD><TD><B>3 to 7</TD>
+</TR>
+
+<TR>
+<TD><B>THURSDAY</TD>
+<TD><B>11 to 2</TD><TD><B><font color = Red>Lunch 2 to 3</Font></TD><TD><B>3 to 7</TD>
+</TR>
+
+<TR>
+<TD><B>FRIDAY</TD>
+<TD><B>11 to 2</TD><TD><B><font color = Red>Lunch 2 to 3</Font></TD><TD><B>3 to 7</TD>
+</TR>
+
+<TR>
+<TD><B>SATURDAY</TD>
+<TD COLSPAN = 3><B><center>11 to 6</TD>
+</TR>
+</TABLE>
+
+</td>
+
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+
+<td>
+<P><BR>
+</td>
+
+
+</tr>
+
+
+
+
+
+
+
+<tr>
+<td>
+
+<P><A NAME="email"><B><font color="red">Aaron's Bicycle Repair, Inc.</font>
+<BR>9988 15th  Avenue SW, Suite E
+<BR>Seattle, Washington 98146
+<P><B>Email:
+<BR><A HREF="mailto:info@rideyourbike.com">info@rideyourbike.com</A>  
+
+<p>Note: We are located on the corner of 14th AVE SW and SW 100th ST in White Center Square / Hung Long Asian Market just 2 blocks south of Zippy's Giant Burgers and across the street from Big Al Brewing
+
+
+
+
+<p><A HREF="aerialphoto.shtml">Map</A>  to the NEW store in Rat city.
+</td>
+</tr>
+
+<tr>
+<td>
+<P><B>Why are we closed on Sundays and Mondays?  In a word: Family.
+<BR>Also, traditionally bicycle shops were closed those days. 
+</td>
+</tr>
+
+</table>
+
+<P><Center><B>If you would like an Alias to your current email, send an email to <A HREF="mailto:aaron@rideyourbike.com">aaron@rideyourbike.com</A>.
+<BR>You can have '<u>yourname@RideYourBike.com</U>'  There is no charge for this service.
+
+</BODY>
+</HTML>
+  

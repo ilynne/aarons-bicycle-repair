@@ -1,0 +1,235 @@
+<HTML>
+<HEAD>
+
+
+<TITLE>ABR Staff</TITLE>
+
+<META NAME="description" CONTENT="The staff of Aaron's Bicycle Repair, Inc.">
+</HEAD>
+
+<BODY BGCOLOR="yellow">
+
+<center>
+
+
+<!--#include virtual="/menu.inc"-->
+
+<H2>The Staff of Aaron's Bicycle Repair, Inc.</H2>
+
+<P><H4><font color="blue">Click thumbs for larger image</font>
+
+<P><A Href ="staffschedule.xls"  target = right>Staff Schedule</A></H4>
+
+
+<TABLE BORDER=0>
+
+<TR>
+<TD>
+<CENTER><A Href ="images/staff/alexandratools.jpg" ><IMG SRC="images/staff/alexandratoolsthumb.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=199></A>
+</TD>
+
+<TD><CENTER><A Href ="images/staff/kevintools.jpg" ><IMG SRC="images/staff/kevintoolsthumb.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=199></A>
+</TD>
+</TR>
+
+
+<TR>
+
+<TD>
+<B><CENTER>Alex Synodis-Butler<BR>Apprentice<BR>
+<BR><A HREF="mailto:alex@rideyourbike.com">alex@rideyourbike.com</A>
+<p><A HREF="alexandrasbio.shtml" ><i>Biography</i></A>
+</TD>
+
+
+<TD>
+<B><CENTER>Kevin Morales<BR>Shop Rat<BR>
+<BR><A HREF="mailto:kevin@rideyourbike.com">kevin@rideyourbike.com</A>
+<p><A HREF="kevinsbio.shtml" ><i>Biography</i></A>
+</TD>
+</TR>
+
+<TR>
+ <TD><H3><font color="yellow">SPACER</font></H2></TD>
+ <TD><H3><font color="yellow">SPACER</font></H2></TD>
+</TR>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TR>
+<TD>
+<CENTER><A Href ="images/staff/greggtools.jpg" ><IMG SRC="images/staff/greggtoolsthumb.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=199></A>
+</TD>
+<TD>
+<CENTER><A Href ="images/staff/aarontools.jpg"  ><IMG SRC="images/staff/aarontoolsthumb.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=199></A>
+</TD>
+</TR>
+
+
+<TR>
+<TD>
+<B><CENTER>Gregg Sundin<BR>Manager
+<BR><A HREF="mailto:gregg@rideyourbike.com">gregg@rideyourbike.com</A>
+<p><A HREF="greggsbio.shtml" ><i>Biography</i></A>
+</TD>
+<TD>
+<B><CENTER>Aaron Goss, Owner<BR>Master Mechanic<BR>Webmaster
+<BR><A HREF="mailto:aaron@rideyourbike.com">aaron@rideyourbike.com</A>
+<p><A HREF="aaronsbio.shtml"  ><i>Biography</i></A>
+</TD>
+</TR>
+
+
+<TR>
+ <TD><H3><font color="yellow">SPACER</font></H2></TD>
+ <TD><H3><font color="yellow">SPACER</font></H2></TD>
+</TR>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TR>
+<TD>
+<CENTER><IMG SRC="images/staff/valtools.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=199>
+</TD>
+
+<TD>
+<CENTER><A Href ="shopcats.shtml" ><IMG SRC="images/staff/shopcatsthumb.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=199></A>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<B><CENTER>The Late Val Kleitz<BR>Troubleshooter<BR>and former owner of <A HREF="http://www.thebikesmith.com" >Bikesmith</A>
+<BR><A HREF="mailto:val@rideyourbike.com">val@rideyourbike.com</A>
+<p><A HREF="valsbio.shtml" ><i>Biography</i></A>
+</TD>
+
+<TD> 
+<B><CENTER>Our Shop Cats <BR>Presta and Schrader<BR><p><A HREF="shopcats.shtml" ><i>Biography</i></A>
+</TD>
+</TR>
+
+<TR>
+ <TD><H3><font color="yellow">SPACER</font></H2></TD>
+ <TD><H3><font color="yellow">SPACER</font></H2></TD>
+</TR>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TR>
+<TD>
+<CENTER><A Href ="images/staff/mikeytools.jpg" ><IMG SRC="images/staff/mikeytoolsthumb.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=199></A>
+</TD>
+
+<TD>
+<CENTER><A Href ="images/staff/quincytools.jpg" ><IMG SRC="images/staff/quincytoolsthumb.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=199></A>
+</TD>
+
+</TR>
+
+<TR>
+<TD>
+<B><CENTER>Mikey Herring <BR>Master Mechanic<BR>  (FORMER AWESOME EMPLOYEE)
+<BR><A HREF="mailto:mikey@rideyourbike.com">mikey@rideyourbike.com</A>
+<p><A HREF="mikeysbio.shtml" ><i>Biography</i></A>
+</TD>
+
+<TD>
+<B><CENTER>Quincy<BR>Shop Greeter<BR>Dust Mop
+<p><A HREF="quincysbio.shtml" ><i>Biography</i></A>
+</TD>
+</TR>
+
+<TR>
+ <TD><H3><font color="yellow">SPACER</font></H2></TD>
+ <TD><H3><font color="yellow">SPACER</font></H2></TD>
+</TR>
+
+<TR>
+<TD><CENTER><A Href ="helpwanted.shtml" ><IMG SRC="images/staff/helpwanted.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=199></A>
+</TD>
+
+<TD><CENTER><A Href ="helpwanted.shtml" ><IMG SRC="images/staff/helpwanted.jpg"  VSPACE=10 HSPACE=10 WIDTH=300 HEIGHT=199></A>
+</TD>
+</TR>
+
+
+<TR>
+
+<TD>
+<P><B><CENTER><A Href ="helpwanted.shtml" >Help Wanted<BR>Click For More Info</A>
+<BR><A HREF="mailto:info@rideyourbike.com">info@rideyourbike.com</A>
+</TD>
+
+
+<TD>
+<P><B><CENTER><A Href ="helpwanted.shtml" >Help Wanted<BR>Click For More Info</A>
+<BR><A HREF="mailto:info@rideyourbike.com">info@rideyourbike.com</A>
+</TD>
+</TR>
+
+<TR>
+ <TD><H3><font color="yellow">SPACER</font></H2></TD>
+ <TD><H3><font color="yellow">SPACER</font></H2></TD>
+</TR>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TABLE>
+
+</BODY>
+</HTML>
+ 

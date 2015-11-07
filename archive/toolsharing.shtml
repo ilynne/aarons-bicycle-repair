@@ -1,0 +1,63 @@
+<HTML>
+<HEAD>
+<TITLE>Tool Sharing</TITLE>
+
+</HEAD>
+<body bgcolor=yellow>
+<!--#include virtual="/menu.inc"-->
+
+<center><B>
+<P><H2><font color="red">Tool Sharing</font></H2>
+<P><i>The place for Home Owners and Friends to find tools to borrow.
+<BR>Why buy when you can borrow? </i>
+<P><font color="Blue">Rules</font>:
+<UL>
+<LI>Just because a tool is listed, doesn't mean it is available to you!
+<LI>The loaning of tools is agreed upon by the individual parties.
+<LI>Please return tools with-in 2 weeks
+<LI>All tools are to be returned in BETTER CONDITION than when borrowed.
+<BR>This means Cleaned, Lubed and Repaired.
+<LI>Mark all your tools with your name!
+<LI>If you break someone's tool, please replace it with a new one.
+</UL>
+<P><BR>
+
+<table border=1 cellpadding="3" cellspacing="0">
+<tr bgcolor="black">
+<td><font size="2" color="white"><b>Name</b></font></td>
+<td><font size="2" color="white"><b>Phone Number</b></font></td>
+<td><font size="2" color="white"><b>Location</b></font></td>
+<td><font size="2" color="white"><b>Email</b></font></td>
+<td><font size="2" color="white"><b>Tools</b></font></td>
+</tr>
+
+<TR>
+<TD><B>Aaron Goss</TD>
+<TD><B>(206) 938-9795</TD>
+<TD><B>West Seattle 98106
+<TD><B><a href="mailto:aaron@rideyourbike.com">aaron@rideyourbike.com</A></TD>
+<TD><B>Roto-Hammer (aka Hammer Drill), Reciprocating Saw (aka Saws-All), Post Hole Digger, 4 Foot Steel Pry Bar, Electornic Stud Finder (really works!), Sledge Hammer, Wheel Barrow, Tin Snips, Skil Saw, Single Bag Concrete Mixer, Concrete Walkway Form, Toyota Tacoma Pick-Up Truck, Rug Doctor, Electric 1500 psi Pressure Washer</TD>
+</TR>
+
+<TR>
+<TD><B>Joel Schoenberg</TD>
+<TD><B>(206) 763-9977</TD>
+<TD><B>West Seattle 98106
+<TD><B><a href="mailto:j.schoenberg@comcast.net">j.schoenberg@comcast.net</A></TD>
+<TD><B>10 Ton Floor Jack (heavy duty), Clamshell Shovel, Beer Bottle Capper (adjustable), 22 Foot Extension Ladder, Outdoor Propane Cooker (black, stand-alone)</TD>
+</TR>
+
+
+<TR>
+<TD><B>Doug Hindman</TD>
+<TD><B>(206) 935-9611</TD>
+<TD><B>West Seattle 98136
+<TD><B><a href="mailto:brewer_doug@yahoo.com">brewer_doug@yahoo.com</A></TD>
+<TD><B>Circular Saw, 3/8" Electric Drill, Heat Gun, Shop Vac, Shovel, Picks, Sledge Hammers (large & small)</TD>
+</TR>
+
+
+
+</body>
+</HTML>
+ 

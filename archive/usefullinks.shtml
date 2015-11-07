@@ -1,0 +1,539 @@
+<HTML>
+<HEAD>
+   <META NAME="keywords" CONTENT="useful, link, links, bike, bicycle, bikes, bicycles, cycling">
+
+   <META NAME="description" CONTENT="Aaron's Bicycle Repair's Useful Links. Great links to Tech sites, Community Sites, Bike Hubs, etc.">
+
+<TITLE>Useful Links</TITLE>
+
+</HEAD>
+
+<body BACKGROUND="images/abr.gif">
+<!--#include virtual="/menu.inc"-->
+
+ 
+
+
+
+
+
+<Font face="arial">
+<center>
+
+<P><H1><center><font color="red">USEFUL LINKS</font></center></H1>
+
+<P><B><font color="green"><script language="JavaScript">
+now = new Date()
+if(0 == now.getDay())
+	document.write("Sunday, ")
+else if(1 == now.getDay())
+	document.write("Monday, ")
+else if(2 == now.getDay())
+	document.write("Tuesday, ")
+else if(3 == now.getDay())
+	document.write("Wednesday, ")
+else if(4 == now.getDay())
+	document.write("Thursday, ")
+else if(5 == now.getDay())
+	document.write("Friday, ")
+else if(6 == now.getDay())
+	document.write("Saturday, ")
+if(0 == now.getMonth())
+	document.write("January ")
+else if(1 == now.getMonth())
+	document.write("February ")
+else if(2 == now.getMonth())
+	document.write("March ")
+else if(3 == now.getMonth())
+	document.write("April ")
+else if(4 == now.getMonth())
+	document.write("May ")
+else if(5 == now.getMonth())
+	document.write("June ")
+else if(6 == now.getMonth())
+	document.write("July ")
+else if(7 == now.getMonth())
+	document.write("August ")
+else if(8 == now.getMonth())
+	document.write("September ")
+else if(9 == now.getMonth())
+	document.write("October ")
+else if(10 == now.getMonth())
+	document.write("November ")
+else if(11 == now.getMonth())
+	document.write("December ")
+now = new Date()
+	document.write(now.getDate())
+document.write(", ")
+now = new Date()
+
+now = new Date()
+	if (navigator.appName == "Netscape") {
+		var year = now.getYear() + 1900;
+		document.write(year)
+	}
+	else {
+		document.write(now.getYear())
+	}
+document.write("")
+
+if (document.layers) {
+origWidth = innerWidth;
+origHeight = innerHeight;}
+function reDo() {
+if (innerWidth != origWidth || innerHeight != origHeight)
+location.reload();}
+if (document.layers) onresize = reDo;
+</script>
+</font> <A HREF ="http://www.nnvl.noaa.gov/cgi-bin/index.cgi?page=ny"  >Where on Earth is tommorow?</A>
+
+
+<form>
+<input type="hidden" name="F_expr" value="(Math.round((C.value / 2.54)*100))/100 ">
+<input type="hidden" name="C_expr" value="(Math.round(((F.value * 2.54))*100))/100 ">
+<div align="center">
+<p><b>Measurement Conversions - enter a number in either field, then click outside the text box
+<br>English(Inches):<input type="text" name="F" value SIZE="15" onChange="eval('C.value = ' + this.form.C_expr.value)"> Metric(Centimeters):
+<input type="text" name="C" value SIZE="15" onChange="eval('F.value = ' + this.form.F_expr.value)"> <input type="reset" name="reset" value="reset"> </b></p>
+</div>
+</form>
+
+<Table>
+
+<TR>
+
+<TD>
+<B>
+
+<P><font size=+2>Tech & Info</font>
+<br><A HREF ="http://en.wikipedia.org/wiki/Category:Bicycle_parts"  >Bicycle Parts Definitions</A>  on Wikipedia
+<br><A HREF ="http://www.bicyclingwiki.com"  >Bicycling Wiki</A>
+<br><A HREF ="http://www.maxell.co.jp/e/products/materials/replacement_e.pdf" >Battery Cross Reference Chart</A> (PDF)
+<BR><A HREF ="http://www.maxell.co.jp/e/products/materials/micro_battery.html " >Battery Cross Reference Chart</A> (HTML)
+<BR><A HREF ="http://www.bicycleapparel.com"  >Bicycle Clothing Information</A>
+<BR><A HREF ="bikefitpics.shtml" >Bicycle Fitting Graphics</A>
+<BR><A HREF ="http://www.bikeforest.com" >The Bicycle Forest</A>  (all shapes and sizes)
+<BR><A HREF ="https://plus.google.com/photos/115815105594596909962/albums/5813068159292607697?authkey=CPHj1PqPzfT4uQE" >Bicycle Part Language Translation</A> 
+<BR><A HREF ="http://www.bikelugs.com" >Bike Lugs</A> (Kirk Pacenti Cycle Design)
+<BR><A HREF ="http://www.bikeparking.com" >Bike Parking Racks</A>
+<BR><A HREF ="http://www.thebiketool.com" >The Bike Tool (Easy Hand)</A>
+<BR><A HREF ="http://www.pardo.net/bike/pic/" >Broken Bike Bits</A> from <A HREF ="http://pardo.net" >Pardo</A>
+<BR><A HREF ="http://www.hubbub.com/ergoleverswshim9.htm" >Campagnolo Ergopower with Shimano 9-Speed</A>
+<p><A HREF ="cogwear.shtml" >Chain/Cog Wear Description</A>
+<BR><A HREF ="http://www.sheldonbrown.com/chains.html" >Chain/Cog Wear Description</A> from <A HREF ="http://www.sheldonbrown.com" >Sheldon Brown</A>
+<BR><A HREF ="http://pardo.net/bike/pic/fail-004/000.html" >Chain/Cog Wear Description</A> from <A HREF ="http://pardo.net" >Pardo</A>
+<BR><A HREF ="http://fagan.co.za/Bikes/Csuck" >Chain Suck</A> in a Nutshell
+<BR><A HREF ="http://www.nettally.com/palmk/crankset.html" >Crank Lenth Measurement</A>
+<BR><A HREF ="http://www.cycle-dynamics.com" >Cycle Dynamics</A> Titanium Cogs and Chainrings
+<BR><A HREF ="http://www.sheldonbrown.com/cyclecomputer_print.html"  >Cyclometer Calibration Table</A>
+<BR><A HREF ="http://www.derailleurhanger.com"  >Derailleur Hanger.com</A>
+<BR><A HREF ="http://phred.org/~alex/bikes/fendermudflap.html"  >Fender Flaps</A> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A HREF ="fenderflap.shtml"  >Why use a Fender Flap?</A>
+<BR>Fork Trail (steering geometry):  Articles: <A HREF ="http://www.phred.org/~josh/bike/trail.html" >1</A>&nbsp;&nbsp;&nbsp;<A HREF ="http://www.dclxvi.org/chunk/tech/trail" >2</A>
+&nbsp;&nbsp;&nbsp;Calculators: <A HREF ="http://www.kreuzotter.de/english/elenk.htm#lenk">1</A> &nbsp;&nbsp;&nbsp; <A HREF ="http://yojimg.net/bike/web_tools/trailcalc.php">2</A>
+
+<BR><A HREF ="images/skidspots.jpg" >Fixed Gear Tire Skid Spots</A> Courtesy <A HREF ="http://students.washington.edu/dennyt" >Denny Trimble</A>
+<BR><A HREF ="http://eehouse.org/fixin/fixmeup.php" >Fixed Gear with Vertical Drop-Outs</A> 
+<BR><A HREF ="http://www.bikeforest.com/CAD" >Frame Design (CAD) Program</A> 
+<BR><A HREF ="images/airoil.gif" >Front Shock Air-Oil Settings</A>
+<BR><A HREF ="images/27-700cgearchart.pdf" >27" / 700C Gear Chart</A>
+<BR><A HREF ="http://sheldonbrown.com/gears">Gear Calculator</A> (Sheldon Brown's)
+<BR><A HREF ="http://www.henryjames.com">Henry James Lugs</A>
+<BR><A HREF ="http://www.hippiesuspension.com">Hippie Tech Suspension</A>
+<BR><A HREF ="http://www.howstuffworks.com/bicycle.htm">How Bicycles Work</A> <font size=-1>(a very cool site!)</font>
+<BR><A HREF ="images/howtoadjustindexshifting.jpg">How to adjust index shifting.</A>
+<BR><A HREF ="boottire.shtml"  >How to boot a tire.</A>
+<BR><A HREF ="boxbike.shtml"  >How to box a bike.</A>
+<BR><A HREF ="http://www.jimlangley.net/crank/howtobuyabike1.html"  >How to buy a bicycle.</A>
+<BR><A HREF ="http://www.bikerackshops.com/howtochoosearack.html"  >How to choose a car rack.</A> We do not recommend roof racks!
+<BR>Roof Racks lower your MPG and you WILL drive under something eventually, ripping your bike off the top of your car.
+<BR><A HREF ="tirefold.shtml"  >How to fold a tire.</A>
+<BR><A HREF ="http://www.kenkifer.com/bikepages/skills/fixflat.htm"  >How to install a tire or fix a flat.</A>
+<BR><A HREF ="learntoride.shtml" >How to learn to ride a bike!</A>
+<BR><A HREF ="tapebars.shtml"  >How to tape handlebars.</A>
+<BR><A HREF ="http://www.jimlangley.net" >Jim Langley</A>
+<BR><A HREF ="http://www.export911.com/convert/conFac-N.htm" >Measurement Conversions</A> 
+<BR><A HREF ="http://home.pacifier.com/~tpaterek" >Paterek DOS Frame Design Program</A> 
+<BR><A HREF ="http://www.pedalmagic.com" >Pedal Magic</A>  Teach riding with out training wheels!
+<BR><A HREF ="http://www.chemicalelements.com" >Periodic Table of the Elements</A>
+<BR><A HREF ="http://www.sheldonbrown.com/rinard/EFBe/frame_fatigue_test.htm" >Road Frame Fatigue Test</A>
+<BR>Schwinn Serial Number Links:    <A HREF ="http://www.bunchobikes.com/serialnumber.htm" >1</A> <A HREF ="http://oldroads.com/sh_sn.asp" >2</A> <A HREF ="http://www.geocities.com/sldatabook/serial.html" >3</A>
+<BR><A HREF ="http://www.sheldonbrown.com/seatpost_sizes.html" >Seatpost Size Database</A> (Sheldon Brown's)
+<BR><A HREF ="http://www.sheldonbrown.com/articles.html" >Sheldon Brown Tech Articles</A>
+<BR><A HREF ="http://www.jtekengineering.com/shiftmate.htm"  >Shift Mate</A> An awesome product!
+<BR><A HREF ="bbmeasurements.shtml" >Shimano Bottom Bracket Right-Side Chain Line Factors</A>
+<BR><A HREF ="http://datenbanken.freepage.de/cgi-bin/feets/freepage_ext/41030x030A/rewrite/traut/SHIMANO.html#93" >Shimano Component Chronology</A>
+<BR><A HREF ="http://datenbanken.freepage.de/cgi-bin/feets/freepage_ext/41030x030A/rewrite/traut/SHIMANO.html" >Shimano Group Overview</A>
+<BR><A HREF ="http://techdocs.shimano.com/techdocs/index.jsp" >Shimano Technical Information</A>  (Aaron's bench is the <a href="http://www.rideyourbike.com/images/ABRshimanowebsite.jpg">banner picture</A>!)
+<BR><A HREF ="http://www.sturmey-archerheritage.com" >Sturmey Archer Heritage</A>
+<BR><A HREF ="http://www.faqs.org/faqs/bicycles-faq/part3/section-9.html" >Talc in tires?</A>
+<BR><A HREF ="images/airpressurechart.jpg" >Tire pressure chart</A>
+<BR><A HREF ="http://www.firstflightbikes.com/timeline.htm" >Timeline of Bikes and Parts</A>  Cool website!
+<BR><A HREF ="http://sheldonbrown.com/tires.html" >Tire Pressure Chart</A>
+<BR>Tire & Rim Size Charts: <A HREF ="images/tiresizechart.gif" >1</A>&nbsp;&nbsp;&nbsp;<A HREF ="http://www.sheldonbrown.com/tire_sizing.html" >2</A>&nbsp;&nbsp;&nbsp;<A HREF ="http://www.bikecult.com/works/wheelsizes.html" >3</A>
+<BR><A HREF ="http://weightweenies.starbike.com" >Weight Weenies</A> (component weights)
+<BR><A HREF ="http://www.whycycle.co.uk" >Why Cycle?</A> (impartial advice)</A>
+
+
+<P><font size=+2>Report a Pothole Form </font>
+<BR><A HREF ="images/pothole.pdf"  >PDF Format</A>
+<BR><A HREF ="http://www.seattle.gov/transportation/potholes.htm" >Online Form</A>
+
+<P><font size=+2><A HREF ="advocacy.shtml"  >Bicycle Advocacy</A>
+<br>Bikes <A Href="http://www.earth-policy.org/Updates/Update13.htm" >out-number</A> cars!
+</font>
+
+<P><font size=+2>Bicycle History Sites</font>
+<BR><a href="http://vanderplas.net" >Rob Van der Plas Publications</A>
+<BR><a href="http://www.ibike.org" >International Bicycle Fund</A>
+<BR><a href="http://www.bicyclemuseum.com" >The Bicycle Museum of America</A>
+<BR><a href="http://www.sixdaybicyclerace.com" >Six Day Bicycle Racing</A>
+<BR><a href="http://www.usbhof.com" >United States Bicycling Hall of Fame </A>
+<BR><a href="http://www.sixdaybicyclerace.com" >Six Day Bicycle Race</A>
+
+<P><font size=+2>Bike Culture & Love</font>
+
+
+<BR><a href= "http://www.63xc.com" >63xc.com</A>
+<BR><a href= "http://www.antbikemike.com" >Alternative Needs Transportation</A>
+<BR><a href= "http://www.atomiczombie.com" >Atomic Zombie</A>
+<BR><a href= "http://www.bentrideronline.com" >'Bent Ride Online</A>
+<BR><a href="http://www.bicycletheband.com" >Bicycle</A> (the Band)
+<BR><A HREF ="http://www.bikebiz.co.uk"  >Bicycle Business UK</A>
+<BR><A HREF ="http://www.bicycleclimbs.com"  >Bicycle Climbs</A>
+<BR><A HREF ="http://www.bicycledata.com"  >Bicycle Data</A>
+<BR><A HREF ="http://www.bicyclefixation.com"  >Bicycle Fixation</A>
+<BR><A HREF ="http://bicyclesafe.com"  >Bicycle Safe</A>
+<BR><A HREF ="http://bicycleuniverse.info"  >Bicycle Universe</A>
+<br><A HREF="http://www.thebicyclingguitarist.net" >Bicycling Guitarist</A>
+<BR><A HREF ="http://www.bicyclinglife.com"  >Bicycling Life</A>
+<BR><A HREF ="http://www.bicyclinglife.com"  >Bicycling Life</A>
+<BR><A HREF ="http://www.bicycling.com"  >Bicycling Magazine</A>
+<BR><A HREF ="http://www.bikecafe.net"  >Bike Cafe</A>
+<BR><A HREF ="http://www.bikefix.co.uk"  >Bike  Fix</A>
+<BR><A HREF ="http://www.bikeforums.net"  >Bike Forums</A>
+<BR><A HREF ="http://www.bikehugger.com"  >Bike Hugger</A>
+<BR><A HREF="images/bikelove.gif" >Bike Love</A>
+<BR><A HREF ="http://www.bikemap.com"  >Bike Map</A>
+<BR><A HREF ="http://www.bikemojo.com"  >Bike Mojo</A>
+<BR><A HREF ="http://home.earthlink.net/~hockeyhead"  >Bike Parade</A>
+<BR><A HREF ="http://www.livejournal.com/community/bikepirates"  >Bike Pirates</A>
+<BR><A HREF ="http://www.bikeportland.org"  >Bike Portland</A>
+<BR><A HREF ="http://www.bikeride.com"  >Bike Ride</A>
+<BR><A HREF ="http://www.bikerides.com"  >Bike Rides</A>
+<BR><A HREF ="http://www.bikerodnkustom.com"  >Bike Rod & Kustom</A>
+<BR><A HREF ="http://www.bikeseattle.org"  >Bike Seattle</A>
+<BR><A HREF ="http://www.bikesexual.org"  >Bike Sexual</A>
+<BR><A HREF ="http://www.biketowork.com"  >Bike To Work</A>
+<BR><A HREF ="http://www.biketoworkday.org/Education/Bike_To_Work.cfm"  >Bike to Work Day</A>
+<BR><A HREF ="http://www.biketrails.com"  >Bike Trails</A>
+<BR><a href= "http://www.bikecult.com" >Bike Works NYC (www.bikecult.com)</A> 
+<BR><a href="http://www.bikekulture.com" >Bikekulture (Old Bike Art)</A>
+<BR><A HREF ="http://www.bikesatwork.com"  >Bikes At Work</A>
+<BR><A HREF ="http://www.bikespace.net"  >BikeSpace</A>
+<BR><A HREF ="http://www.biketivism.org"  >Biketivism</A>
+<BR><A HREF ="http://www.blackbirdsf.org"  >Blackbird</A>
+<BR><A HREF ="http://www.dclxvi.org/chunk"  >C.H.U.N.K 666</A>
+<BR><A HREF ="http://www.campyonly.com"  >Campy Only</A>
+<BR><A HREF="http://www.thinksmall.org/car-free/index.htm" >Car-Free Freemont</A>
+<BR><a href= "http://www.cascade.org" >Cascade Bicycle Club</A>
+<BR><a href= "http://www.blackbirdsf.org/chainwheels" >Chainring Tattoos</A>
+<BR><A HREF ="http://www.cicle.org"  >Cicle</A>
+<BR><A HREF ="http://www.clubmtb.com/club/"  >Club MTB</A>
+<br><a href="coolquotes.shtml" >Cool Bicycle Quotes</A>
+<br><a href="http://www.crankedmag.com" >Cranked Magazine</A>
+<BR><A HREF ="http://www.seattlecriticalmass.org"  >Critical Mass (Seattle)</A>
+<BR><A HREF ="http://critical-mass.info"  >Critical Mass (World Wide Info)</A>
+<BR><A HREF ="http://cyclery.com"  >Cyber Cyclery</A>
+<BR><A HREF ="http://www.cyclecide.com"  >Cyclecide</A>
+<BR><A HREF ="http://www.cyclesdeoro.com"  >Cycles de Oro</A>
+<BR><A HREF ="kids.shtml" >Cycling with Kids</A>
+<BR><A HREF="http://www.CyclingSingles.com/?id=490">CyclingSingles.com</A>
+<BR><A HREF ="http://www.deadbabybikes.org"  >Dead Baby Bikes</A>
+<BR><A HREF ="http://www.dirtworld.com"  >Dirt World</A>
+<BR><A HREF ="http://www.dogscooter.com"  >Dog Scootering</A>
+<BR><a href= "http://www.davidwilsonindustries.com" >DWI (David Wilson Industries)</A>
+<BR><A HREF ="http://www.ebykr.com"  >Ebyker</A>
+<BR><a href= "http://www.encycleopedia.com" >Encyclopedia</A>
+<BR><a href= "http://www.windwrap.com" >Fairings</A>
+<BR><a href= "http://www.fixedgeargallery.com" >Fixed Gear Gallery</A>
+<BR><a href= "http://www.fixedmagazine.com" >Fixed Magazine</A>
+<BR><a href= "http://www.fossilfool.com" >Fossil Fool</A>
+<BR><a href= "http://www.ghostcycle.org" >Ghost Cycle</A> (bicycle crash info database)
+<BR><a href="http://www.grahamwatson.com" >Graham Watson Photography</A>
+<BR><a href= "http://www.wisil.recumbents.com" >Human Powered Vehicles</A>
+<br><A HREF="http://www.iheartbikes.com" >iheartbikes</A> Magazine/Journal
+<BR><a href= "http://www.bikelist.org" >Internet-BOB</A>
+<BR><a href= "http://www.kenkifer.com" >Ken Kifer</A><BR><A HREF ="http://www.domela.com" >Laura Domela</A> Great Amsterdam picture book:  <A HREF ="http://www.domela.com/photos_people/projects_fietsen/fietsen_sub.htm" >Fietsen</A>
+<BR><a href= "http://www.eland.uklinux.net/cgi-bin/articledb_list.pl?DBmode=full&DBform=HTML&DBstorynumber=373" >Legway Wonder Vehicle</A>
+<BR><A HREF ="http://www.memorylane-classics.com"  >Memory Lane Classics</A>
+<BR><A HREF ="http://www.merrysaddles.com"  >Merry Saddles</A>
+<BR><A HREF ="http://www.nybma.com/cmwc2005"  >Messenger World Championships</A>
+<BR><A HREF ="http://www.metalcowboy.com"  >Metal Cowboy</A>
+<BR><a href= "http://www.microcosmpublishing.com" >Microcosm Publishing</A>  Cheap Stickers
+<BR><A HREF ="http://www.morrispost.com"  >Morrispost</A>
+<BR><A HREF ="http://www.mtbreview.com"  >MTB Review</A>
+<BR><A HREF ="http://www.mtbzone.com"  >MTB Zone</A>
+<BR><A HREF ="http://www.bikeroute.com"  >National Bicycle Greenway</A>
+<BR><a href="http://www.handmadebicycleshow.com" >North America HandBuilt Bicycle Show</A>
+<BR><A HREF ="http://www.nsmb.com"  >North Shore Mountain Biking  (NSMB.com e-magazine)</A>
+<BR><A HREF ="http://www.sellwoodcycle.com" >Old Bike Posters</A>
+<BR><a href="oldbikeswapinfo.shtml" >Old Bike Swap Meet Info</A>
+<BR><a href="http://www.oldskooltrack.com" >Old Skool Track</A>
+<br><A Href="http://www.efn.org/~ocycling" >Oregon Cycling</A>
+<BR><A HREF ="http://www.pedaling.com"  >Pedaling</A>
+<BR><a href= "http://www.pilderwasser.com" >Pilderwasser</A>
+<BR><a href= "http://www.point83.com" >Point 83.com</A>
+<BR><A HREF ="http://www.geocities.com/RatPatrolHQ/Bikes.shtml"  >Rat Bikes</A>
+<BR><A HREF ="http://www.ratrodbikes.com"  >Rat Rod Bikes</A>
+<br><A Href="http://www.retroimageapparel.com" >Retro Image Apparel</A>
+<BR><A HREF ="http://www.rideyourbicycle.com"  >RideYourBicycle.com</A>
+<BR><A HREF ="http://www.roadcycling.com"  >Road Cycling</A>
+<BR><A HREF ="http://www.exploratorium.edu/cycling"  >Science of Cycling</A>
+<BR><A HREF ="http://www.cascade.org//expo"  >Seattle Bike Expo</A>
+<BR><a href="http://www.cascade.org//bikeswap" >Seattle Bike Swap</A>
+<BR><A HREF="http://shifttobikes.org" >Shift To Bikes</A>
+<BR><a href= "http://www.speed101.com" >Speed 101</A>
+<BR><A HREF ="http://www.willieweir.com"  >Spokesongs</A>
+<BR><A HREF ="http://www.steelcoffin.com"  >Steel Coffin</A>
+<BR><A HREF ="http://www.sweetbike.com"  >Sweet Bike</A>
+<BR><a href="http://www.thebikery.org" >The Bikery</A>
+<br><A Href="http://www.thinksmall.org" >Think Small</A>
+<br><A Href=" http://www.tonystrailers.com" >Tony's Trailers</A>
+<BR><a href="http://www.newbelgium.com" >Tour de Fat</A>
+<BR><A HREF ="http://www.trails.com"  >Trails</A>
+<BR><a href= "http://www.unrealcycles.com" >Unreal Cycles</A>
+<br><A HREF="http://www.velovision.co.uk" >Velo Vision</A>
+<br><A HREF="http://www.velorution.biz" >Velorution</A>
+<br><A HREF="http://www.bikeville.com" >Via Bicycle</A>
+<br><A HREF="http://www.vintagebicyclepress.com" >Vintage Bicycle Press</A> Publishers of Vintage Bicycle Quarterly
+<br><A HREF="http://www.weridebikes.com" >We Ride Bikes</A>
+<br><A HREF="http://www.saffron-ventures.com/personal/woodbikes/homepage.php" >Wooden Bicycles in East Africa</A>
+<br><A HREF="http://www.worldcarfree.net" >World Carfree Network</A> (World Carfree Day)
+<br><A HREF="http://www.yetifan.com" >Yeti Fan</A>
+<br><A HREF="http://www.zoobomb.net" >Zoo Bomb</A>
+
+<A NAME="bottom">
+
+<P><font size=+2>Bike Schools</font>
+
+<BR><A HREF ="http://www.bbinstitute.com"  >Barnett Bicycle Institute</A>
+<BR><A HREF ="http://www.bikeworks.org"  >Bike Works </A>
+<BR><A HREF ="http://www.cycleu.com"  >Cycle University</A>
+<BR><A HREF ="http://www.bikefitkit.com"  >Fit Kit School</A>
+<BR><A HREF ="http://www.bikeschool.com"  >United Bicycle Institute</A>
+
+
+<P><font size=+2>Customer's & Friend's Websites</font>
+<BR><A HREF ="http://www.wellseattle.com"  >Well Seattle</A>  &nbsp;&nbsp;&nbsp; Padme Grace
+<BR><A HREF ="http://www.alkifoundry.com"  >Alki Foundry</A>  &nbsp;&nbsp;&nbsp; Hahn Rossman
+<BR><A HREF ="http://www.quidnunc.net"  >Quid-Nunc</A> &nbsp;&nbsp;&nbsp;  Bill Hibler
+<BR><A HREF ="http://www.grandillusioncinema.org"  >Grand Illusion Cinema</A>  &nbsp;&nbsp;&nbsp; Guerren Marter
+<BR><A HREF ="http://www.BodyAndSoulMentor.com"  >BodyAndSoulMentor.com</A> &nbsp;&nbsp;&nbsp; <A HREF ="http://www.VitalArts.net"  >VitalArts.net</A>  &nbsp;&nbsp;&nbsp;  William Wittmann, M.Ed., LMP BodyTherapist & Life Coach
+
+</TD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TD>
+
+<B>
+
+<P align ="right"><A HREF ="http://seattle.craigslist.org"  >Craig's List</A>
+<BR><A HREF ="http://seattlediy.com"  >Seattle DIY</A>
+<BR><A HREF ="http://www.freecycle.org"  >Freecycle</A>
+
+
+
+<P align ="right"><font size=+2>West Seattle Links</font>
+<BR><A HREF ="http://www.nwsource.com/ae/scr/edb_vd.cfm?c=m&ven=1833&s=nws"  >Admiral Theatre</A>
+<BR><A HREF ="http://www.dnda.org" >Delridge Neighborhoods Development Association</A>
+<BR><A HREF ="http://www.wschamber.com" >Chamber of Commerce</A> 
+<br><A HREF ="http://www.longfellowcreek.org" >Longfellow Creek</A>
+<BR><A HREF ="http://metro.kingcounty.gov/tops/bus/schedules/s054_0_.html"  >Metro Buses</A>
+<BR><A HREF ="http://www.mybus.org/metrokc" >Real Time Metro Bus Arrivals</A>
+<BR><a href="http://morganjunction.org" >Morgan Community Association (MoCA)</A>
+<BR><A HREF ="http://www.outsideconnection.com" >Outside Connection</A>
+<BR><font size=-1>(cool weather info)</font>
+<BR><a href="http://www.rtrip.org" >Riverview Trail Improvement Project</A>
+<BR><A HREF ="http://www.soundtransit.org"  >Sound Transit</A>
+<BR><A HREF ="http://tycho.usno.navy.mil/cgi-bin/timer.pl"  >Time of Day</A> (US Navy Atomic Clock)
+<BR><A HREF ="bikeroutes.shtml"  >West Seattle Bike Routes</A>
+<BR><A HREF ="http://westseattleblog.com" >West Seattle Blog</A>
+<BR><A HREF ="http://www.westseattle.com" >West Seattle.com</A>
+<BR><A HREF ="http://www.robinsonnews.com" >West Seattle Herald</A>
+<BR><A HREF ="http://www.wsdot.wa.gov/ferries/schedules/current/index.cfm?route=f-v"  >Vashon Ferry</A>
+
+
+<P align ="right"><font size=+2>Useful Organizations, NGOs, Etc.</font>
+<BR><A HREF ="http://www.bicyclealliance.org"  >Bicycle Alliance of Washington</A>
+<BR><A HREF ="http://www.bhsi.org"  >Bicycle Helmet Safety Institute</A>
+<BR><a href="http://www.climatesolutions.org" >Climate Soulutions</A>
+<BR><a href="http://www.earth-policy.org" >Earth Policy Institute</A>
+<BR><A HREF ="mailpreference.shtml"  >Limit your Junk Snail Mail</A> !!
+<BR><A HREF ="http://www.lostinseattle.com"  >Lost In Seattle</A> Find a businesses
+<BR><a href="http://www.mobilityeducation.org" >The Mobility Education Foundation</A>
+<BR><A HREF ="http://www.usacycling.org"  >USA Cycling</A>
+<BR><A HREF ="http://www.warmshowers.org"  >Warm Showers</A>
+<BR><A HREF ="http://www.washingtonbikelaw.com"  >Washington Bike Law</A> Bob Anderton Lawyer
+
+<P align ="right"><font size=+2>Government</font>
+<BR><A HREF ="http://www.wsdot.wa.gov/bike" >Bicycling in Washington</A>
+<BR><A HREF ="http://transit.metrokc.gov/tops/bike/bikeride.shtml"  >Bikes on Buses</A>
+<BR><A HREF ="http://www.seattle.gov/transportation"  >Seattle Department ofTransportation</A> <font size=-1>(formerly SEATRAN)</font> 
+<BR><A HREF ="http://www.ci.seattle.wa.us/html/director/official.htm"  >Seattle Elected Officials</A>
+<BR><A HREF ="http://www.kingcounty.gov/healthservices/health/BOH/~/media/health/publichealth/documents/boh/BOHCodeTitle9.ashx" >King County Helmet Law</A>
+<BR><A HREF ="http://www.seattle.gov/Transportation/potholereport.htm"  >Street Maintenance Request Form</A>
+<BR><A HREF ="http://www.pan.ci.seattle.wa.us/seattle/parks/parkspaces/parklist.htm"  >Seattle Parks</A>
+<BR><A HREF ="http://www.usps.com/ncsc/lookups/lookup_zip+4.shtml"  >Zip Code Look Up</A>
+
+<P><BR>
+<P><BR>
+<P><BR>
+<P align ="right">
+
+<table bgcolor="yellow">
+
+<tr><td colspan="3">Calories Burned Cycling</td></tr><tr><td>Speed:</td><td colspan=2><select id="selPaceWFM" name="selPaceWFM"><option value="4"> < 10 mph</option><option value="6"> 10-12 mph</option><option value="8">Biking 12-14 mph</option><option value="10"> 14-16 mph</option><option value="12"> 16-20 mph</option><option value="16"> 20 mph +</option></select></td></tr><tr><td style="width:110px;">Weight:</td><td style="width:50px;"><input type="text" id="txtWeightWFM" name="txtWeightWFM" value="0" style="width:40px;" maxlength=6></td><td style="width:190px;"><select id="selWeightWFM" name="selWeightWFM" style="width:95px;"><option value="2">Pounds</option><option value="1">Kilograms</option></select></td></tr><tr><td style="width:110px;">Time:</td><td style="width:50px;"><input type="text" id="txtTimeWFM" name="txtTimeWFM" value="0" style="width:40px;" maxlength=6></td><td style="width:190px;"><select id="selTimeWFM" name="selTimeWFM" style="width:95px;"><option value="1">Hours</option><option value="2">Minutes</option></select></td></tr><tr><td colspan="3"><INPUT type="button" value="Calculate" id="btnCalculateWFM" name="btnCalculateWFM" onclick="CalculateWFM();"></td></tr><tr><td colspan="3"><div id="divResultWFM" id="divResultWFM"></div></td></tr>
+
+</table>
+
+<script type="text/javascript">
+<!--
+function CalculateWFM(){if(document.getElementById('txtWeightWFM').value==''||isNaN(document.getElementById('txtWeightWFM').value)){alert('Please enter a valid weight');document.getElementById('txtWeightWFM').focus();return false;}if(document.getElementById('txtTimeWFM').value==''||isNaN(document.getElementById('txtTimeWFM').value)){alert('Please enter a valid time');document.getElementById('txtTimeWFM').focus();return false;}var hr;var kg;var cb;if(document.getElementById('selTimeWFM').value!=1){hr=document.getElementById('txtTimeWFM').value/60;}else{hr=document.getElementById('txtTimeWFM').value;}if(document.getElementById('selWeightWFM').value!=1){kg=document.getElementById('txtWeightWFM').value*.45359237;}else{kg=document.getElementById('txtWeightWFM').value;}if(kg>182||kg<22){alert('Please enter a valid weight');document.getElementById('txtWeightWFM').focus();return false;}if(hr>12||hr<=0){alert('Please enter a valid time');document.getElementById('txtTimeWFM').focus();return false;}cb=Math.round((kg*document.getElementById('selPaceWFM').value)*hr);document.getElementById('divResultWFM').innerHTML='You burned '+cb+' calories, <b> YOU ROCK!';}
+//-->
+</script>
+
+
+
+<P align ="right"><IMG SRC="images/seatpostsetback.jpg" height=360 width=300 border=0></A>
+<P><BR>
+<P><BR>
+<P><BR>
+<P><BR>
+
+<P align ="right"><IMG SRC="images/derailleurinspokes.jpg" height=258 width=354 border=0></A>
+<P><BR>
+<P><BR>
+<P><BR>
+<P><BR>
+
+
+<P align ="right"><A Href="bikestation.shtml" ><IMG SRC="images/brandlogos/bikestationlogo.jpg" height=38 width=200 border=0 alt="Bikestation Seattle"></A>
+<P><BR>
+<P><BR>
+<P><BR>
+<P><BR>
+
+
+<P align ="right"><A HREF="http://www.wschamber.com" ><IMG SRC="images/wschamber.jpg" WIDTH="400" HEIGHT="157" alt="West Seattle Camber" BORDER=0></A>
+<P><BR>
+<P><BR>
+<P><BR>
+<P><BR>
+
+
+<P align ="right"><A HREF="http://www.bicycling.com" ><IMG SRC="images/bicyclingmag.gif" WIDTH="190" HEIGHT="42" alt="Bicycling Magazine" BORDER=0></A>
+<P><BR>
+<P><BR>
+<P><BR>
+<P><BR>
+
+<P align ="right"><A HREF="http://nationalbicyclegreenway.com" ><IMG SRC="images/nationalbicyclegreenway.gif" WIDTH="174" HEIGHT="144" BORDER=0 alt="BikeRoute.com"></A>
+<P><BR>
+<P><BR>
+<P><BR>
+<P><BR>
+
+<P align ="right"><a href="http://www.biketrails.com" >
+<img src="images/biketrailscom.gif" alt="BikeTrails.com" WIDTH="250" HEIGHT="30" BORDER=0></a>
+<P><BR>
+<P><BR>
+<P><BR>
+<P><BR>
+
+<P align ="right"><a target="National Bike Registry"
+href="https://merchant.calweb.com/nbr/cgi-bin/display_wa.cgi?waid=2069389795WA">
+<img src="http://www.nationalbikeregistry.com/images/sitead_i.gif" border=0 height="124" width="125" alt ="National Bike Registry"></a>
+<P><BR>
+<P><BR>
+<P><BR>
+<P><BR>
+
+<P align ="right"><A HREF ="http://www.bikefitkit.com" ><IMG SRC="images/fitkit.gif" border =0 WIDTH="144"  HEIGHT="66" alt="Fit Kit"></A>
+<P><BR>
+<P><BR>
+<P><BR>
+<P><BR>
+
+<P align ="right"><A HREF ="http://www.einstein.tv" ><IMG SRC ="http://www.rideyourbike.com/images/einstein.jpeg" WIDTH="280" HEIGHT="400" border =0  alt="Einstein on a Bike"></A>
+<P><BR>
+<P><BR>
+<P><BR>
+<P><BR>
+
+<P align ="right"><A HREF ="http://www.outsideconnection.com" ><IMG SRC ="images/outsideconnection.gif" WIDTH="191" HEIGHT="71" border =0  alt="Outside Connection"></A>
+<P><BR>
+<P><BR>
+<P><BR>
+<P><BR>
+
+<P align ="right"><A HREF ="http://www.bikealog.com"  ><IMG SRC="images/bikealog.gif" WIDTH="190" HEIGHT="59" ALIGN="center" ALT="Bike'alog" border="0"></A>
+<P><BR>
+<P><BR>
+<P><BR>
+<P><BR>
+
+<P align ="right"><A HREF="http://www.RaleighUSA.com/" ><IMG SRC="images/morebikeforbuck.gif" WIDTH="225" HEIGHT="50" ALT="Raleigh Banner" BORDER=0></A>
+<P><BR>
+<P><BR>
+<P><BR>
+<P><BR>
+
+<P align ="right"><A HREF="http://www.strawberrybicycle.com" ><IMG SRC="images/strawberry.gif" WIDTH="225" HEIGHT="50" ALT="Strawberry Banner" BORDER=0></A>
+
+</TD>
+</TR>
+
+</TABLE>
+
+<p><A HREF="http://www.cyclart.com" ><IMG SRC="images/cycleart.gif" WIDTH="579" HEIGHT="81" ALT="CyclArt" BORDER=0></A>
+
+<Center><P><H2><B>[<A HREF="home.shtml" >Home</A>]</B></H2>
+</BODY>
+</HTML>
+
+
+
+
+
+
+       

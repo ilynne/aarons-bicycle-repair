@@ -1,0 +1,29 @@
+	body { margin: 0px; 
+				 padding: 0px;
+				 margin-top: 5px; 
+				 font-family: tahoma;
+
+				 }
+
+	tr.labelsheet { 
+		page-break-after: always; 
+	}
+	table.labelsheet {
+  		border-collapse: collapse;
+		width: 7.5in;
+	}
+	tr.label {
+		height: 1in;
+	}
+	td.label {
+		padding: 2px;
+		width: 3.5in;
+		/*width: 2.625in;*/
+		/*border: 1px dotted #696969;*/
+		text-align: left; 
+		background-color: white;
+	}
+	td.space {
+		width: 0.5in;
+		background-color: #eeeeee;
+	}

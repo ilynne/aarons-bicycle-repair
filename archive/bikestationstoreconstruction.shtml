@@ -1,0 +1,120 @@
+<HTML>
+<HEAD>
+
+<TITLE>Bikestation Seattle</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="yellow">
+<center>
+
+<!--#include virtual="/menu.inc"-->
+
+
+<center>
+<TABLE>
+
+<TR>
+<TH colspan=2>
+
+<table>
+<TR>
+<td>
+<A Href="http://www.bikestation.org" target=new><IMG SRC="images/bikestation/bigbikestationlogo.jpg" WIDTH=452 HEIGHT=85 border=0></A>
+</td>
+<td><P><B><font face="arial" size=90><i>SEATTLE</i></font>
+</td>
+</TR>
+</table>
+
+</TH>
+</TR>
+
+
+<TR>
+<TH colspan=2>
+<P><H2>Store Construction</H2>
+</TH>
+</TR>
+
+
+
+<TR>
+<TD>
+<center>
+<IMG SRC="images/bikestation/bikestation1.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+<TD>
+<center><IMG SRC="images/bikestation/bikestation2.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<center><IMG SRC="images/bikestation/bikestation3.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+<TD>
+<center><IMG SRC="images/bikestation/bikestation4.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<center><IMG SRC="images/bikestation/bikestation5.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+<TD>
+<center><IMG SRC="images/bikestation/bikestation6.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<center><IMG SRC="images/bikestation/bikestation7.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+<TD>
+<center><IMG SRC="images/bikestation/bikestation8.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<center><IMG SRC="images/bikestation/bikestation11.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+<TD>
+<center><IMG SRC="images/bikestation/bikestation12.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<center><IMG SRC="images/bikestation/bikestation13.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+<TD>
+<center><IMG SRC="images/bikestation/bikestation14.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+</TR>
+
+<TR>
+<TD>
+<center><IMG SRC="images/bikestation/kentparkingcapitainamerica.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+<TD>
+<center><IMG SRC="images/bikestation/artistrenderingfrontofbikestation.jpg" WIDTH=400 HEIGHT=265>
+</TD>
+</TR>
+
+
+</table>
+<P>Bikestation Seattle
+<BR>311 3rd Avenue S
+<BR>Seattle, WA     98104
+<P>V. (206) 332-9795
+<BR>F. (206) 332-9796
+
+
+<P><IMG SRC="images/bikestation/bikestationmap.jpg" WIDTH=400 HEIGHT=265>
+
+<P><H2><B>[<A HREF="home.shtml" >Home</A>]</B></H2>
+
+</BODY>
+</HTML>
