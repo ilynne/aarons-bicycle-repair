@@ -1,125 +1,145 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Aaron's Bicycle Repair</title>
-  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
-<!--[if lte IE 8]>
-    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-old-ie-min.css">
-<![endif]-->
-<!--[if gt IE 8]><!-->
-    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
-<!--<![endif]-->
-  <link rel="stylesheet" href="abs.css">
-  <link rel="stylesheet" href="purecss-overrides.css">
-</head>
-<body>
-  <div class="content">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-    <div id="header" class="header">
-      <div id="main-links" class="pure-g">
-        <div class="pure-u-1 pure-u-md-1-5 main-link-outer">
-          <div class="main-link-inner">
-            <a href="index.html"><img src="images/smallabr.gif" /></a>
-          </div>
+    <title>Aaron's Bicycle Repair</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="abs.css" rel="stylesheet">
+  </head>
+
+  <body role="document">
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Aaron's Bicycle Repair</a>
         </div>
-        <div class="pure-u-1 pure-u-md-3-5 main-link-outer">
-          <div class="main-link-inner">
-            <h1>RideYourBike.com</h1>
-          </div>
-        </div>
-        <div class="pure-u-1 pure-u-md-1-5 main-link-outer">
-          <div class="main-link-inner">
-            <a href="#"><img src="images/internalgearhubservicebanner.jpg" /></a>
-          </div>
-        </div>
-      </div>
-      <div id="menus">
-        <div class="pure-menu pure-menu-horizontal">
-          <ul class="pure-menu-list">
-            <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
-              <a href="#" id="menuLink1" class="pure-menu-link">Pictures</a>
-              <ul class="pure-menu-children">
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Link Text Here</a></li>
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Link Text Here</a></li>
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Link Text Here</a></li>
-              </ul>
-            </li>
-            <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
-              <a href="#" id="menuLink2" class="pure-menu-link">Community</a>
-              <ul class="pure-menu-children">
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Link Text Here</a></li>
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Link Text Here</a></li>
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Link Text Here</a></li>
-              </ul>
-            </li>
-            <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
-              <a href="#" id="menuLink2" class="pure-menu-link">Products</a>
-              <ul class="pure-menu-children">
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Link Text Here</a></li>
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Link Text Here</a></li>
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Link Text Here</a></li>
-              </ul>
-            </li>
-            <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
-              <a href="#" id="menuLink2" class="pure-menu-link">Services</a>
-              <ul class="pure-menu-children">
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Link Text Here</a></li>
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Link Text Here</a></li>
-                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Link Text Here</a></li>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">Nav header</li>
+                <li><a href="#">Separated link</a></li>
+                <li><a href="#">One more separated link</a></li>
               </ul>
             </li>
           </ul>
-        </div>
+        </div><!--/.nav-collapse -->
       </div>
-    </div> 
+    </nav>
 
+    <div class="container theme-showcase" role="main">
+      <div class="well">
+        <h1>Welcome</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur.</p>
+      </div>
 
-    <div id="main" class="pure-g">
-      <div class="pure-u-1 pure-u-md-1-3 left-col">
-        <div class="col-content">
-          <section class="group">
-            <p>Aaron's Bicycle Repair, Inc. <br />
-            9988 15th AVE SW, Suite E <br />
-            Seattle, Washington 98146 <br />
-            (206) 938-9795 <br />
-            Established 1997</p>
-          </section>
-          <section class="group">
-            <p>other content</p>
-          </section>
+    </div>
+
+    <div class="container theme-showcase" role="main">
+
+      <h3>Columns</h3>
+      <p>Go poker hillbilly feathered. Pappy skinned ya skinny. Cousin down fart woman hairy hairy right damn yeehaw it done thar. Naw rockinchair aunt feud bull mashed hogs quarrel lament skidaddle bacon. How locality buy mush that afford uncle whiskey that fish. No grandpa tired fiddle whiskey fuss jehosephat.</p>
+      <div class="row">
+        <div class="col-md-4">Reckon havin' drinkin' stumped skedaddled gospel havin' fightin'. Y'all uncle cheatin' uncle. Sam-hell horse rat fer moonshine spell tar city-slickers has clan catfish. Slap down hardware quarrel farmer watchin' jumpin' barrel. Cain't shed wild panhandle catfish.
+        </div>
+        <div class="col-md-4">Stumped spell woman a consarn fried yeehaw backwoods barbwire good dogs. Come coonskin everlastin'. Tired caboose stole what sittin' snakeoil shack grandpa havin' country clan.
+        </div>
+        <div class="col-md-4">Fer cold ass pudneer creosote naw put tools work. Tar it greasy fell. Confounded right barefoot boxcar stinky. Ya buffalo tax-collectors salesmen has damn ain't mashed backwoods. And has landlord dumb knickers rottgut panhandle road rattler uncle. Hayseed deep-fried tractor hoosegow kinfolk aunt tin landlord tools drunk hee-haw.
         </div>
       </div>
-      <div class="pure-u-1 pure-u-md-1-3 main-col">
-        <div class="col-content">
-          <h2>Current Events</h2>
-            <section class="group">
-              <p>Full Moon Bike Rides </p>
-              <p>West Seattle Bike Connections </p>
-              <p>Cargo Bike Rides </p>
-              <p>Bike Swap Meets </p>
-              <p>Seattle Bicycle Advisory Board Meeting </p>
-              <p>The Bikery's Events</p>
-            </section>
-            <figure>
-              <img src="images/bicycle-posters/graphic12.jpg">
-            </figure>
+
+      <div class="row">
+        <div class="col-md-9">
+          <div class="well">
+            Reckon havin' drinkin' stumped skedaddled gospel havin' fightin'. Y'all uncle cheatin' uncle. Sam-hell horse rat fer moonshine spell tar city-slickers has clan catfish. Slap down hardware quarrel farmer watchin' jumpin' barrel. Cain't shed wild panhandle catfish. Fer cold ass pudneer creosote naw put tools work. Tar it greasy fell. Confounded right barefoot boxcar stinky. Ya buffalo tax-collectors salesmen has damn ain't mashed backwoods. And has landlord dumb knickers rottgut panhandle road rattler uncle. 
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Stuff</h3>
+            </div>
+            <div class="panel-body">
+              Stumped spell woman a consarn fried yeehaw backwoods barbwire good dogs. Come coonskin everlastin'. Tired caboose stole what sittin' snakeoil shack grandpa havin' country clan.
+            </div>
+          </div>
         </div>
       </div>
-      <div class="pure-u-1 pure-u-md-1-3 right-col">
-        <div class="col-content">
-          <figure>
-            <img src="images/ratcityjanice.gif">
-          </figure>
-          <section class="group">
-            <p>other content</p>
-          </section>
+
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">Nifty info</h3>
+        </div>
+        <div class="panel-body">
+          <p>
+          Townfolk pudneer wagon fancy foreclose catfish tools lordy and. Come work buffalo hospitality burnin' jumpin' rodeo chitlins cain't.
+          </p>
+
+          <p>
+          Good fightin' salesmen rent jig her buffalo buckshot him hogs. Dumb penny driveway nothin' stew poor cousin cipherin' ya firewood pickled hobo. Gritts watchin' commencin' quarrel heffer. Crop driveway shack inbred boxcar fetched beat water.
+          </p>
+
+          <p>
+          Feathered gritts squalor confounded wrestlin' hobo beat tax-collectors sheep promenade skedaddled. Tarnation spittin' what down hospitality fricaseed cheatin' hardware cipherin'. Lament kinfolk has ya throwed tar liniment redblooded squalor farmer. Fightin' sherrif jumpin' git buckshot tar plug-nickel commencin' old lordy neighbor's. Hold guzzled trespassin' cow shot. Liniment beat said his fart jiggly jehosephat.
+          </p>
         </div>
       </div>
     </div>
 
+    <div class="container theme-showcase" role="main">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">Other Nifty info</h3>
+        </div>
+        <div class="panel-body">
+          <p>
+          Burnin' go farmer hillbilly over cheatin' wirey commencin' afford em. Poker barefoot fetched overalls jug hogjowls tobaccee. Tobaccee tar snakeoil cooked fixin' rockinchair over. Promenade tractor pasture rightly rightly range spittin' penny git fetched skinny.
+          </p>
 
-  </div>
-</body>
+          <p>
+          Yeehaw good fell good spell stumped ever feud wirey deep-fried.
+          </p>
+
+          <p>
+          Cow tax-collectors bankrupt jehosephat buy fence.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous">
+    </script>
+  </body>
 </html>
