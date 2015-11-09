@@ -4541,7 +4541,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #ff6;
+  background-color: #ff0;
   border-color: #dede00;
 }
 .navbar-default .navbar-brand {
@@ -5801,22 +5801,22 @@ button.list-group-item-danger.active:focus {
   border-bottom-color: #bce8f1;
 }
 .panel-warning {
-  border-color: #faebcc;
+  border-color: #fcc;
 }
 .panel-warning > .panel-heading {
   color: #8a6d3b;
-  background-color: #fcf8e3;
-  border-color: #faebcc;
+  background-color: #ff0;
+  border-color: #fcc;
 }
 .panel-warning > .panel-heading + .panel-collapse > .panel-body {
-  border-top-color: #faebcc;
+  border-top-color: #fcc;
 }
 .panel-warning > .panel-heading .badge {
-  color: #fcf8e3;
+  color: #ff0;
   background-color: #8a6d3b;
 }
 .panel-warning > .panel-footer + .panel-collapse > .panel-body {
-  border-bottom-color: #faebcc;
+  border-bottom-color: #fcc;
 }
 .panel-danger {
   border-color: #ebccd1;

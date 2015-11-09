@@ -558,11 +558,11 @@ fieldset[disabled] .btn-danger.active {
   background-repeat: repeat-x;
 }
 .panel-warning > .panel-heading {
-  background-image: -webkit-linear-gradient(top, #fcf8e3 0%, #faf2cc 100%);
-  background-image:      -o-linear-gradient(top, #fcf8e3 0%, #faf2cc 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#fcf8e3), to(#faf2cc));
-  background-image:         linear-gradient(to bottom, #fcf8e3 0%, #faf2cc 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffcf8e3', endColorstr='#fffaf2cc', GradientType=0);
+  background-image: -webkit-linear-gradient(top, #ff0 0%, #e5e600 100%);
+  background-image:      -o-linear-gradient(top, #ff0 0%, #e5e600 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ff0), to(#e5e600));
+  background-image:         linear-gradient(to bottom, #ff0 0%, #e5e600 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff00', endColorstr='#ffe5e600', GradientType=0);
   background-repeat: repeat-x;
 }
 .panel-danger > .panel-heading {
