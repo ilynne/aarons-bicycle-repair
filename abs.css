@@ -1,38 +1,24 @@
 body {
-  padding-top: 70px;
-  padding-bottom: 30px;
 }
 
-.theme-dropdown .dropdown-menu {
-  position: static;
-  display: block;
-  margin-bottom: 20px;
+.navbar-static-top {
+  margin-bottom: 19px;
 }
 
-.theme-showcase > p > .btn {
-  margin: 5px 0;
+.abr-logo {
+  padding: 10px;
 }
 
-.theme-showcase .navbar .container {
-  width: auto;
+.navbar {
+  font-weight: bold;
 }
 
-h4 {
-  margin-top: 25px;
-}
-.row {
-  margin-bottom: 20px;
-}
-.row .row {
-  margin-top: 10px;
-  margin-bottom: 0;
-}
-[class*="col-"] {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.navbar-nav > li > a{
+  /* padding-top: 0px;
+  padding-bottom: 0px; */
 }
 
-hr {
-  margin-top: 40px;
-  margin-bottom: 40px;
+.navbar-default .navbar-nav .open .dropdown-menu>li>a, .navbar-default .navbar-nav .open .dropdown-menu {
+  /* background-color: #3344ff;
+  color:#ffffff; */
 }
